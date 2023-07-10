@@ -25,7 +25,9 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='projects/contextvae/thumb.png' alt="sym" width="300px"></div></div>
+## - 2023 -
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='projects/contextvae/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction**<br />
