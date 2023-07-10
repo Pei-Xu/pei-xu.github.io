@@ -9,7 +9,7 @@ author_profile: false
 # Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction
 Pei Xu<sup>1</sup>, Jean-Bernard Hayet<sup>2</sup>, Ioannis Karamouzas<sup>1,3</sup>
 
-<sup>1</sup> Clemson University <sup>2</sup> CIMAT <sup>3</sup> University of California, Riverside
+<sup>1</sup> Clemson University  <sup>2</sup> CIMAT  <sup>3</sup> University of California, Riverside
 
 
 ## Abstract
@@ -19,5 +19,11 @@ Real-time, accurate prediction of human steering behaviors has wide applications
 [[Paper]](https://arxiv.org/abs/2302.10873) [[Code]](https://github.com/xupei0610/contextvae)
 
 
-<iframe width="448" height="252" src="https://www.youtube.com/embed/wg6laeYpnW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Video
+<div width="448">
+<iframe width="448" height="252" src="https://www.youtube.com/embed/wg6laeYpnW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+## Bibtex
+
 
