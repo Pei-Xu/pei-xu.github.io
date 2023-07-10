@@ -28,10 +28,12 @@ I received my Ph.D. in computer science from Clemson University under the superv
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='projects/contextvae/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](https://arxiv.org/abs/2302.10873)
+[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](contextvae)
 
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
-IEEE Robotics and Automation Letters
-[[Project]](projects/contextvae/index.html) [[Paper]](https://arxiv.org/abs/2302.10873)  [[Video]](https://youtu.be/wg6laeYpnW8)
+
+_IEEE Robotics and Automation Letters_
+
+[[Project]](contextvae) [[Paper]](https://arxiv.org/abs/2302.10873)  [[Video]](https://youtu.be/wg6laeYpnW8)
 </div>
 </div>
