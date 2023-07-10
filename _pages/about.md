@@ -23,9 +23,9 @@ I am also interested in applying computer science techniques to other discipline
 I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MS from University of Minnesota at Twin Cities in electrical engineering.
 
 
-# 📝 Publications 
+# Publications 
 
-## - 2023 -
+## <del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2023 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='projects/contextvae/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
