@@ -126,7 +126,13 @@ h1:before, .anchor:before {
 
 .paper-list-title {
     font-weight: bold;
-    font-size: large
+    font-size: large;
+    a {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
 }
 
 .paper-link, .code-link, .video-link {
