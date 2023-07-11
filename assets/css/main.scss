@@ -134,6 +134,12 @@ h1:before, .anchor:before {
         text-decoration: underline;
     }
 }
+.paper-list-highlight {
+    color: rgb(244, 68, 3)
+}
+.paper-list-year {
+    margin-top: 10px
+}
 
 .paper-link, .code-link, .video-link {
     margin-right:10px;

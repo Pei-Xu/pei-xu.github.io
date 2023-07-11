@@ -25,7 +25,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 # Publications 
 
-## <del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2023 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del>
+## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2023 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <!-- <div class="badge">ICRA 2024</div> -->
@@ -67,7 +67,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 </div>
 
 
-## <del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2022 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del>
+## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2022 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +82,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 </div>
 
 
-## <del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2021 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del>
+## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2021 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,7 +123,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 </div>
 
 
-## <del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2019 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del>
+## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2019 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2019</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span><br />
@@ -137,4 +137,4 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 </div>
 </div>
 
-## <del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2017 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del>
+## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2017 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
