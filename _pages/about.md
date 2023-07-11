@@ -27,9 +27,11 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 ## <del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2023 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='projects/ContextVAE/thumb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">ICRA 2024</div> -->
+<img src='projects/ContextVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVae)</span><br />
+<span class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</span><br />
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas<br />
 _IEEE Robotics and Automation Letters_.
 
@@ -43,7 +45,7 @@ _IEEE Robotics and Automation Letters_.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span><br />
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas<br />
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="paper-list-highlight">Selected in technical paper trailer</span>.
 
 <a href="https://arxiv.org/abs/2305.03286" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/mcRAxwoTh3E" class="video-link" title="Video"></a>
@@ -86,7 +88,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</span>.<br />
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 <a href="https://arxiv.org/abs/2003.06959" class="paper-link" title="Paper"></a>
@@ -111,7 +113,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
-_PACM on Computer Graphics and Interactive Techniques_.<br />
+_PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article</span>.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
 <a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
@@ -126,10 +128,10 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.<br />
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
-<a href="https://arxiv.org/abs/2003.06959" class="paper-link" title="Paper"></a>
+<a href="https://dl.acm.org/doi/10.1145/3359566.3360071" class="paper-link" title="Paper"></a>
 <!-- <a href="" class="video-link" title="Video"></a> -->
 <!-- <a href="" class="code-link" title="Code"></a> -->
 </div>
