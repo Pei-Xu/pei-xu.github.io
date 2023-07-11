@@ -32,9 +32,9 @@ I received my Ph.D. in computer science from Clemson University under the superv
 <!-- <div class="badge">ICRA 2024</div> -->
 <img src='projects/ContextVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</span><br />
-**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas<br />
-_IEEE Robotics and Automation Letters_.
+<p class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</p>
+<p class="paper-list-authors">**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas</p>
+<p class="paper-list-venues">_IEEE Robotics and Automation Letters_.</p>
 
 <a href="https://arxiv.org/abs/2302.10873" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/wg6laeYpnW8" class="video-link" title="Video"></a>
@@ -46,9 +46,11 @@ _IEEE Robotics and Automation Letters_.
 <img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Composite Motion Learning with Task Control](https://github.com/xupei0610/CompositeMotion)</span><br />
-**Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas<br />
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.<br /><span class="paper-list-highlight">In technical paper trailer.</span>
+<p class="paper-list-title">[Composite Motion Learning with Task Control](https://github.com/xupei0610/CompositeMotion)</p>
+<p class="paper-list-authors">**Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas</p>
+<p class="paper-list-venues">
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="paper-list-highlight">In technical paper trailer.</span>
+</p>
 
 <a href="https://arxiv.org/abs/2305.03286" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/mcRAxwoTh3E" class="video-link" title="Video"></a>
@@ -58,10 +60,12 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.<br /><span class=
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2023</div><img src='projects/PolicyEval/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies</span><br />
-Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul Kry<br />
+<p class="paper-list-title">Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies</p>
+<p class="paper-list-authors">Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul Kry</p>
+<p class="paper-list-venues">
 _PACM on Computer Graphics and Interactive Techniques_.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
+</p>
 
 <!-- <a href="" class="paper-link" title="Paper"></a> -->
 <!-- <a href="" class="video-link" title="Video"></a> -->
@@ -74,9 +78,9 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](https://github.com/xupei0610/SocialVAE)</span><br />
-**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas<br />
-In _the 17th European Conference on Computer Vision_, 2022.
+<p class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](https://github.com/xupei0610/SocialVAE)</p>
+<p class="paper-list-authors">**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas</p>
+<p class="paper-list-venues">In _the 17th European Conference on Computer Vision_, 2022.</p>
 
 <a href="https://arxiv.org/abs/2203.08207" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/nXrreTmXktM" class="video-link" title="Video"></a>
@@ -89,10 +93,12 @@ In _the 17th European Conference on Computer Vision_, 2022.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](https://github.com/xupei0610/PFPN)</span><br />
-**Pei Xu**, Ioannis Karamouzas<br />
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</span><br />
+<p class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](https://github.com/xupei0610/PFPN)</p>
+<p class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</p>
+<p class="paper-list-venues">
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</p>
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
+</p>
 
 <a href="https://arxiv.org/abs/2003.06959" class="paper-link" title="Paper"></a>
 <a href="https://www.youtube.com/YTtdnq0WpWo" class="video-link" title="Video"></a>
@@ -102,9 +108,9 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='projects/KDMA/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](https://github.com/xupei0610/KDMA)</span><br />
-**Pei Xu**, Ioannis Karamouzas<br />
-In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
+<p class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](https://github.com/xupei0610/KDMA)</p>
+<p class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</p>
+<p class="paper-list-venues">In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.</p>
 
 <a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/tMctyEw8kRI" class="video-link" title="Video"></a>
@@ -114,14 +120,16 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2021</div><img src='projects/ICCGAN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](https://github.com/xupei0610/CompositeMotion)</span><br />
-**Pei Xu**, Ioannis Karamouzas<br />
+<p class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](https://github.com/xupei0610/CompositeMotion)</p>
+<p class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</p>
+<p class="paper-list-venues">
 _PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article.</span><br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
+</p>
 
 <a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/tMctyEw8kRI" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/KDMA" class="code-link" title="Code"></a>
+<a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
 </div>
 </div>
 
@@ -130,7 +138,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 - ``SPIE BiOS 2022`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11966/119660C/Automated-chondrocyte-viability-analysis-of-articular-cartilage-based-on-deep/10.1117/12.2609880.short), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye.
 
 
-## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> Early Work <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
+## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> Prior Work <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
 - ``MIG 2019`` [Low Dimensional Motor Skill Learning Using Coactivation](https://dl.acm.org/doi/10.1145/3359566.3360071), Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan.
 - [Gesture-based Human-robot Interaction for Field Programmable Autonomous Underwater Robots](https://arxiv.org/abs/1709.08945), **Pei Xu**, 2017.
 - [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296"), **Pei Xu**, 2017. <a href="https://youtu.be/4n9F7iJJ2TY" class="video-link" title="Video"></a>
