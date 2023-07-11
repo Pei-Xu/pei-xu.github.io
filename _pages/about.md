@@ -46,7 +46,7 @@ _IEEE Robotics and Automation Letters_.
 <img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span><br />
+<span class="paper-list-title">[Composite Motion Learning with Task Control](https://github.com/xupei0610/CompositeMotion)</span><br />
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas<br />
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.<br /><span class="paper-list-highlight">In technical paper trailer.</span>
 
@@ -58,7 +58,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.<br /><span class=
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2023</div><img src='projects/PolicyEval/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies](PolicyEval)</span><br />
+<span class="paper-list-title">Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies</span><br />
 Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul Kry<br />
 _PACM on Computer Graphics and Interactive Techniques_.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
@@ -74,7 +74,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](SocialVAE)</span><br />
+<span class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](https://github.com/xupei0610/SocialVAE)</span><br />
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas<br />
 In _the 17th European Conference on Computer Vision_, 2022.
 
@@ -89,7 +89,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span><br />
+<span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](https://github.com/xupei0610/PFPN)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
 In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</span><br />
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
@@ -102,7 +102,7 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='projects/KDMA/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](KDMA)</span><br />
+<span class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](https://github.com/xupei0610/KDMA)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
 In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
@@ -114,7 +114,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2021</div><img src='projects/ICCGAN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)</span><br />
+<span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](https://github.com/xupei0610/CompositeMotion)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
 _PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article.</span><br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
