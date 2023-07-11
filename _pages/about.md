@@ -16,8 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<p></p>
-<p></p>
+<p>&nbsp;</p>
 I will work as a research assistant professor at Clemson University since August. My research interests includes artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physically-based character control and agent navigation.
 I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science.
 
@@ -32,9 +31,9 @@ I received my Ph.D. in computer science from Clemson University under the superv
 <!-- <div class="badge">ICRA 2024</div> -->
 <img src='projects/ContextVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<p class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</p>
-<p class="paper-list-authors">**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas</p>
-<p class="paper-list-venues">_IEEE Robotics and Automation Letters_.</p>
+<div class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</div>
+<div class="paper-list-authors">**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas</div>
+<div class="paper-list-venues">_IEEE Robotics and Automation Letters_.</div>
 
 <a href="https://arxiv.org/abs/2302.10873" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/wg6laeYpnW8" class="video-link" title="Video"></a>
@@ -46,11 +45,11 @@ I received my Ph.D. in computer science from Clemson University under the superv
 <img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-<p class="paper-list-title">[Composite Motion Learning with Task Control](https://github.com/xupei0610/CompositeMotion)</p>
-<p class="paper-list-authors">**Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas</p>
-<p class="paper-list-venues">
+<div class="paper-list-title">[Composite Motion Learning with Task Control](https://github.com/xupei0610/CompositeMotion)</div>
+<div class="paper-list-authors">**Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas</div>
+<div class="paper-list-venues">
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="paper-list-highlight">In technical paper trailer.</span>
-</p>
+</div>
 
 <a href="https://arxiv.org/abs/2305.03286" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/mcRAxwoTh3E" class="video-link" title="Video"></a>
@@ -60,12 +59,12 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="pape
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2023</div><img src='projects/PolicyEval/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<p class="paper-list-title">Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies</p>
-<p class="paper-list-authors">Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul Kry</p>
-<p class="paper-list-venues">
+<div class="paper-list-title">Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies</div>
+<div class="paper-list-authors">Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul Kry</div>
+<div class="paper-list-venues">
 _PACM on Computer Graphics and Interactive Techniques_.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
-</p>
+</div>
 
 <!-- <a href="" class="paper-link" title="Paper"></a> -->
 <!-- <a href="" class="video-link" title="Video"></a> -->
@@ -78,9 +77,9 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<p class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](https://github.com/xupei0610/SocialVAE)</p>
-<p class="paper-list-authors">**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas</p>
-<p class="paper-list-venues">In _the 17th European Conference on Computer Vision_, 2022.</p>
+<div class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](https://github.com/xupei0610/SocialVAE)</div>
+<div class="paper-list-authors">**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas</div>
+<div class="paper-list-venues">In _the 17th European Conference on Computer Vision_, 2022.</div>
 
 <a href="https://arxiv.org/abs/2203.08207" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/nXrreTmXktM" class="video-link" title="Video"></a>
@@ -93,12 +92,12 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<p class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](https://github.com/xupei0610/PFPN)</p>
-<p class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</p>
-<p class="paper-list-venues">
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</p>
+<div class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](https://github.com/xupei0610/PFPN)</div>
+<div class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</div>
+<div class="paper-list-venues">
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.<br />
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
-</p>
+</div>
 
 <a href="https://arxiv.org/abs/2003.06959" class="paper-link" title="Paper"></a>
 <a href="https://www.youtube.com/YTtdnq0WpWo" class="video-link" title="Video"></a>
@@ -108,9 +107,9 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='projects/KDMA/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<p class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](https://github.com/xupei0610/KDMA)</p>
-<p class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</p>
-<p class="paper-list-venues">In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.</p>
+<div class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](https://github.com/xupei0610/KDMA)</div>
+<div class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</div>
+<div class="paper-list-venues">In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.</div>
 
 <a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/tMctyEw8kRI" class="video-link" title="Video"></a>
@@ -120,12 +119,12 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2021</div><img src='projects/ICCGAN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<p class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](https://github.com/xupei0610/CompositeMotion)</p>
-<p class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</p>
-<p class="paper-list-venues">
+<div class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](https://github.com/xupei0610/CompositeMotion)</div>
+<div class="paper-list-authors">**Pei Xu**, Ioannis Karamouzas</div>
+<div class="paper-list-venues">
 _PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article.</span><br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
-</p>
+</div>
 
 <a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/tMctyEw8kRI" class="video-link" title="Video"></a>
