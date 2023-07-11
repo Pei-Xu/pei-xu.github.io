@@ -68,6 +68,9 @@
         p {
             margin: 0 0 5px 0
         }
+        p:last-child {
+            margin: 10px 0 0 0
+        }
     }
     
     @include breakpoint($medium) {
