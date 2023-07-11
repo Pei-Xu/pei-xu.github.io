@@ -16,11 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+<p></p>
+<p></p>
 I will work as a research assistant professor at Clemson University since August. My research interests includes artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physically-based character control and agent navigation.
 I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science.
 
-I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MS from University of Minnesota at Twin Cities in electrical engineering.
+I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MS in electrical engineering from University of Minnesota at Twin Cities.
 
 
 # Publications 
@@ -42,7 +43,8 @@ _IEEE Robotics and Automation Letters_.
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023</div>
-<a href="ContextVAE"><img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%"></a></div></div>
+<img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%">
+</div></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span><br />
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas<br />
