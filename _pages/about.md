@@ -124,12 +124,11 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
 
 ## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2019 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2019</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2019</div><img src='projects/LowDim/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span><br />
-**Pei Xu**, Ioannis Karamouzas<br />
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.<br />
-Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
+<span class="paper-list-title">Low Dimensional Motor Skill Learning Using Coactivation</span><br />
+Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan<br />
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2019.<br />
 
 <a href="https://dl.acm.org/doi/10.1145/3359566.3360071" class="paper-link" title="Paper"></a>
 <!-- <a href="" class="video-link" title="Video"></a> -->
