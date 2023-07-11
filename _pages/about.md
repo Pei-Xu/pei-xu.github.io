@@ -41,11 +41,12 @@ _IEEE Robotics and Automation Letters_.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023</div><img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023</div>
+<a href="ContextVAE"><img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span><br />
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas<br />
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="paper-list-highlight">Selected in technical paper trailer</span>.
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.<br /><span class="paper-list-highlight">Selected in technical paper trailer</span>.
 
 <a href="https://arxiv.org/abs/2305.03286" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/mcRAxwoTh3E" class="video-link" title="Video"></a>
@@ -88,7 +89,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</span>.<br />
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</span><br />
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 <a href="https://arxiv.org/abs/2003.06959" class="paper-link" title="Paper"></a>
