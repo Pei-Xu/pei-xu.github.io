@@ -148,13 +148,19 @@ h1:before, .anchor:before {
     color: rgb(244, 68, 3)
 }
 
+.paper-list-year {
+    display: inline-block;
+    padding-top: 20px
+}
 .paper-list-year:before {
-    content: "    ";
-    text-decoration: line-through
+    content: "\00a0\00a0\00a0\00a0";
+    text-decoration: line-through;
+    padding-right: 10px
 }
 .paper-list-year:after {
-    content: "    ";
-    text-decoration: line-through
+    content: "\00a0\00a0\00a0\00a0";
+    text-decoration: line-through;
+    padding-left: 10px
 }
 
 .paper-link, .code-link, .video-link {
