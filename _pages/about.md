@@ -134,6 +134,3 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 - ``MIG 2019`` [Low Dimensional Motor Skill Learning Using Coactivation](https://dl.acm.org/doi/10.1145/3359566.3360071), Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan.
 - [Gesture-based Human-robot Interaction for Field Programmable Autonomous Underwater Robots](https://arxiv.org/abs/1709.08945), **Pei Xu**, 2017.
 - [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296"), **Pei Xu**, 2017. <a href="https://youtu.be/4n9F7iJJ2TY" class="video-link" title="Video"></a>
-<!-- <a href="" class="code-link" title="Code"></a> -->
-</div>
-</div>
