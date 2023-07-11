@@ -46,7 +46,7 @@ _IEEE Robotics and Automation Letters_.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span><br />
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas<br />
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.<br /><span class="paper-list-highlight">Selected in technical paper trailer</span>.
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_.<br /><span class="paper-list-highlight">In technical paper trailer.</span>
 
 <a href="https://arxiv.org/abs/2305.03286" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/mcRAxwoTh3E" class="video-link" title="Video"></a>
@@ -114,7 +114,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)</span><br />
 **Pei Xu**, Ioannis Karamouzas<br />
-_PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article</span>.<br />
+_PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article.</span><br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
 <a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
