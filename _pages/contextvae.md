@@ -27,7 +27,8 @@ In _IEEE Robotics and Automation Letters_
 Real-time, accurate prediction of human steering behaviors has wide applications, from developing intelligent traffic systems to deploying autonomous driving systems in both real and simulated worlds. In this paper, we present ContextVAE, a context-aware approach for multi-modal vehicle trajectory prediction. Built upon the backbone architecture of a timewise variational autoencoder, ContextVAE observation encoding employs a dual attention mechanism that accounts for the environmental context and the dynamic agents' states, in a unified way. By utilizing features extracted from semantic maps during agent state encoding, our approach takes into account both the social features exhibited by agents on the scene and the physical environment constraints to generate map-compliant and socially-aware trajectories. We perform extensive testing on the nuScenes prediction challenge, Lyft Level 5 dataset and Waymo Open Motion Dataset to show the effectiveness of our approach and its state-of-the-art performance. In all tested datasets, ContextVAE models are fast to train and provide high-quality multi-modal predictions in real-time.
 
 
-[[Paper]](https://arxiv.org/abs/2302.10873) [[Code]](https://github.com/xupei0610/contextvae)
+<a class="paper-link" href="https://arxiv.org/abs/2302.10873">Paper</a>
+<a class="code-link" href="https://github.com/xupei0610/contextvae">Code</a>
 
 <div class="m10"></div>
 ## Video
