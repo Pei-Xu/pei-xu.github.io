@@ -47,7 +47,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #ddd solid;
-    padding: 2em 0 2em 0;
+    padding: 1.5em 0 1.5em 0;
     
 
     .paper-box-image{
@@ -71,6 +71,9 @@
         }
         p:nth-child(4) {
             margin: 10px 0 0 0
+        }
+        p:last-child {
+            margin-bottom: 10px
         }
     }
     
@@ -144,8 +147,14 @@ h1:before, .anchor:before {
 .paper-list-highlight {
     color: rgb(244, 68, 3)
 }
-.paper-list-year {
-    margin-top: 10px
+
+.paper-list-year:before {
+    content: "    ";
+    text-decoration: line-through
+}
+.paper-list-year:after {
+    content: "    ";
+    text-decoration: line-through
 }
 
 .paper-link, .code-link, .video-link {

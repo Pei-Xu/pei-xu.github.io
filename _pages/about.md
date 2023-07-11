@@ -26,7 +26,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 # Publications 
 
-## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2023 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
+## <span class="paper-list-year">2023</span>
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <!-- <div class="badge">ICRA 2024</div> -->
@@ -76,7 +76,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 </div>
 
 
-## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2022 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
+## <span class="paper-list-year">2022</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,7 +93,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 </div>
 
 
-## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> 2021 <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
+## <span class="paper-list-year">2021</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,12 +139,12 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 </div>
 </div>
 
-## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> Bioengineering & Biomedical Engineering <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
+## <span class="paper-list-year">Bioengineering & Biomedical Engineering</span>
 - [Measuring Chondrocyte Viability of Articular Cartilage based on Label-Free Two-Photon Microscopy and Deep Learning Image Analysis](), Hongming Fan, **Pei Xu**, Xun Chen, Yang Li, Jennifer Hsu, Michael Le, Zhao Zhang, Emily Ye, Bruce Gao, Tong Ye, 2023
 - ``SPIE BiOS 2022`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11966/119660C/Automated-chondrocyte-viability-analysis-of-articular-cartilage-based-on-deep/10.1117/12.2609880.short), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye.
 
 
-## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> Prior Work <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
+## <span class="paper-list-year">Prior Work</span>
 - ``MIG 2019`` [Low Dimensional Motor Skill Learning Using Coactivation](https://dl.acm.org/doi/10.1145/3359566.3360071), Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan.
 - [Gesture-based Human-robot Interaction for Field Programmable Autonomous Underwater Robots](https://arxiv.org/abs/1709.08945), **Pei Xu**, 2017.
 - [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296"), **Pei Xu**, 2017. <a href="https://youtu.be/4n9F7iJJ2TY" class="video-link" title="Video"></a>
