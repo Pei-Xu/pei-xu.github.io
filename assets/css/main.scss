@@ -116,10 +116,8 @@ h1:before, .anchor:before {
 .bibtex {
     background-color: #ddd;
     padding: 1rem;
-    pre {
-        font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-        overflow: auto;
-    }
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    overflow: auto;
 }
 
 .m10 {
@@ -131,11 +129,22 @@ h1:before, .anchor:before {
     font-size: large
 }
 
-.paper-link {
+.paper-link, .code-link, .video-link {
     margin-right:10px;
-    background-image: url(assets/icons/outline_picture_as_pdf_black_18dp.png)
+    background-size: 28px;
+    background-repeat: no-repeat;
+    padding: 6px 14px
+}
+.paper-link:hover, .code-link:hover, .video-link:hover {
+    background-size: 30px;
 }
 
+.paper-link {
+    background-image: url(icons/outline_description_black_18dp.png);
+}
 .code-link {
-    margin-right:10px
+    background-image: url(icons/outline_extension_black_18dp.png);
+}
+.video-link {
+    background-image: url(icons/outline_smart_display_black_18dp.png);
 }
