@@ -15,14 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-<p></p>
-<p></p>
+<div class='anchor' id='about-me'>
+
 I will work as a research assistant professor at Clemson University since August. My research interests includes artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physically-based character control and agent navigation.
 I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science.
 
 I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MS in electrical engineering from University of Minnesota at Twin Cities.
-
+</div>
 
 # Publications 
 
