@@ -34,6 +34,8 @@ I received my Ph.D. in computer science from Clemson University under the superv
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas<br />
 In _IEEE Robotics and Automation Letters_.
 
-[[Project](contextvae)] [[Paper](https://arxiv.org/abs/2302.10873)]  [[Video](https://youtu.be/wg6laeYpnW8)]
+[[Project](contextvae)]
+<a href="https://arxiv.org/abs/2302.10873" class="paper-link">Paper</a>
+<a href="https://youtu.be/wg6laeYpnW8" class="video-link">Video</a>
 </div>
 </div>
