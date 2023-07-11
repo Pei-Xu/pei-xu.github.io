@@ -144,7 +144,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 - ``SPIE BiOS 2022`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11966/119660C/Automated-chondrocyte-viability-analysis-of-articular-cartilage-based-on-deep/10.1117/12.2609880.short), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye.
 
 
-## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> Early Work <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
+## <span class="paper-list-year"><del>&nbsp;&nbsp;&nbsp;&nbsp;</del> Prior Work <del>&nbsp;&nbsp;&nbsp;&nbsp;</del></span>
 - ``MIG 2019`` [Low Dimensional Motor Skill Learning Using Coactivation](https://dl.acm.org/doi/10.1145/3359566.3360071), Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan.
 - [Gesture-based Human-robot Interaction for Field Programmable Autonomous Underwater Robots](https://arxiv.org/abs/1709.08945), **Pei Xu**, 2017.
 - [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296"), **Pei Xu**, 2017. <a href="https://youtu.be/4n9F7iJJ2TY" class="video-link" title="Video"></a>
