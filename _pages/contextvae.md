@@ -1,8 +1,10 @@
 ---
-permalink: /contextvae
+permalink: /ContextVAE
 title: "Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction"
 excerpt: ""
 author_profile: false
+redirect_from: 
+ - /contextvae
 --- 
 
 
