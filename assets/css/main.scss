@@ -66,9 +66,10 @@
         max-width: 100%;
         order: 1;
         p {
-            margin: 0 0 2px 0
+            margin: 0 0 5px 0;
+            line-height: 1.2;
         }
-        p:last-child {
+        p:nth-child(3) {
             margin: 10px 0 0 0
         }
     }
