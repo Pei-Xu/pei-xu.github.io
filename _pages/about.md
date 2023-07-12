@@ -21,7 +21,7 @@ redirect_from:
 <p>I will work as a research assistant professor at Clemson University since August. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physically-based character control and agent navigation.
 I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science. </p>
 
-I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MSci in electrical engineering from University of Minnesota at Twin Cities.
+<p>I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MSci in electrical engineering from University of Minnesota at Twin Cities.</p>
 
 </div>
 
