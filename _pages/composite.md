@@ -20,9 +20,9 @@ Pei Xu<sup>1, 2</sup>, Xiumin Shang<sup>3</sup>, Victor Zordan<sup>2</sup>, Ioan
 <sup>1</sup> Clemson University,  <sup>2</sup> Roblox,  <sup>2</sup> University of California, Merced,  <sup>4</sup> University of California, Riverside
 </p>
 
-
 In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_
 
+<div class="m10"></div>
 <div class="teaser">
 <p><img src="projects/CompositeMotion/teaser_tennis.png" /></p>
 <p><img src="projects/CompositeMotion/teaser_juggling.png" /></p>

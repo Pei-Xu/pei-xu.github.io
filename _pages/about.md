@@ -134,8 +134,8 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 _PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article.</span><br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
-<a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/tMctyEw8kRI" class="video-link" title="Video"></a>
+<a href="https://arxiv.org/abs/2105.10066" class="paper-link" title="Paper"></a>
+<a href="https://youtu.be/VHMyvDD3B_o" class="video-link" title="Video"></a>
 <a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
 </div>
 </div>
