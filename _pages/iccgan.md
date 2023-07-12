@@ -43,15 +43,16 @@ We present a simple and intuitive approach for interactive control of physically
 <div class="m10"></div>
 ## Bibtex
 <pre class="bibtex">
-@article{composite,
-    author = {Xu, Pei and Shang, Xiumin and Zordan, Victor and Karamouzas, Ioannis},
-    title = {Composite Motion Learning with Task Control},
-    journal = {ACM Transactions on Graphics},
+@article{iccgan,
+    author = {Xu, Pei and Karamouzas, Ioannis},
+    title = {A {GAN}-Like Approach for Physics-Based Imitation Learning and Interactive Character Control},
+    journal = {Proceedings of the ACM on Computer Graphics and Interactive Techniques},
     publisher = {ACM New York, NY, USA},
-    year = {2023},
-    volume = {42},
-    number = {4},
-    doi = {10.1145/3592447}
+    year = {2021},
+    volume = {4},
+    number = {3},
+    pages = {1--22},
+    doi = {10.1145/3480148}
 }
 </pre>
 
