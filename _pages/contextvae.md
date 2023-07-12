@@ -22,7 +22,7 @@ Pei Xu<sup>1</sup>, Jean-Bernard Hayet<sup>2</sup>, Ioannis Karamouzas<sup>1,3</
 In _IEEE Robotics and Automation Letters_
 
 <div class="teaser">
-<img src="projects/ContextVAE/teaser.png" />
+<p><img src="projects/ContextVAE/teaser.png" /></p>
 </div>
 
 <div class="m10"></div>

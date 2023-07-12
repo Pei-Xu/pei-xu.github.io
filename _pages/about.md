@@ -18,10 +18,10 @@ redirect_from:
 <div class="m20"></div>
 <div class='anchor' id='about-me'>
 
-I will work as a research assistant professor at Clemson University since August. My research interests includes artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physically-based character control and agent navigation.
-I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science.
+<p>I will work as a research assistant professor at Clemson University since August. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physically-based character control and agent navigation.
+I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science. </p>
 
-I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MS in electrical engineering from University of Minnesota at Twin Cities.
+I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an MSci in electrical engineering from University of Minnesota at Twin Cities.
 
 </div>
 
@@ -49,7 +49,7 @@ _IEEE Robotics and Automation Letters_.
 <img src='projects/CompositeMotion/thumb.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Composite Motion Learning with Task Control](https://github.com/xupei0610/CompositeMotion)</span>
+<span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span>
 
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas
 
@@ -127,7 +127,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2021</div><img src='projects/ICCGAN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](https://github.com/xupei0610/CompositeMotion)</span>
+<span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)</span>
 
 **Pei Xu**, Ioannis Karamouzas
 
@@ -136,7 +136,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
 <a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/tMctyEw8kRI" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/KDMA" class="code-link" title="Code"></a>
+<a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
 </div>
 </div>
 
