@@ -15,3 +15,5 @@ author_profile: true
 <div class="m20"></div>
 
 Please check my recent publications to find my contact email. Thanks.
+
+[< Back](/)
