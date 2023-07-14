@@ -123,9 +123,9 @@
       {% if author.uri %}
         <a target="_blank" href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.email %}
-        <a target="_blank" href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
-      {% endif %}
+      <!-- {% if author.email %} -->
+        <a target="_blank" href="email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      <!-- {% endif %} -->
       {% if author.keybase %}
         <a target="_blank" href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
       {% endif %}
