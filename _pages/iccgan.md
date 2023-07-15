@@ -23,6 +23,8 @@ In _PACM on Computer Graphics and Interactive Techniques (Proceedings of ACM SIG
 <div class="m10"></div>
 <div class="teaser">
 <p><img src="projects/ICCGAN/teaser_fight.png" /></p>
+<p><img src="projects/ICCGAN/teaser_jump.png" /></p>
+<p><img src="projects/ICCGAN/teaser_recover.png" /></p>
 </div>
 
 <div class="m10"></div>
