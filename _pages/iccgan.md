@@ -8,7 +8,7 @@ redirect_from:
 --- 
 
 
-# Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction
+# A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control
 
 <p class="author">
 Pei Xu<sup>1</sup>, Ioannis Karamouzas<sup>1</sup>
@@ -18,7 +18,7 @@ Pei Xu<sup>1</sup>, Ioannis Karamouzas<sup>1</sup>
 <sup>1</sup> Clemson University
 </p>
 
-In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_
+In _PACM on Computer Graphics and Interactive Techniques (Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2023)_
 
 <div class="m10"></div>
 <div class="teaser">

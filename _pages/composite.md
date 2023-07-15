@@ -10,7 +10,7 @@ redirect_from:
 --- 
 
 
-# Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction
+# Composite Motion Learning with Task Control
 
 <p class="author">
 Pei Xu<sup>1, 2</sup>, Xiumin Shang<sup>3</sup>, Victor Zordan<sup>2</sup>, Ioannis Karamouzas<sup>1,4</sup>
