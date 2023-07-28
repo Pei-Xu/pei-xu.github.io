@@ -37,7 +37,7 @@ I am also interested in applying computer science techniques to other discipline
 
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
 
-_IEEE Robotics and Automation Letters_.
+_IEEE Robotics and Automation Letters_.<br />
 Also going to appear in _IEEE International Conference on Robotics and Automation_, 2024.
 
 <a href="https://arxiv.org/abs/2302.10873" class="paper-link" title="Paper"></a>
