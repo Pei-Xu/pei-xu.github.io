@@ -48,8 +48,12 @@ Real-time, accurate prediction of human steering behaviors has wide applications
 @article{contextvae2023,
   title={Context-Aware Timewise {VAE}s for Real-Time Vehicle Trajectory Prediction},
   author={Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis},
-  journal={arXiv preprint arXiv:2302.10873},
-  year={2023}
+  journal={IEEE Robotics and Automation Letters},
+  year={2023},
+  volume={8},
+  number={9},
+  pages={5440-5447},
+  doi={10.1109/LRA.2023.3295990}
 }
 </pre>
 
