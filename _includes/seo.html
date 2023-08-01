@@ -13,7 +13,7 @@
 <title>{{ site.title }} - {{ page_title }}</title>
 {% else %}
 <title>{{ site.title }}</title>
-{% end if %}
+{% endif %}
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
