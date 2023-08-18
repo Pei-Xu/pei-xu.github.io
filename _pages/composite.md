@@ -46,6 +46,10 @@ We present a deep learning method for composite and task-driven motion control f
 </div>
 
 <div class="m10"></div>
+## Poster
+<img src="projects/CompositeMotion/poster.png" style="float:right;max-width:100%" />
+
+<div class="m10"></div>
 ## Bibtex
 <pre class="bibtex">
 @article{composite,
@@ -59,4 +63,6 @@ We present a deep learning method for composite and task-driven motion control f
     doi = {10.1145/3592447}
 }
 </pre>
+
+
 
