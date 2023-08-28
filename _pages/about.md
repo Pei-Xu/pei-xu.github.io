@@ -140,11 +140,11 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 </div>
 
 ## <span class="paper-list-year">Bioengineering & Biomedical Engineering</span>
-- [Measuring Chondrocyte Viability of Articular Cartilage based on Label-Free Two-Photon Microscopy and Deep Learning Image Analysis](), Hongming Fan, **Pei Xu**, Xun Chen, Yang Li, Jennifer Hsu, Michael Le, Zhao Zhang, Emily Ye, Bruce Gao, Tong Ye, 2023
+- [Measuring Chondrocyte Viability of Articular Cartilage based on Label-Free Two-Photon Microscopy and Deep Learning Image Analysis](https://www.biorxiv.org/content/10.1101/2023.02.13.527931v1), Hongming Fan, **Pei Xu**, Xun Chen, Yang Li, Jennifer Hsu, Michael Le, Zhao Zhang, Emily Ye, Bruce Gao, Tong Ye, 2023
 - ``SPIE BiOS 2022`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11966/119660C/Automated-chondrocyte-viability-analysis-of-articular-cartilage-based-on-deep/10.1117/12.2609880.short), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye.
 
 
 ## <span class="paper-list-year">Prior Work</span>
 - ``MIG 2019`` [Low Dimensional Motor Skill Learning Using Coactivation](https://dl.acm.org/doi/10.1145/3359566.3360071), Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan. <a href="https://www.youtube.com/watch?v=8U8YsmiANNA&ab_channel=HubertP.H.Shum" class="video-link" title="Video"></a>
 - [Gesture-based Human-robot Interaction for Field Programmable Autonomous Underwater Robots](https://arxiv.org/abs/1709.08945), **Pei Xu**, 2017.
-- [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296"), **Pei Xu**, 2017. <a href="https://youtu.be/4n9F7iJJ2TY" class="video-link" title="Video"></a>
+- [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296), **Pei Xu**, 2017. <a href="https://youtu.be/4n9F7iJJ2TY" class="video-link" title="Video"></a>
