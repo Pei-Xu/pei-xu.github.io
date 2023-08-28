@@ -71,7 +71,7 @@ Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul Kry
 _PACM on Computer Graphics and Interactive Techniques_.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
-<a href="" class="paper-link" title="Paper">https://dl.acm.org/doi/10.1145/3606935</a>
+<a href="https://dl.acm.org/doi/10.1145/3606935" class="paper-link" title="Paper"></a>
 </div>
 </div>
 
@@ -97,7 +97,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](https://github.com/xupei0610/PFPN)</span>
+<span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span>
 
 **Pei Xu**, Ioannis Karamouzas
 
