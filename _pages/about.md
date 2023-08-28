@@ -54,7 +54,7 @@ Also going to appear in _IEEE International Conference on Robotics and Automatio
 
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas
 
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="paper-list-highlight">In technical paper trailer.</span>
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="paper-list-highlight">In technical papers trailer.</span>
 
 <a href="https://arxiv.org/abs/2305.03286" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/mcRAxwoTh3E" class="video-link" title="Video"></a>
