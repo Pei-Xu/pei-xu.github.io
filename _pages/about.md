@@ -80,7 +80,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](https://github.com/xupei0610/SocialVAE)</span>
+<span class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](SocialVAE)</span>
 
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
 
