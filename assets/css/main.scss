@@ -122,6 +122,9 @@ h1:before, .anchor:before {
 .teaser {
     max-width:100%;
     text-align:center;
+    img {
+        background-color: white;
+    }
 }
 
 .abstract {
