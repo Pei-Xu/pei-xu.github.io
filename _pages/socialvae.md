@@ -24,13 +24,7 @@ Also _NeurIPS Deep Reinforcement Learning Workshop_, 2021.
 
 <div class="m10"></div>
 <div class="teaser">
-
-| Predictions | Heatmap | Attention |
-|-------------|---------|-----------|
-| ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_1.png) | ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_1_heatmap.png) | ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_1_att.png) |
-| ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_2.png) | ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_2_heatmap.png) | ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_2_att.png) |
-| ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_3.png) | ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_3_heatmap.png) | ![](https://github.com/xupei0610/SocialVAE/gallery/scenario_nba_3_att.png) |
-
+<p><img src="projects/SocialVAE/teaser.png" /></p>
 </div>
 
 <div class="m10"></div>
