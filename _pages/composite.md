@@ -5,8 +5,10 @@ excerpt: ""
 author_profile: false
 redirect_from: 
  - /compositemotion
+ - /COMPOSITEMOTION
  - /composite
  - /Composite
+ - /COMPOSITE
 --- 
 
 
