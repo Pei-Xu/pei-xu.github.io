@@ -47,7 +47,7 @@ We present a deep learning method for composite and task-driven motion control f
 
 <div class="m10"></div>
 ## Poster
-<img src="projects/CompositeMotion/poster.png" style="width:560px;max-width:100%">
+<a href="projects/CompositeMotion/poster.pdf"><img src="projects/CompositeMotion/poster.png" style="width:560px;max-width:100%"></a>
 
 <div class="m10"></div>
 ## Bibtex
