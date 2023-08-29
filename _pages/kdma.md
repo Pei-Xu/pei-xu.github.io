@@ -32,28 +32,28 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_ref.gif"><img src="projects/KDMA/c6_ref.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_ours.gif"><img src="projects/KDMA/c6_ours.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_rl.gif"><img src="projects/KDMA/c6_rl.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_orca.gif"><img src="projects/KDMA/c6_orca.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_ref.gif"><img src="projects/KDMA/c6_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_ours.gif"><img src="projects/KDMA/c6_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_rl.gif"><img src="projects/KDMA/c6_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_orca.gif"><img src="projects/KDMA/c6_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_ref.gif"><img src="projects/KDMA/c12_1_ref.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_ours.gif"><img src="projects/KDMA/c12_1_ours.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_rl.gif"><img src="projects/KDMA/c12_1_rl.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_orca.gif"><img src="projects/KDMA/c12_1_orca.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_ref.gif"><img src="projects/KDMA/c12_1_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_ours.gif"><img src="projects/KDMA/c12_1_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_rl.gif"><img src="projects/KDMA/c12_1_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_orca.gif"><img src="projects/KDMA/c12_1_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_ref.gif"><img src="projects/KDMA/c24_3_ref.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_ours.gif"><img src="projects/KDMA/c24_3_ours.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_rl.gif"><img src="projects/KDMA/c24_3_rl.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_orca.gif"><img src="projects/KDMA/c24_3_orca.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_ref.gif"><img src="projects/KDMA/c24_3_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_ours.gif"><img src="projects/KDMA/c24_3_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_rl.gif"><img src="projects/KDMA/c24_3_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_orca.gif"><img src="projects/KDMA/c24_3_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_ref.gif"><img src="projects/KDMA/c24_4_ref.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_ours.gif"><img src="projects/KDMA/c24_4_ours.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_rl.gif"><img src="projects/KDMA/c24_4_rl.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_orca.gif"><img src="projects/KDMA/c24_4_orca.gif" alt="" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_ref.gif"><img src="projects/KDMA/c24_4_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_ours.gif"><img src="projects/KDMA/c24_4_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_rl.gif"><img src="projects/KDMA/c24_4_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_orca.gif"><img src="projects/KDMA/c24_4_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
