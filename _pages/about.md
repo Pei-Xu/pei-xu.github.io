@@ -112,7 +112,7 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='projects/KDMA/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](https://github.com/xupei0610/KDMA)</span>
+<span class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](KDMA)</span>
 
 **Pei Xu**, Ioannis Karamouzas
 
