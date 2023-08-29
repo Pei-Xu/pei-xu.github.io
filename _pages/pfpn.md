@@ -61,7 +61,6 @@ Data-driven methods for physics-based character control using reinforcement lear
     isbn = {9781450391313},
     publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3487983.3488301},
     doi = {10.1145/3487983.3488301},
     booktitle = {Motion, Interaction and Games},
     articleno = {7},

@@ -1,6 +1,6 @@
 ---
 permalink: /SocialVAE
-title: "PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network"
+title: "SocialVAE: Human Trajectory Prediction using Timewise Latents"
 excerpt: ""
 author_profile: false
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 --- 
 
 
-# PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network
+# SocialVAE: Human Trajectory Prediction using Timewise Latents
 
 <p class="author">
 Pei Xu<sup>1</sup>, Ioannis Karamouzas<sup>1</sup>
@@ -59,6 +59,8 @@ Predicting pedestrian movement is critical for human behavior analysis and also 
     title={SocialVAE: Human Trajectory Prediction using Timewise Latents},
     booktitle={European Conference on Computer Vision},
     pages={511-528},
-    year={2022}
+    year={2022},
+    organization={Springer},
+    doi={10.1007/978-3-031-19772-7_30}
 }
 </pre>
