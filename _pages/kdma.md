@@ -24,10 +24,10 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 <table>
 <thead>
 <tr>
-<th>Reference</th>
-<th>Ours</th>
-<th>RL w/o KD</th>
-<th>ORCA</th>
+<th style="text-align:center">Reference</th>
+<th style="text-align:center">Ours</th>
+<th style="text-align:center">RL w/o KD</th>
+<th style="text-align:center">ORCA</th>
 </tr>
 </thead>
 <tbody>
