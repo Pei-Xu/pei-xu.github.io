@@ -18,7 +18,7 @@ Pei Xu<sup>1</sup>, Ioannis Karamouzas<sup>1</sup>
 <sup>1</sup> Clemson University
 </p>
 
-In _PACM on Computer Graphics and Interactive Techniques_<br />_(Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2023)_
+In _PACM on Computer Graphics and Interactive Techniques_<br />_(Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2021)_
 
 <div class="m10"></div>
 <div class="teaser">

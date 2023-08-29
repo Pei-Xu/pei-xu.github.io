@@ -64,7 +64,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="pape
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2023</div><img src='projects/PolicyEval/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies](https://dl.acm.org/doi/10.1145/3606935)</span>
+<span class="paper-list-title">[Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies](PolicyEval)</span>
 
 Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul Kry
 
