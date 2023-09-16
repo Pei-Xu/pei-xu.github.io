@@ -24,6 +24,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 <div class="m10"></div>
 <div class="teaser">
 <p><img src="projects/SocialVAE/teaser.png" /></p>
+<p><img src="projects/SocialVAE/overview.png" /></p>
 </div>
 
 <div class="m10"></div>
