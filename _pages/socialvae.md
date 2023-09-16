@@ -24,12 +24,14 @@ In _the 17th European Conference on Computer Vision_, 2022.
 <div class="m10"></div>
 <div class="teaser">
 <p><img src="projects/SocialVAE/teaser.png" /></p>
+<div class="m10"></div>
 <p><img src="projects/SocialVAE/overview.png" /></p>
 </div>
 
 <div class="m10"></div>
 ## Abstract
 <div class="abstract">
+<img src="projects/SocialVAE/ECCV-logo3.png" style="width:200px;float:right;max-width:100%;padding:0 20px 10px 20px" />
 Predicting pedestrian movement is critical for human behavior analysis and also for safe and efficient human-agent interactions. However, despite significant advancements, it is still challenging for existing approaches to capture the uncertainty and multimodality of human navigation decision making. In this paper, we propose SocialVAE, a novel approach for human trajectory prediction. The core of SocialVAE is a timewise variational autoencoder architecture that exploits stochastic recurrent neural networks to perform prediction, combined with a social attention mechanism and backward posterior approximation to allow for better extraction of pedestrian navigation strategies. We show that SocialVAE improves current state-of-the-art performance on several pedestrian trajectory prediction benchmarks, including the ETH/UCY benchmark, the Stanford Drone Dataset and SportVU NBA movement dataset.
 </div>
 
