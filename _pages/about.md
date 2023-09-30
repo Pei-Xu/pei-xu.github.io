@@ -30,7 +30,7 @@ I am also interested in applying computer science techniques to other discipline
 ## <span class="paper-list-year">2023</span>
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">SIGGRAPH Asia 2024</div>
+<div class="badge">SIGGRAPH Asia 2023</div>
 <img src='projects/AdaptNet/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[AdaptNet: Policy Adaptation for Physics-Based Character Control](AdaptNet)</span>
