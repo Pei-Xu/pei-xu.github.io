@@ -9,7 +9,7 @@ redirect_from:
 --- 
 
 
-# Composite Motion Learning with Task Control
+# AdaptNet: Policy Adaptation for Physics-Based Character Control
 
 <p class="author">
 Pei Xu<sup>1, 2</sup>, Kaixiang Xie<sup>3</sup>, Sheldon Andrews<sup>4, 2</sup>, Paul G. Kry<sup>3</sup>, Michael Neff<sup>5</sup>, Morgan McGuire<sup>2, 6</sup>, Ioannis Karamouzas<sup>7</sup>, Victor Zordan<sup>2, 1</sup>
