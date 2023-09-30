@@ -12,12 +12,24 @@ redirect_from:
 # AdaptNet: Policy Adaptation for Physics-Based Character Control
 
 <p class="author">
-Pei Xu<sup>1, 2</sup>, Kaixiang Xie<sup>3</sup>, Sheldon Andrews<sup>4, 2</sup>, Paul G. Kry<sup>3</sup>, Michael Neff<sup>5</sup>, Morgan McGuire<sup>2, 6</sup>, Ioannis Karamouzas<sup>7</sup>, Victor Zordan<sup>2, 1</sup>
+<span></span>Pei Xu<sup>1, 2</sup></span>,
+<span>Kaixiang Xie<sup>3</sup></span>,
+<span>Sheldon Andrews<sup>4, 2</sup></span>,
+<span>Paul G. Kry<sup>3</sup></span>,
+<span>Michael Neff<sup>5</sup></span>,
+<span>Morgan McGuire<sup>2, 6</sup></span>,
+<span>Ioannis Karamouzas<sup>7</sup></span>,
+<span>Victor Zordan<sup>2, 1</sup></span>
 </p>
 
 <p class="affiliation">
-<sup>1</sup> Clemson University,  <sup>2</sup> Roblox,  <sup>3</sup> McGill University,  <sup>4</sup> École de Technologie Supérieure,  <br />
-<sup>5</sup> University of California, Davis, <sup>6</sup> University of Waterloo, <sup>7</sup> University of California, Riverside
+<span><sup>1</sup> Clemson University</span>,
+<span><sup>2</sup> Roblox</span>,
+<span><sup>3</sup> McGill University</span>,
+<span><sup>4</sup> École de Technologie Supérieure</span>,
+<span><sup>5</sup> University of California, Davis</span>,
+<span><sup>6</sup> University of Waterloo</span>,
+<span><sup>7</sup> University of California, Riverside</span>
 </p>
 
 In _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_
