@@ -24,8 +24,9 @@ In _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_
 
 <div class="m10"></div>
 <div class="teaser">
-<p><img src="projects/AdaptNet/teaser.png" /></p>
 <p><img src="projects/AdaptNet/latent.png" /></p>
+<div class="m10"></div>
+<p><img src="projects/AdaptNet/teaser.png" /></p>
 </div>
 
 <div class="m10"></div>

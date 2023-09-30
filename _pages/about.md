@@ -41,7 +41,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
 <a href="#" class="paper-link" title="Paper: to be uploaded"></a>
 <a href="https://youtu.be/WxmJSCNFb28" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/ContextVAE" class="code-link" title="Code"></a>
+<a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
 </div>
 </div>
 
