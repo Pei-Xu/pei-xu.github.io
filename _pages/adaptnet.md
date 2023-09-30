@@ -46,9 +46,9 @@ Motivated by humans' ability to adapt skills in the learning of new ones, this p
 <div class="m10"></div>
 ## Bibtex
 <pre class="bibtex">
-@article{composite,
+@article{adaptnet,
     author = {Xu, Pei and Xie, Kaixiang and Andrews, Sheldon and G. Kry, Paul and Neff, Michael and McGuire, Morgan and Karamouzas, Ioannis and Zordan, Victor},
-    title = {{AdaptNet}: Policy Adaptation for Physics-Based Character Control},
+    title = {\{AdaptNet\}: Policy Adaptation for Physics-Based Character Control},
     journal = {ACM Transactions on Graphics},
     publisher = {ACM New York, NY, USA},
     year = {2023},
