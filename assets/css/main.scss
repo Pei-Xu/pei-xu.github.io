@@ -119,6 +119,17 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.affiliation {
+    span {
+        white-space: nowrap
+    }
+}
+.author {
+    span {
+        white-space: nowrap
+    }
+}
+
 .teaser {
     max-width:100%;
     text-align:center;
