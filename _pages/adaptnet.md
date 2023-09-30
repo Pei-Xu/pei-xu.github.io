@@ -6,13 +6,15 @@ author_profile: false
 redirect_from: 
  - /adaptnet
  - /ADAPTNET
+ - /adapt
+ - /ADAPT
 --- 
 
 
 # AdaptNet: Policy Adaptation for Physics-Based Character Control
 
 <p class="author">
-<span></span>Pei Xu<sup>1, 2</sup></span>,
+<span>Pei Xu<sup>1, 2</sup></span>,
 <span>Kaixiang Xie<sup>3</sup></span>,
 <span>Sheldon Andrews<sup>4, 2</sup></span>,
 <span>Paul G. Kry<sup>3</sup></span>,
