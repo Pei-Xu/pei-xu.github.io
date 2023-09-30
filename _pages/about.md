@@ -30,6 +30,23 @@ I am also interested in applying computer science techniques to other discipline
 ## <span class="paper-list-year">2023</span>
 
 <div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">SIGGRAPH Asia 2024</div>
+<img src='projects/AdaptNet/thumb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class="paper-list-title">[AdaptNet: Policy Adaptation for Physics-Based Character Control](AdaptNet)</span>
+
+**Pei Xu**, Kaixiang Xie, Sheldon Andrews, Paul G. Kry, Michael Neff, Morgan McGuire, Ioannis Karamouzas, Victor Zordan
+
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
+
+<a href="#" class="paper-link" title="Paper: to be uploaded"></a>
+<a href="https://youtu.be/WxmJSCNFb28" class="video-link" title="Video"></a>
+<a href="https://github.com/xupei0610/ContextVAE" class="code-link" title="Code"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">ICRA 2024</div>
 <img src='projects/ContextVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
