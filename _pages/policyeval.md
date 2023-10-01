@@ -13,7 +13,7 @@ redirect_from:
 # Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies
 
 <p class="author">
-Kaixiang Xie<sup>1</sup>, Pei Xu<sup>2</sup>, Sheldon Andrews<sup>3,4</sup>, Victor Zordan<sup>4,2</sup>, Paul Kry<sup>1</sup>
+Kaixiang Xie<sup>1</sup>, Pei Xu<sup>2</sup>, Sheldon Andrews<sup>3,4</sup>, Victor Zordan<sup>4,2</sup>, Paul G. Kry<sup>1</sup>
 </p>
 
 <p class="affiliation">
