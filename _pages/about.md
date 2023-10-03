@@ -39,7 +39,7 @@ I am also interested in applying computer science techniques to other discipline
 
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
-<a href="#" class="paper-link" title="Paper: to be uploaded"></a>
+<a href="http://arxiv.org/abs/2310.00239" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/WxmJSCNFb28" class="video-link" title="Video"></a>
 <a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
 </div>
