@@ -62,7 +62,7 @@ Motivated by humans' ability to adapt skills in the learning of new ones, this p
 
 <div class="m10"></div>
 ## Bibtex
-<pre class="bibtex">
+{% raw %}<pre class="bibtex">
 @article{adaptnet,
     author = {Xu, Pei and Xie, Kaixiang and Andrews, Sheldon and Kry, Paul G and Neff, Michael and McGuire, Morgan and Karamouzas, Ioannis and Zordan, Victor},
     title = {{AdaptNet}: Policy Adaptation for Physics-Based Character Control},
@@ -73,7 +73,7 @@ Motivated by humans' ability to adapt skills in the learning of new ones, this p
     number = {6},
     doi = {10.1145/3618375}
 }
-</pre>
+</pre>{% endraw %}
 
 
 

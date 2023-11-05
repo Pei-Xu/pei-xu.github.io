@@ -63,7 +63,7 @@ We present a deep learning method for composite and task-driven motion control f
 
 <div class="m10"></div>
 ## Bibtex
-<pre class="bibtex">
+{% raw %}<pre class="bibtex">
 @article{composite,
     author = {Xu, Pei and Shang, Xiumin and Zordan, Victor and Karamouzas, Ioannis},
     title = {Composite Motion Learning with Task Control},
@@ -74,7 +74,7 @@ We present a deep learning method for composite and task-driven motion control f
     number = {4},
     doi = {10.1145/3592447}
 }
-</pre>
+</pre>{% endraw %}
 
 
 

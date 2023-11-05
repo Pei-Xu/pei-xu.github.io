@@ -59,7 +59,7 @@ Predicting pedestrian movement is critical for human behavior analysis and also 
 
 <div class="m10"></div>
 ## Bibtex
-<pre class="bibtex">
+{% raw %}<pre class="bibtex">
 @inproceedings{socialvae2022,
     author={Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis},
     title={{SocialVAE}: Human Trajectory Prediction using Timewise Latents},
@@ -69,4 +69,4 @@ Predicting pedestrian movement is critical for human behavior analysis and also 
     organization={Springer},
     doi={10.1007/978-3-031-19772-7_30}
 }
-</pre>
+</pre>{% endraw %}

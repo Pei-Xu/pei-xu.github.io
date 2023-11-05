@@ -51,7 +51,7 @@ We present a simple and intuitive approach for interactive control of physically
 
 <div class="m10"></div>
 ## Bibtex
-<pre class="bibtex">
+{% raw %}<pre class="bibtex">
 @article{iccgan,
     author = {Xu, Pei and Karamouzas, Ioannis},
     title = {A {GAN}-Like Approach for Physics-Based Imitation Learning and Interactive Character Control},
@@ -63,5 +63,5 @@ We present a simple and intuitive approach for interactive control of physically
     pages = {1--22},
     doi = {10.1145/3480148}
 }
-</pre>
+</pre>{% endraw %}
 

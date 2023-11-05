@@ -76,7 +76,7 @@ Despite significant advancements in the field of multi-agent navigation, agents 
 
 <div class="m10"></div>
 ## Bibtex
-<pre class="bibtex">
+{% raw %}<pre class="bibtex">
 @inproceedings{kdma,
     author={Xu, Pei and Karamouzas, Ioannis},
     booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
@@ -87,4 +87,4 @@ Despite significant advancements in the field of multi-agent navigation, agents 
     pages={8105-8112},
     doi={10.1109/IROS51168.2021.9636463}
 }
-</pre>
+</pre>{% endraw %}

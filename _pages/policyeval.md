@@ -42,7 +42,7 @@ Deep reinforcement learning (DRL) methods have demonstrated impressive results f
 
 <div class="m10"></div>
 ## Bibtex
-<pre class="bibtex">
+{% raw %}<pre class="bibtex">
 @inproceedings{Xie-2023-PolicyEval,
     author = {Xie, Kaixiang and Xu, Pei and Andrews, Sheldon and Zordan, Victor B and Kry, Paul G},
     title = {Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies},
@@ -54,4 +54,4 @@ Deep reinforcement learning (DRL) methods have demonstrated impressive results f
     pages = {1--17},
     doi = {10.1145/3606935}
 }
-</pre>
+</pre>{% endraw %}

@@ -58,7 +58,7 @@ Data-driven methods for physics-based character control using reinforcement lear
 
 <div class="m10"></div>
 ## Bibtex
-<pre class="bibtex">
+{% raw %}<pre class="bibtex">
 @inproceedings{pfpn,
     author = {Xu, Pei and Karamouzas, Ioannis},
     title = {{PFPN}: Continuous Control of Physically Simulated Characters Using Particle Filtering Policy Network},
@@ -73,4 +73,4 @@ Data-driven methods for physics-based character control using reinforcement lear
     location = {Virtual Event, Switzerland},
     series = {MIG '21}
 }
-</pre>
+</pre>{% endraw %}
