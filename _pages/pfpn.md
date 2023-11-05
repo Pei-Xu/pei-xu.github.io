@@ -11,11 +11,12 @@ redirect_from:
 # PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network
 
 <p class="author">
-Pei Xu<sup>1</sup>, Ioannis Karamouzas<sup>1</sup>
+<span>Pei Xu<sup>1</sup></span>,
+<span>Ioannis Karamouzas<sup>1</sup></span>
 </p>
 
 <p class="affiliation">
-<sup>1</sup> Clemson University
+<span><sup>1</sup> Clemson University</span>
 </p>
 
 In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.<br />
@@ -60,7 +61,7 @@ Data-driven methods for physics-based character control using reinforcement lear
 <pre class="bibtex">
 @inproceedings{pfpn,
     author = {Xu, Pei and Karamouzas, Ioannis},
-    title = {PFPN: Continuous Control of Physically Simulated Characters Using Particle Filtering Policy Network},
+    title = {{PFPN}: Continuous Control of Physically Simulated Characters Using Particle Filtering Policy Network},
     year = {2021},
     isbn = {9781450391313},
     publisher = {Association for Computing Machinery},

@@ -12,11 +12,15 @@ redirect_from:
 # SocialVAE: Human Trajectory Prediction using Timewise Latents
 
 <p class="author">
-Pei Xu<sup>1,3</sup>, Jean-Bernard Hayet<sup>2</sup>, Ioannis Karamouzas<sup>1</sup>
+<span>Pei Xu<sup>1,3</sup></span>,
+<span>Jean-Bernard Hayet<sup>2</sup></span>,
+<span>Ioannis Karamouzas<sup>1</sup></span>
 </p>
 
 <p class="affiliation">
-<sup>1</sup> Clemson University,  <sup>2</sup> CIMAT, <sup>3</sup> Roblox
+<span><sup>1</sup> Clemson University</span>,
+<span><sup>2</sup> CIMAT</span>,
+<span><sup>3</sup> Roblox</span>
 </p>
 
 In _the 17th European Conference on Computer Vision_, 2022.
@@ -58,7 +62,7 @@ Predicting pedestrian movement is critical for human behavior analysis and also 
 <pre class="bibtex">
 @inproceedings{socialvae2022,
     author={Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis},
-    title={SocialVAE: Human Trajectory Prediction using Timewise Latents},
+    title={{SocialVAE}: Human Trajectory Prediction using Timewise Latents},
     booktitle={European Conference on Computer Vision},
     pages={511-528},
     year={2022},

@@ -12,11 +12,15 @@ redirect_from:
 # Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction
 
 <p class="author">
-Pei Xu<sup>1</sup>, Jean-Bernard Hayet<sup>2</sup>, Ioannis Karamouzas<sup>1,3</sup>
+<span>Pei Xu<sup>1</sup></span>,
+<span>Jean-Bernard Hayet<sup>2</sup></span>,
+<span>Ioannis Karamouzas<sup>1,3</sup></span>
 </p>
 
 <p class="affiliation">
-<sup>1</sup> Clemson University,  <sup>2</sup> CIMAT,  <sup>3</sup> University of California, Riverside
+<span><sup>1</sup> Clemson University</span>,
+<span><sup>2</sup> CIMAT</span>,
+<span><sup>3</sup> University of California, Riverside</span>
 </p>
 
 

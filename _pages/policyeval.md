@@ -13,11 +13,18 @@ redirect_from:
 # Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies
 
 <p class="author">
-Kaixiang Xie<sup>1</sup>, Pei Xu<sup>2</sup>, Sheldon Andrews<sup>3,4</sup>, Victor Zordan<sup>4,2</sup>, Paul G. Kry<sup>1</sup>
+<span>Kaixiang Xie<sup>1</sup></span>,
+<span>Pei Xu<sup>2</sup></span>,
+<span>Sheldon Andrews<sup>3,4</sup></span>,
+<span>Victor Zordan<sup>4,2</sup></span>,
+<span>Paul G. Kry<sup>1</sup></span>
 </p>
 
 <p class="affiliation">
-<sup>1</sup> McGill University, <sup>2</sup> Clemson University, <sup>3</sup> École de technologie supérieure, <sup>4</sup> Roblox
+<span><sup>1</sup> McGill University</span>,
+<span><sup>2</sup> Clemson University</span>,
+<span><sup>3</sup> École de technologie supérieure</span>,
+<span><sup>4</sup> Roblox</span>
 </p>
 
 In _PACM on Computer Graphics and Interactive Techniques_<br />_(Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2023)_
