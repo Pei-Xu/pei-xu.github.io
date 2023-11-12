@@ -157,7 +157,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 </div>
 
 ## <span class="paper-list-year">Bioengineering & Biomedical Engineering</span>
-- [Measuring Chondrocyte Viability of Articular Cartilage based on Label-Free Two-Photon Microscopy and Deep Learning Image Analysis](https://www.biorxiv.org/content/10.1101/2023.02.13.527931v1), Hongming Fan, **Pei Xu**, Xun Chen, Yang Li, Jennifer Hsu, Michael Le, Zhao Zhang, Emily Ye, Bruce Gao, Tong Ye, 2023
+- ``Osteoarthritis and Cartilage Open`` [Mask R-CNN Provides Efficient and Accurate Measurement of Chondrocyte Viability in the Label-Free Assessment of Articular Cartilage](https://www.sciencedirect.com/science/article/pii/S2665913123000821), Hongming Fan, **Pei Xu**, Xun Chen, Yang Li, Zhao Zhang, Jennifer Hsu, Michael Le, Emily Ye, Bruce Gao, Harry Demos, Hai Yao, Tong Ye, 2023
 - ``SPIE BiOS 2022`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11966/119660C/Automated-chondrocyte-viability-analysis-of-articular-cartilage-based-on-deep/10.1117/12.2609880.short), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye.
 
 
