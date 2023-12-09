@@ -41,7 +41,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
 <a href="http://arxiv.org/abs/2310.00239" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/WxmJSCNFb28" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
+<a href="https://github.com/xupei0610/AdaptNet" class="code-link" title="Code"></a>
 </div>
 </div>
 

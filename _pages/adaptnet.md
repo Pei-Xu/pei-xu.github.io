@@ -52,7 +52,7 @@ Motivated by humans' ability to adapt skills in the learning of new ones, this p
 
 <div class="m10"></div>
 <a class="paper-link" href="http://arxiv.org/abs/2310.00239" title="Paper"></a>
-<a class="code-link" href="https://github.com/xupei0610/CompositeMotion" title="Code"></a>
+<a class="code-link" href="https://github.com/xupei0610/AdaptNet" title="Code"></a>
 
 <div class="m10"></div>
 ## Video
