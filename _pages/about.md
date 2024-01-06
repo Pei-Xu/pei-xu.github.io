@@ -18,10 +18,11 @@ redirect_from:
 <div class="m20"></div>
 <div class='anchor' id='about-me'>
 
-<p>I am a research assistant professor at Clemson University. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and agent navigation.
+<p>I am a postdoctoral researcher at <a href="https://tml.stanford.edu/">The Movement Lab</a> of Stanford University, working with Prof. <a href="https://tml.stanford.edu/people/karen-liu">Karen C. Liu</a>. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and agent navigation.
 I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science. </p>
 
-<p>I received my Ph.D. in computer science from Clemson University under the supervision of Prof. Ioannis Karamouzas. Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.</p>
+<p>Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. <a href="https://people.computing.clemson.edu/~luofeng/">Feng Luo</a>.
+I received my Ph.D. in computer science from Clemson University under the supervision of Prof. <a href="https://people.computing.clemson.edu/~ioannis/">Ioannis Karamouzas</a>. Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.</p>
 
 </div>
 
