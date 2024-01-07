@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pei Xu"
-description              : "I am a research assistant professor at Clemson University."
+description              : "I am a postdoctoral researcher at Stanford University."
 repository               : "pei-xu/pei-xu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Pei Xu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D., Clemson University"
-  location         : "South Carolina, USA"
+  location         : "California, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LNaO-EYAAAAJ"
