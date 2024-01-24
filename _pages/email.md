@@ -16,6 +16,6 @@ author_profile: true
 
 <!-- Please check my recent publications to find my contact email. Thanks. -->
 
-Please contact me via `<my full name> at stanford.edu`.
+Please contact me via `<my full name with given name first and surname as the last> at stanford.edu`.
 
 [< Back](/)

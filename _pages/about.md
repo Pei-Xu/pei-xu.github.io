@@ -18,7 +18,7 @@ redirect_from:
 <div class="m20"></div>
 <div class='anchor' id='about-me'>
 
-<p>I am a postdoctoral researcher at <a href="https://tml.stanford.edu/">The Movement Lab</a> of Stanford University, working with Prof. <a href="https://tml.stanford.edu/people/karen-liu">Karen C. Liu</a>. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and agent navigation.
+<p>I am a postdoctoral researcher at <a href="https://tml.stanford.edu/">The Movement Lab</a> of Stanford University, working with Prof. <a href="https://tml.stanford.edu/people/karen-liu">C. Karen Liu</a>. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and agent navigation.
 I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science. </p>
 
 <p>Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. <a href="https://people.computing.clemson.edu/~luofeng/">Feng Luo</a>.
