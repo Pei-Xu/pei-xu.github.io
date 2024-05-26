@@ -48,7 +48,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">ICRA 2024</div>
+<div class="badge">RA-L & ICRA 2024</div>
 <img src='projects/ContextVAE/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</span>
@@ -56,7 +56,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
 
 _IEEE Robotics and Automation Letters_.<br />
-Also going to appear in _IEEE International Conference on Robotics and Automation_, 2024.
+Also in _IEEE International Conference on Robotics and Automation_, 2024.
 
 <a href="https://arxiv.org/abs/2302.10873" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/wg6laeYpnW8" class="video-link" title="Video"></a>

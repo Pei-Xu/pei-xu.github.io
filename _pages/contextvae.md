@@ -24,7 +24,8 @@ redirect_from:
 </p>
 
 
-In _IEEE Robotics and Automation Letters_
+In _IEEE Robotics and Automation Letters_.<br />
+Also in _IEEE International Conference on Robotics and Automation_, 2024.
 
 <div class="m10"></div>
 <div class="teaser">
