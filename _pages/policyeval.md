@@ -38,7 +38,7 @@ Deep reinforcement learning (DRL) methods have demonstrated impressive results f
 </div>
 
 <div class="m10"></div>
-<a class="paper-link" href="https://dl.acm.org/doi/10.1145/3606935" title="Paper"></a>
+<a class="paper-link" href="https://doi.org/10.1145/3606935" title="Paper"></a>
 
 <div class="m10"></div>
 ## Bibtex

@@ -89,7 +89,7 @@ Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul G. Kry
 _PACM on Computer Graphics and Interactive Techniques_.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
-<a href="https://dl.acm.org/doi/10.1145/3606935" class="paper-link" title="Paper"></a>
+<a href="https://doi.org/10.1145/3606935" class="paper-link" title="Paper"></a>
 </div>
 </div>
 
@@ -158,8 +158,9 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 </div>
 
 ## <span class="paper-list-year">Bioengineering & Biomedical Engineering</span>
+- ``JCI Insight`` [Explainable Deep Learning and Biomechanical Modeling for TMJ Disorder Morphological Risk Factors](https://doi.org/10.1172/jci.insight.178578), Shuchun Sun*, **Pei Xu***, Nathan Buchweitz, Cherice N Hill, Farhad Ahmadi, Marshall B Wilson, Angela Mei, Xin She, Benedikt Sagl, Elizabeth H Slate, Janice S Lee, Yongren Wu, Hai Yao, 2024.
 - ``Osteoarthritis and Cartilage Open`` [Mask R-CNN Provides Efficient and Accurate Measurement of Chondrocyte Viability in the Label-Free Assessment of Articular Cartilage](https://doi.org/10.1016/j.ocarto.2023.100415), Hongming Fan, **Pei Xu**, Xun Chen, Yang Li, Zhao Zhang, Jennifer Hsu, Michael Le, Emily Ye, Bruce Gao, Harry Demos, Hai Yao, Tong Ye, 2023
-- ``SPIE BiOS 2022`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://doi.org/10.1117/12.2609880), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye.
+- ``SPIE BiOS`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://doi.org/10.1117/12.2609880), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye, 2022.
 
 
 ## <span class="paper-list-year">Prior Work</span>
