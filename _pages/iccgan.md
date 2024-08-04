@@ -3,7 +3,7 @@ permalink: /ICCGAN
 title: "A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control"
 excerpt: ""
 author_profile: false
-nav_enabled: false
+sidebar: false
 redirect_from: 
  - /iccgan
 --- 
