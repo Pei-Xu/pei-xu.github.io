@@ -8,6 +8,10 @@ redirect_from:
  - /POLICYEVAL
 --- 
 
+<style>
+    article.page {width:100%}
+</style>
+
  
 
 # Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies

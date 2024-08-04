@@ -7,6 +7,10 @@ redirect_from:
  - /kdma
 --- 
 
+<style>
+    article.page {width:100%}
+</style>
+
 # Human Inspired Multi-Agent Navigation using Knowledge Distillation
 
 <p class="author">

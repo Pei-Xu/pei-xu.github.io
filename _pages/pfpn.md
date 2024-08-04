@@ -7,6 +7,10 @@ redirect_from:
  - /pfpn
 --- 
 
+<style>
+    article.page {width:100%}
+</style>
+
 
 # PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network
 

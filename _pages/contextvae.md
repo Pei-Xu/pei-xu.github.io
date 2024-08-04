@@ -8,6 +8,10 @@ redirect_from:
  - /CONTEXTVAE
 --- 
 
+<style>
+    article.page {width:100%}
+</style>
+
 
 # Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction
 

@@ -8,6 +8,10 @@ redirect_from:
  - /SOCIALVAE
 --- 
 
+<style>
+    article.page {width:100%}
+</style>
+
 
 # SocialVAE: Human Trajectory Prediction using Timewise Latents
 

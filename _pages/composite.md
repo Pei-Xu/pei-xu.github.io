@@ -11,6 +11,10 @@ redirect_from:
  - /COMPOSITE
 --- 
 
+<style>
+    article.page {width:100%}
+</style>
+
 
 # Composite Motion Learning with Task Control
 
