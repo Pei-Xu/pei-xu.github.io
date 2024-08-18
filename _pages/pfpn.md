@@ -35,8 +35,8 @@ Also _NeurIPS Deep Reinforcement Learning Workshop_, 2021.
 ## Abstract
 <div class="abstract">
 <img src="projects/PFPN/nips.thumbnail.png" style="width:160px;float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
-<img src="projects/PFPN/mig2021_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
-<img src="projects/PFPN/neurips.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
+<!-- <img src="projects/PFPN/mig2021_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
+<img src="projects/PFPN/neurips_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" /> -->
 Data-driven methods for physics-based character control using reinforcement learning have been successfully applied to generate high-quality motions. However, existing approaches typically rely on Gaussian distributions to represent the action policy, which can prematurely commit to suboptimal actions when solving high-dimensional continuous control problems for highly-articulated characters. In this paper, to improve the learning performance of physics-based character controllers, we propose a framework that considers a particle-based action policy as a substitute for Gaussian policies. We exploit particle filtering to dynamically explore and discretize the action space, and track the posterior policy represented as a mixture distribution. The resulting policy can replace the unimodal Gaussian policy which has been the staple for character control problems, without changing the underlying model architecture of the reinforcement learning algorithm used to perform policy optimization. We demonstrate the applicability of our approach on various motion capture imitation tasks. Baselines using our particle-based policies achieve better imitation performance and speed of convergence as compared to corresponding implementations using Gaussians, and are more robust to external perturbations during character control.
 </div>
 
