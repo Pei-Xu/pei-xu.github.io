@@ -67,7 +67,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 ## Abstract
 <div class="abstract">
 <img src="projects/KDMA/teaser.png" style="width:560px;float:right;max-width:100%;padding:0 20px 20px 20px;clear:both" />
-<img src="projects/KDMA/iros_small.png" style="float:right;max-width:100%;padding:0 20px 20px 20px;clear:both" />
+<img src="projects/KDMA/iros_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
 Despite significant advancements in the field of multi-agent navigation, agents still lack the sophistication and intelligence that humans exhibit in multi-agent settings. In this paper, we propose a framework for learning a human-like general collision avoidance policy for agent-agent interactions in fully decentralized, multi-agent environments. Our approach uses knowledge distillation with reinforcement learning to shape the reward function based on expert policies extracted from human trajectory demonstrations through behavior cloning. We show that agents trained with our approach can take human-like trajectories in collision avoidance and goal-directed steering tasks not provided by the demonstrations, outperforming the experts as well as learning-based agents trained without knowledge distillation.
 </div>
 

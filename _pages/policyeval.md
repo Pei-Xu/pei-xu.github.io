@@ -38,7 +38,7 @@ In _PACM on Computer Graphics and Interactive Techniques_<br />_(Proceedings of 
 ## Abstract
 <div class="abstract">
 <img src="projects/PolicyEval/teaser.png" style="width:500px;float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
-<img src="projects/PolicyEval/sca2023_small.png" style="float:right;max-width:100%;padding:0 20px 20px 20px;clear:both" />
+<img src="projects/PolicyEval/sca2023_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
 Deep reinforcement learning (DRL) methods have demonstrated impressive results for skilled motion synthesis of physically based characters, and while these methods perform well in terms of tracking reference motions or achieving complex tasks, several concerns arise when evaluating the naturalness of the motion. In this paper, we conduct a preliminary study of specific quantitative metrics for measuring the naturalness of motion produced by DRL control policies beyond their visual appearance. Namely, we propose to study the stiffness of the control policy, in anticipation that it will influence how the character behaves in the presence of external perturbation. Second, we establish two baselines for strength that allow evaluating the use of joint torques in comparison to human performance. Third, we propose the study of variability to reveal the unnatural precision of control policies and how they compare to real human motion. In sum, we aim to establish repeatable measures to assess the naturalness of control policies produced by DRL methods, and we present a set of comparisons from state-of-the-art systems. Finally, we propose simple modifications to improve realism on these axes.
 </div>
 
