@@ -3,8 +3,6 @@ permalink: /PFPN
 title: "PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network"
 excerpt: ""
 author_profile: false
-redirect_from: 
- - /pfpn
 --- 
 
 <style>

@@ -4,10 +4,7 @@ title: "AdaptNet: Policy Adaptation for Physics-Based Character Control"
 excerpt: ""
 author_profile: false
 redirect_from: 
- - /adaptnet
- - /ADAPTNET
  - /adapt
- - /ADAPT
 --- 
 
 

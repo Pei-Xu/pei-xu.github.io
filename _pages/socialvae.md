@@ -3,9 +3,6 @@ permalink: /SocialVAE
 title: "SocialVAE: Human Trajectory Prediction using Timewise Latents"
 excerpt: ""
 author_profile: false
-redirect_from: 
- - /socialvae
- - /SOCIALVAE
 --- 
 
 <style>

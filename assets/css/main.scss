@@ -189,13 +189,13 @@ h1:before, .anchor:before {
     padding-left: 10px
 }
 
-.paper-link, .code-link, .video-link {
+.paper-link, .code-link, .video-link, .external-link {
     margin-right:10px;
     background-size: 28px;
     background-repeat: no-repeat;
     padding: 6px 14px
 }
-.paper-link:hover, .code-link:hover, .video-link:hover {
+.paper-link:hover, .code-link:hover, .video-link:hover, .external-link:hover {
     background-size: 30px;
 }
 
@@ -207,6 +207,9 @@ h1:before, .anchor:before {
 }
 .video-link {
     background-image: url(icons/outline_smart_display_black_18dp.png);
+}
+.external-link {
+    background-image: url(icons/open_in_new_18dp_000_FILL0_wght400_GRAD0_opsz20.png);
 }
 
 code.highlighter-rouge {

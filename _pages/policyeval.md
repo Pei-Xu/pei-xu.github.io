@@ -3,9 +3,6 @@ permalink: /PolicyEval
 title: "Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies"
 excerpt: ""
 author_profile: false
-redirect_from: 
- - /policyeval
- - /POLICYEVAL
 --- 
 
 <style>
