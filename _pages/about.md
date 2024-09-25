@@ -54,7 +54,7 @@ In _SIGGRAPH Asia 2024_.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)</span>
 
-Ruocheng Wang*, **Pei Xu***, Haochen Shi, Elizabeth Schumann, C. Karen Liu 
+Ruocheng Wang\*, **Pei Xu**\*, Haochen Shi, Elizabeth Schumann, C. Karen Liu 
 
 In _SIGGRAPH Asia 2024_.
 
