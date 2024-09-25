@@ -14,12 +14,12 @@ article.page {width:100%}
 # Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing
 
 <p class="author">
-<span>Pei Xu<sup>1</sup></span>,
-<span>Ruocheng Wang<sup>1</sup></span>
+<span>Pei Xu</span>,
+<span>Ruocheng Wang</span>
 </p>
 
 <p class="affiliation">
-<span><sup>1</sup> Stanford University</span>
+<span>Stanford University</span>
 </p>
 
 In _SIGGRAPH Asia_, 2024.

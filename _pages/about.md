@@ -31,40 +31,6 @@ I received my Ph.D. in computer science from Clemson University under the superv
 ## <span class="paper-list-year">2023</span>
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">SIGGRAPH Asia 2024</div>
-<img src='projects/Guitar/thumb.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)</span>
-
-**Pei Xu**, Ruocheng Wang
-
-In _SIGGRAPH Asia 2024_.
-
-<a href="#" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/watch?v=r_y0P2pIeF8&list=PLLfEynalFz6j0X5Kiut0U3GLRxt3Oz_oa" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/guitar" class="code-link" title="Code"></a>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">SIGGRAPH Asia 2024</div>
-<img src='projects/ForElise/thumb.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span class="paper-list-title">FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance</span>
-
-Ruocheng Wang*, **Pei Xu***, Haochen Shi, Elizabeth Schumann, C. Karen Liu 
-
-In _SIGGRAPH Asia 2024_.
-
-<!-- <a href="#" class="paper-link" title="Paper"></a>
-<a href="#" class="video-link" title="Video"></a>
-<a href="#" class="code-link" title="Code"></a> -->
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">SIGGRAPH Asia 2023</div>
 <img src='projects/AdaptNet/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -14,6 +14,19 @@ article.page {width:100%}
 
 # FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance
 
+<p class="author">
+<span>Ruocheng Wang*</span>,
+<span>Pei Xu*</span>,
+<span>Haochen Shi</span>,
+<span>Elizabeth Schumann</span>,
+<span>C. Karen Liu</span>
+</p>
+
+<p class="affiliation">
+<span>Stanford University</span>
+</p>
+
+In _SIGGRAPH Asia_, 2024.
 
 
 <div class="m10"></div>
@@ -40,7 +53,7 @@ Piano playing requires agile, precise, and coordinated hand control that stretch
 {% raw %}<pre class="bibtex">
 @article{guitar,
     author = {Wang, Ruocheng and Xu, Pei and Shi, Haochen and Schumann, Elizabeth and Liu, C. Karen},
-    title = {F\"urElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance},
+    title = {{F\"urElise}: Capturing and Physically Synthesizing Hand Motions of Piano Performance},
     booktitle = {SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers '24)},
     publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},

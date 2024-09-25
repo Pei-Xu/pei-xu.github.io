@@ -12,12 +12,12 @@ author_profile: false
 # Human Inspired Multi-Agent Navigation using Knowledge Distillation
 
 <p class="author">
-<span>Pei Xu<sup>1</sup></span>,
-<span>Ioannis Karamouzas<sup>1</sup></span>
+<span>Pei Xu</span>,
+<span>Ioannis Karamouzas</span>
 </p>
 
 <p class="affiliation">
-<span><sup>1</sup> Clemson University</span>
+<span>Clemson University</span>
 </p>
 
 In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
