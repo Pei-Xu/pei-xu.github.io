@@ -18,15 +18,52 @@ redirect_from:
 <div class="m20"></div>
 <div class='anchor' id='about-me'>
 
-<p>I am a postdoctoral researcher at <a href="https://tml.stanford.edu/">The Movement Lab</a> of Stanford University, working with Prof. <a href="https://tml.stanford.edu/people/karen-liu">C. Karen Liu</a>. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and agent navigation.
-I am also interested in applying computer science techniques to other disciplines, like bioengineering and environmental science. </p>
+<p>I am a postdoctoral researcher at <a href="https://tml.stanford.edu/">The Movement Lab</a> of Stanford University, working with Prof. <a href="https://tml.stanford.edu/people/karen-liu">C. Karen Liu</a>. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and embodied agent.
+I am also interested in applying computer science techniques to other disciplines, like bioengineering and biomedical engineering.</p>
 
 <p>Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. <a href="https://people.computing.clemson.edu/~luofeng/">Feng Luo</a>.
 I received my Ph.D. in computer science from Clemson University under the supervision of Prof. <a href="https://people.computing.clemson.edu/~ioannis/">Ioannis Karamouzas</a>. Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.</p>
 
 </div>
 
-# Publications 
+# Publications
+
+## <span class="paper-list-year">2024</span>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">SIGGRAPH Asia 2024</div>
+<img src='projects/Guitar/thumb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class="paper-list-title">[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)</span>
+
+**Pei Xu**, Ruocheng Wang
+
+In _SIGGRAPH Asia 2024_.
+
+<a href="#" class="paper-link" title="Paper"></a>
+<a href="https://youtu.be/watch?v=r_y0P2pIeF8&list=PLLfEynalFz6j0X5Kiut0U3GLRxt3Oz_oa" class="video-link" title="Video"></a>
+<a href="https://github.com/xupei0610/guitar" class="code-link" title="Code"></a>
+<a href="https://github.com/xupei0610/guitar/tree/main/dataset" class="dataset-link" title="Dataset"></a>
+</div>
+</div> -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">SIGGRAPH Asia 2024</div>
+<img src='projects/ForElise/thumb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class="paper-list-title">[FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)</span>
+
+Ruocheng Wang*, **Pei Xu***, Haochen Shi, Elizabeth Schumann, C. Karen Liu 
+
+In _SIGGRAPH Asia 2024_.
+
+<!-- <a href="#" class="paper-link" title="Paper"></a>
+<a href="#" class="external-link" title="Project Page"></a> -->
+</div>
+</div>
+
+
 
 ## <span class="paper-list-year">2023</span>
 
