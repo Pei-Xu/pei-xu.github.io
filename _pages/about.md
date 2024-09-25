@@ -30,7 +30,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 ## <span class="paper-list-year">2024</span>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div>
+<div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">SIGGRAPH Asia 2024</div>
 <img src='projects/Guitar/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,7 +45,7 @@ In _SIGGRAPH Asia 2024_.
 <a href="https://github.com/xupei0610/guitar" class="code-link" title="Code"></a>
 <a href="https://github.com/xupei0610/guitar/tree/main/dataset" class="dataset-link" title="Dataset"></a>
 </div>
-</div> -->
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
@@ -58,8 +58,8 @@ Ruocheng Wang\*, **Pei Xu**\*, Haochen Shi, Elizabeth Schumann, C. Karen Liu
 
 In _SIGGRAPH Asia 2024_.
 
-<!-- <a href="#" class="paper-link" title="Paper"></a>
-<a href="#" class="external-link" title="Project Page"></a> -->
+<a href="#" class="paper-link" title="Paper"></a>
+<a href="#" class="external-link" title="Project Page"></a>
 </div>
 </div>
 
