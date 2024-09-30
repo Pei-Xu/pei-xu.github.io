@@ -6,11 +6,6 @@ author_profile: false
 --- 
 
 
-<style>
-article.page {width:100%}
-</style>
-
-
 # Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing
 
 <p class="author">
@@ -40,6 +35,7 @@ We present a novel approach to synthesize dexterous motions for physically simul
 </div>
 
 <div class="m10"></div>
+[](https://arxiv.org/abs/2409.16629){: .paper-link}
 <a class="paper-link" href="https://arxiv.org/abs/2409.16629" title="Paper"></a>
 <a class="code-link" href="https://github.com/xupei0610/guitar" title="Code"></a>
 <a class="dataset-link" href="https://github.com/xupei0610/guitar/dataset" title="Dataset"></a>
