@@ -38,7 +38,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 **Pei Xu**, Ruocheng Wang
 
-In _SIGGRAPH Asia 2024_.
+In _SIGGRAPH Asia_, 2024.
 
 <a href="https://arxiv.org/abs/2409.16629" class="paper-link" title="Paper"></a>
 <a href="https://youtu.be/watch?v=r_y0P2pIeF8&list=PLLfEynalFz6j0X5Kiut0U3GLRxt3Oz_oa" class="video-link" title="Video"></a>
@@ -56,7 +56,7 @@ In _SIGGRAPH Asia 2024_.
 
 Ruocheng Wang\*, **Pei Xu**\*, Haochen Shi, Elizabeth Schumann, C. Karen Liu 
 
-In _SIGGRAPH Asia 2024_.
+In _SIGGRAPH Asia_, 2024.
 
 <a href="#" class="paper-link" title="Paper (comming soon)"></a>
 <a href="#" class="external-link" title="Project Page (comming soon)"></a>
