@@ -88,8 +88,8 @@ Snow (Hey Oh)
 <iframe width="320" height="180" src="https://www.youtube.com/embed/c-YCn_fEZ1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="video_gallery">
-Hotel California
-<iframe width="320" height="180" src="https://www.youtube.com/embed/eO1pd2JQOm4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Corcovado
+<iframe width="320" height="180" src="https://www.youtube.com/embed/7pB68y2M_Ig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="video_gallery">
 Master of Puppets
@@ -104,8 +104,8 @@ Super Mario Bro. Theme
 <iframe width="320" height="180" src="https://www.youtube.com/embed/ZpiIJwF6L0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="video_gallery">
-Corcovado
-<iframe width="320" height="180" src="https://www.youtube.com/embed/7pB68y2M_Ig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Capriccio Op.59 No.16
+<iframe width="320" height="180" src="https://www.youtube.com/embed/0om9aGdgGCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="video_gallery">
 Sonata in F Major, MS84 No.14
@@ -116,8 +116,8 @@ Turkish March
 <iframe width="320" height="180" src="https://www.youtube.com/embed/XhDlA09xYa4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="video_gallery">
-Capriccio Op.59 No.16
-<iframe width="320" height="180" src="https://www.youtube.com/embed/0om9aGdgGCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Come As You Are
+<iframe width="320" height="180" src="https://www.youtube.com/embed/8OM_0wfIumA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="video_gallery">
 Canon in D Major
@@ -126,10 +126,6 @@ Canon in D Major
 <div class="video_gallery">
 Flight of the Bumblebee
 <iframe width="320" height="180" src="https://www.youtube.com/embed/5d5-HgULC2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<div class="video_gallery">
-Come As You Are
-<iframe width="320" height="180" src="https://www.youtube.com/embed/8OM_0wfIumA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
