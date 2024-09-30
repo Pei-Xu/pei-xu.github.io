@@ -34,16 +34,17 @@ I received my Ph.D. in computer science from Clemson University under the superv
 <div class="badge">SIGGRAPH Asia 2024</div>
 <img src='projects/Guitar/thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)</span>
+[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar){: .paper-list-title}
 
-**Pei Xu**, Ruocheng Wang
+<span>**Pei Xu**</span>, <span>Ruocheng Wang</span>
+{: .author}
 
 In _SIGGRAPH Asia_, 2024.
 
-<a href="https://arxiv.org/abs/2409.16629" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/watch?v=r_y0P2pIeF8&list=PLLfEynalFz6j0X5Kiut0U3GLRxt3Oz_oa" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/guitar" class="code-link" title="Code"></a>
-<a href="https://github.com/xupei0610/guitar/tree/main/dataset" class="dataset-link" title="Dataset"></a>
+[](https://arxiv.org/abs/2409.16629){: .paper-link title="Paper"}
+[](https://youtu.be/watch?v=r_y0P2pIeF8&list=PLLfEynalFz6j0X5Kiut0U3GLRxt3Oz_oa){: .video-link title="Video"}
+[](https://github.com/xupei0610/guitar){: .code-link title="Code"}
+[](https://github.com/xupei0610/guitar/dataset){: .dataset-link title="Dataset"}
 </div>
 </div>
 

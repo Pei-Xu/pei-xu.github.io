@@ -20,7 +20,7 @@ In _SIGGRAPH Asia_, 2024.
 
 <div class="m10"></div>
 <div class="teaser">
-<p><img src="projects/Guitar/teaser.png" /></p>
+<img src="projects/Guitar/teaser.png" />
 </div>
 
 
