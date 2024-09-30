@@ -48,7 +48,7 @@ We present a novel approach to synthesize dexterous motions for physically simul
 ## Copyright
 We respect the copyright of all the pieces of music used in this research project.
 All the music notes and video demonstrations (containing audio) will be only used for educational and scientific research purposes.
-If you are the owner of a piece of music and do not want it appearing in this project, please let me know.
+If you are the owner of a piece of music and do not want it appearing in this project, please let us know.
 We will kindly remove the related content. Thanks.
 
 <div class="m10"></div>
