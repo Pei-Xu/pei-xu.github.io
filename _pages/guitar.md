@@ -45,6 +45,13 @@ We present a novel approach to synthesize dexterous motions for physically simul
 <a class="dataset-link" href="https://github.com/xupei0610/guitar/dataset" title="Dataset"></a>
 
 <div class="m10"></div>
+## Copyright
+We respect the copyright of all the pieces of music used in this research project.
+All the music notes and video demonstrations (containing audio) will be only used for educational and scientific research purposes.
+If you are the owner of a piece of music and do not want it appearing in this project, please let me know.
+We will kindly remove the related content. Thanks.
+
+<div class="m10"></div>
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=r_y0P2pIeF8&list=PLLfEynalFz6j0X5Kiut0U3GLRxt3Oz_oa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
