@@ -30,12 +30,9 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 ## <span class="paper-list-year">2024</span>
 
-<div class='paper-box'>
-<div class='paper-box-image'>
+<div class='paper-box'><div class='paper-box-image'>
 <div class="badge">SIGGRAPH Asia 2024</div>
-<img src='projects/Guitar/thumb.png'>
-</div>
-
+<img src='projects/Guitar/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)</span>
 
@@ -52,9 +49,9 @@ In _SIGGRAPH Asia_, 2024.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
+<div class='paper-box'><div class='paper-box-image'>
 <div class="badge">SIGGRAPH Asia 2024</div>
-<img src='projects/ForElise/thumb.png' width="100%"></div></div>
+<img src='projects/ForElise/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)</span>
 
@@ -71,9 +68,9 @@ In _SIGGRAPH Asia_, 2024.
 
 ## <span class="paper-list-year">2023</span>
 
-<div class='paper-box'><div class='paper-box-image'><div>
+<div class='paper-box'><div class='paper-box-image'>
 <div class="badge">SIGGRAPH Asia 2023</div>
-<img src='projects/AdaptNet/thumb.png' width="100%"></div></div>
+<img src='projects/AdaptNet/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[AdaptNet: Policy Adaptation for Physics-Based Character Control](AdaptNet)</span>
 
@@ -88,9 +85,9 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
+<div class='paper-box'><div class='paper-box-image'>
 <div class="badge">RA-L & ICRA 2024</div>
-<img src='projects/ContextVAE/thumb.png' width="100%"></div></div>
+<img src='projects/ContextVAE/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</span>
 
@@ -105,7 +102,7 @@ Also in _IEEE International Conference on Robotics and Automation_, 2024.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023</div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">SIGGRAPH 2023</div>
 <img src='projects/CompositeMotion/thumb.png' width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
@@ -121,7 +118,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="pape
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2023</div><img src='projects/PolicyEval/thumb.png' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">SCA 2023</div><img src='projects/PolicyEval/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies](PolicyEval)</span>
 
@@ -138,7 +135,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 ## <span class="paper-list-year">2022</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](SocialVAE)</span>
 
@@ -155,7 +152,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 
 ## <span class="paper-list-year">2021</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span>
 
@@ -170,7 +167,7 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='projects/KDMA/thumb.png' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IROS 2021</div><img src='projects/KDMA/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](KDMA)</span>
 
@@ -184,7 +181,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2021</div><img src='projects/ICCGAN/thumb.png' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">SCA 2021</div><img src='projects/ICCGAN/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)</span>
 
