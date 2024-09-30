@@ -33,7 +33,7 @@ We present a novel approach to synthesize dexterous motions for physically simul
 <div class="m10"></div>
 [](https://arxiv.org/abs/2409.16629){: .paper-link title="Paper"}
 [](https://github.com/xupei0610/guitar){: .code-link title="Code"}
-[](https://github.com/xupei0610/guitar/dataset){: .dataset-link title="Dataset"}
+[](https://github.com/xupei0610/guitar/tree/main/dataset){: .dataset-link title="Dataset"}
 
 <div class="m10"></div>
 ## Copyright
