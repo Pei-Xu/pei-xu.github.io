@@ -30,7 +30,9 @@ In _SIGGRAPH Asia_, 2024.
 ## Abstract
 <div class="abstract">
 
-![overview](projects/Guitar/overview.png){: style="width:360px;float:right;max-width:100%;padding:0 0 10px 20px"}
+![overview](projects/Guitar/overview.png)
+
+{: style="width:360px;float:right;max-width:100%;padding:0 0 10px 20px"}
 
 ![SIGGRAPH Asia 2024](projects/Guitar/sa2024_logo.png){: style="width:200px;float:right;max-width:100%;padding:10px 0 10px 20px;clear:both"}
 
