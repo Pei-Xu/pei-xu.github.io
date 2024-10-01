@@ -5,10 +5,6 @@ excerpt: ""
 author_profile: false
 --- 
 
-<style>
-    article.page {width:100%}
-</style>
-
 # Human Inspired Multi-Agent Navigation using Knowledge Distillation
 {: #title}
 
@@ -25,44 +21,9 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 | Reference | Ours | RL w/o KD | ORCA |
 |:----------|:-----|:----------|:-----|
 |![](projects/KDMA/c6_ref.gif){: data-animated-image}|![](projects/KDMA/c6_ours.gif){: data-animated-image}|![](projects/KDMA/c6_rl.gif){: data-animated-image}|![](projects/KDMA/c6_orca.gif){: data-animated-image}|
-{: .teasers}
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center">Reference</th>
-<th style="text-align:center">Ours</th>
-<th style="text-align:center">RL w/o KD</th>
-<th style="text-align:center">ORCA</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_ref.gif"><img src="projects/KDMA/c6_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_ours.gif"><img src="projects/KDMA/c6_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_rl.gif"><img src="projects/KDMA/c6_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c6_orca.gif"><img src="projects/KDMA/c6_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_ref.gif"><img src="projects/KDMA/c12_1_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_ours.gif"><img src="projects/KDMA/c12_1_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_rl.gif"><img src="projects/KDMA/c12_1_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c12_1_orca.gif"><img src="projects/KDMA/c12_1_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_ref.gif"><img src="projects/KDMA/c24_3_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_ours.gif"><img src="projects/KDMA/c24_3_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_rl.gif"><img src="projects/KDMA/c24_3_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_3_orca.gif"><img src="projects/KDMA/c24_3_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_ref.gif"><img src="projects/KDMA/c24_4_ref.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_ours.gif"><img src="projects/KDMA/c24_4_ours.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_rl.gif"><img src="projects/KDMA/c24_4_rl.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="projects/KDMA/c24_4_orca.gif"><img src="projects/KDMA/c24_4_orca.gif" data-animated-image="" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
-</table>
+|![](projects/KDMA/c12_1_ref.gif){: data-animated-image}|![](projects/KDMA/c12_1_ours.gif){: data-animated-image}|![](projects/KDMA/c12_1_rl.gif){: data-animated-image}|![](projects/KDMA/c12_1_orca.gif){: data-animated-image}|
+|![](projects/KDMA/c24_3_ref.gif){: data-animated-image}|![](projects/KDMA/c24_3_ours.gif){: data-animated-image}|![](projects/KDMA/c24_3_rl.gif){: data-animated-image}|![](projects/KDMA/c24_3_orca.gif){: data-animated-image}|
+|![](projects/KDMA/c24_4_ref.gif){: data-animated-image}|![](projects/KDMA/c24_4_ours.gif){: data-animated-image}|![](projects/KDMA/c24_4_rl.gif){: data-animated-image}|![](projects/KDMA/c24_4_orca.gif){: data-animated-image}|
 {: .teasers}
 
 

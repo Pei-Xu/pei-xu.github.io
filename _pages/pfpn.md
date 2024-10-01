@@ -5,62 +5,47 @@ excerpt: ""
 author_profile: false
 --- 
 
-<style>
-    article.page {width:100%}
-</style>
-
-
 # PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network
+{: #title}
 
-<p class="authors">
 <span>Pei Xu</span>,
 <span>Ioannis Karamouzas</span>
-</p>
+{: .authors}
 
-<p class="affiliations">
 <span>Clemson University</span>
-</p>
+{: .affiliations}
 
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.<br />
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.\\
 Also _NeurIPS Deep Reinforcement Learning Workshop_, 2021.
 
-<div class="m10"></div>
-<div class="teasers">
-<p><img src="projects/PFPN/teaser.png" /></p>
-</div>
+![](projects/PFPN/teaser.png)
+{: .teasers}
 
-<div class="m10"></div>
 ## Abstract
-<div class="abstract">
-<img src="projects/PFPN/nips.thumbnail.png" style="width:160px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both" />
-<!-- <img src="projects/PFPN/mig2021_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
-<img src="projects/PFPN/neurips_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" /> -->
+![](projects/PFPN/nips.thumbnail.png){ style="width:160px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}
+<!-- ![](projects/PFPN/mig2021_small.png){ style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both"}
+![](projects/PFPN/neurips_small.png){ style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both"} -->
 Data-driven methods for physics-based character control using reinforcement learning have been successfully applied to generate high-quality motions. However, existing approaches typically rely on Gaussian distributions to represent the action policy, which can prematurely commit to suboptimal actions when solving high-dimensional continuous control problems for highly-articulated characters. In this paper, to improve the learning performance of physics-based character controllers, we propose a framework that considers a particle-based action policy as a substitute for Gaussian policies. We exploit particle filtering to dynamically explore and discretize the action space, and track the posterior policy represented as a mixture distribution. The resulting policy can replace the unimodal Gaussian policy which has been the staple for character control problems, without changing the underlying model architecture of the reinforcement learning algorithm used to perform policy optimization. We demonstrate the applicability of our approach on various motion capture imitation tasks. Baselines using our particle-based policies achieve better imitation performance and speed of convergence as compared to corresponding implementations using Gaussians, and are more robust to external perturbations during character control.
-</div>
 
 
-<div class="m10"></div>
-<a href="https://arxiv.org/abs/2003.06959" class="paper-link" title="Paper"></a>
-<a href="https://github.com/xupei0610/PFPN" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2003.06959){: .paper-link title="Paper}
+[](https://github.com/xupei0610/PFPN){: .code-link title="Code"}
+{: .links}
 
 
-<div class="m10"></div>
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTtdnq0WpWo?si=d_DzqASFmIkTdmQ2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<div class="m10"></div>
-<div style="max-width:560px">
+<div style="max-width:560px;margin-top:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Usbpl6jefCY?si=ypAxV7tSxa0OAD2Z" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<div class="m10"></div>
+
 ## Poster
-<a href="projects/PFPN/nips.poster.pdf"><img src="projects/PFPN/poster.png" style="max-width:100%"></a>
+[![](projects/PFPN/poster.png){: style="max-width:100%"}](projects/PFPN/nips.poster.pdf)
 
 
-
-<div class="m10"></div>
 ## Bibtex
 {% raw %}<pre class="bibtex">
 @inproceedings{pfpn,

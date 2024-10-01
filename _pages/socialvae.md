@@ -5,60 +5,45 @@ excerpt: ""
 author_profile: false
 --- 
 
-<style>
-    article.page {width:100%}
-</style>
-
-
 # SocialVAE: Human Trajectory Prediction using Timewise Latents
+{: #title}
 
-<p class="authors">
 <span>Pei Xu<sup>1,3</sup></span>,
 <span>Jean-Bernard Hayet<sup>2</sup></span>,
 <span>Ioannis Karamouzas<sup>1</sup></span>
-</p>
+{: .authors}
 
-<p class="affiliations">
 <span><sup>1</sup> Clemson University</span>,
 <span><sup>2</sup> CIMAT</span>,
 <span><sup>3</sup> Roblox</span>
-</p>
+{: .affiliations}
 
 In _the 17th European Conference on Computer Vision_, 2022.
 
-<div class="m10"></div>
-<div class="teasers">
-<p><img src="projects/SocialVAE/teaser.png" /></p>
-<div class="m10"></div>
-<p><img src="projects/SocialVAE/overview.png" /></p>
-</div>
+![](projects/SocialVAE/teaser.png"){: style="margin-bottom:10px"}\\
+![](projects/SocialVAE/overview.png)
+{: .teasers}
 
-<div class="m10"></div>
 ## Abstract
-<div class="abstract">
-<img src="projects/SocialVAE/ECCV-logo3.png" style="width:200px;float:right;max-width:100%;padding:0 0 10px 20px" />
+![ECCV 2021](projects/SocialVAE/ECCV-logo3.png){: style="width:200px;float:right;max-width:100%;padding:0 0 10px 20px"}
 Predicting pedestrian movement is critical for human behavior analysis and also for safe and efficient human-agent interactions. However, despite significant advancements, it is still challenging for existing approaches to capture the uncertainty and multimodality of human navigation decision making. In this paper, we propose SocialVAE, a novel approach for human trajectory prediction. The core of SocialVAE is a timewise variational autoencoder architecture that exploits stochastic recurrent neural networks to perform prediction, combined with a social attention mechanism and backward posterior approximation to allow for better extraction of pedestrian navigation strategies. We show that SocialVAE improves current state-of-the-art performance on several pedestrian trajectory prediction benchmarks, including the ETH/UCY benchmark, the Stanford Drone Dataset and SportVU NBA movement dataset.
-</div>
 
 
-<div class="m10"></div>
-<a href="https://arxiv.org/abs/2203.08207" class="paper-link" title="Paper"></a>
-<a href="https://github.com/xupei0610/SocialVAE" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2203.08207}{: .paper-link title="Paper"}
+[](https://github.com/xupei0610/SocialVAE}{: .code-link title="Code"}
+{: .links}
 
 
-<div class="m10"></div>
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nXrreTmXktM?si=c66LWojq8FxsGBDN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<div class="m10"></div>
+
 ## Poster
-<a href="projects/SocialVAE/poster.pdf"><img src="projects/SocialVAE/poster.png" style="max-width:100%"></a>
+[![](projects/SocialVAE/poster.png){: style="max-width:100%"}](projects/SocialVAE/poster.pdf)
 
 
-
-<div class="m10"></div>
 ## Bibtex
 {% raw %}<pre class="bibtex">
 @inproceedings{socialvae2022,
