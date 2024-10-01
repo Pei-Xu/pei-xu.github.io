@@ -53,7 +53,7 @@ In _SIGGRAPH Asia_, 2024.
 
 
 <div class='paper-box'>
-<div class='paper-box-image'>
+<div class='paper-box-image' markdown="1">
 *SIGGRAPH Asia 2024*{:.badge} ![](projects/ForElise/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
@@ -76,13 +76,15 @@ In _SIGGRAPH Asia_, 2024.
 {: .paper-list-year}
 
 <div class='paper-box'>
-<div class='paper-box-image'>
+<div class='paper-box-image' markdown="1">
 *SIGGRAPH Asia 2023*{:.badge} ![](projects/AdaptNet/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[AdaptNet: Policy Adaptation for Physics-Based Character Control](AdaptNet)</span>
+### [AdaptNet: Policy Adaptation for Physics-Based Character Control](AdaptNet)
+{: .paper-list-title #AdaptNet}
 
-**Pei Xu**, Kaixiang Xie, Sheldon Andrews, Paul G. Kry, Michael Neff, Morgan McGuire, Ioannis Karamouzas, Victor Zordan
+<span>**Pei Xu**</span>, <span>Kaixiang Xie</span>, <span>Sheldon Andrews</span>, <span>Paul G. Kry</span>, <span>Michael Neff</span>, <span>Morgan McGuire</span>, <span>Ioannis Karamouzas</span>, <span>Victor Zordan</span>
+{: .author}
 
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
