@@ -10,14 +10,14 @@ redirect_from:
 
 # AdaptNet: Policy Adaptation for Physics-Based Character Control
 
-<span>Pei Xu<sup>1, 2</sup></span>,
+<span>Pei Xu<sup>1,2</sup></span>,
 <span>Kaixiang Xie<sup>3</sup></span>,
-<span>Sheldon Andrews<sup>4, 2</sup></span>,
+<span>Sheldon Andrews<sup>4,2</sup></span>,
 <span>Paul G. Kry<sup>3</sup></span>,
 <span>Michael Neff<sup>5</sup></span>,
-<span>Morgan McGuire<sup>2, 6</sup></span>,
+<span>Morgan McGuire<sup>2,6</sup></span>,
 <span>Ioannis Karamouzas<sup>7</sup></span>,
-<span>Victor Zordan<sup>2, 1</sup></span>
+<span>Victor Zordan<sup>2,1</sup></span>
 {: .authors}
 
 <span><sup>1</sup> Clemson University</span>,
