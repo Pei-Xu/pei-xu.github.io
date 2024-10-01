@@ -54,7 +54,7 @@ In _SIGGRAPH Asia_, 2024.
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
-*SIGGRAPH Asia 2024*{:.badge} ![](projects/ForElise/thumb.png)
+`SIGGRAPH Asia 2024` ![](projects/ForElise/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
 ### [FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)
