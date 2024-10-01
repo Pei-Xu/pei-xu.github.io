@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to c!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pei Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D., Clemson University"
+  bio              : "徐霈, Ph.D., Clemson University"
   location         : "California, USA"
   employer         :
   pubmed           : 
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : # "https://youtube.com/@pei-xu"
   wikipedia        :
 
 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -7,6 +7,7 @@ redirect_from:
  - /piano
  - /elise
  - /FürElise
+ - /FurElise
 --- 
 
 # FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance
