@@ -37,7 +37,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 </div>
 <div class='paper-box-text' markdown="1">
 ### [Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)
-{:.paper-list-title}
+{:.paper-list-title #guitar}
 
 <span>**Pei Xu**</span>, <span>Ruocheng Wang</span>
 {: .author}
