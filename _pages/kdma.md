@@ -10,20 +10,18 @@ author_profile: false
 </style>
 
 # Human Inspired Multi-Agent Navigation using Knowledge Distillation
+{: #title}
 
-<p class="authors">
 <span>Pei Xu</span>,
 <span>Ioannis Karamouzas</span>
-</p>
+{: .authors}
 
-<p class="affiliations">
 <span>Clemson University</span>
-</p>
+{: .affiliations}
 
 In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
 
-<div class="m10"></div>
 <table>
 <thead>
 <tr>
@@ -60,27 +58,25 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 </tr>
 </tbody>
 </table>
+{: .teasers}
 
-<div class="m10"></div>
+
 ## Abstract
-<div class="abstract">
-<img src="projects/KDMA/teaser.png" style="width:560px;float:right;max-width:100%;padding:0 0 20px 20px;clear:both" />
-<img src="projects/KDMA/iros_small.png" style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both" />
+![System Overview](projects/KDMA/teaser.png){: style="width:560px;float:right;max-width:100%;padding:0 0 20px 20px;clear:both"}
+![IROS 2021](projects/KDMA/iros_small.png){: style="float:right;max-width:100%;padding:0 20px 10px 20px;clear:both"}
 Despite significant advancements in the field of multi-agent navigation, agents still lack the sophistication and intelligence that humans exhibit in multi-agent settings. In this paper, we propose a framework for learning a human-like general collision avoidance policy for agent-agent interactions in fully decentralized, multi-agent environments. Our approach uses knowledge distillation with reinforcement learning to shape the reward function based on expert policies extracted from human trajectory demonstrations through behavior cloning. We show that agents trained with our approach can take human-like trajectories in collision avoidance and goal-directed steering tasks not provided by the demonstrations, outperforming the experts as well as learning-based agents trained without knowledge distillation.
-</div>
 
-<div class="m10"></div>
-<a class="paper-link" href="https://arxiv.org/abs/2103.10000" title="Paper"></a>
-<a class="code-link" href="https://github.com/xupei0610/KDMA" title="Code"></a>
+[](https://arxiv.org/abs/2103.10000){: .paper-link title="Paper"}
+[](https://github.com/xupei0610/KDMA){: .code-link title="Code"}
+{: .links}
 
-<div class="m10"></div>
+
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMctyEw8kRI?si=7Y4unsmk6Q9qDngW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
-<div class="m10"></div>
 ## Bibtex
 {% raw %}<pre class="bibtex">
 @inproceedings{kdma,
