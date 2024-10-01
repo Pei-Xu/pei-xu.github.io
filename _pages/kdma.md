@@ -22,6 +22,11 @@ author_profile: false
 In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
 
+| Reference | Ours | RL w/o KD | ORCA |
+|:----------|:-----|:----------|:-----|
+|![](projects/KDMA/c6_ref.gif){: data-animated-image}|![](projects/KDMA/c6_ours.gif){: data-animated-image}|![](projects/KDMA/c6_rl.gif){: data-animated-image}|![](projects/KDMA/c6_orca.gif){: data-animated-image}|
+{: .teasers}
+
 <table>
 <thead>
 <tr>
