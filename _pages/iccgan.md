@@ -18,8 +18,8 @@ author_profile: false
 In _PACM on Computer Graphics and Interactive Techniques_\\
 _(Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2021)_
 
-![](projects/ICCGAN/teaser_fight.png)\\
-![](projects/ICCGAN/teaser_jump.png)\\
+![](projects/ICCGAN/teaser_fight.png){: style="margin-bottom:20px"}\\
+![](projects/ICCGAN/teaser_jump.png){: style="margin-bottom:20px"}\\
 ![](projects/ICCGAN/teaser_recover.png)
 {: .teasers}
 
