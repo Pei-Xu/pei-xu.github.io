@@ -43,15 +43,15 @@ Despite significant advancements in the field of multi-agent navigation, agents 
 
 
 ## Bibtex
-
-    @inproceedings{kdma,
-        author={Xu, Pei and Karamouzas, Ioannis},
-        booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-        title={Human-Inspired Multi-Agent Navigation using Knowledge Distillation}, 
-        year={2021},
-        volume={},
-        number={},
-        pages={8105-8112},
-        doi={10.1109/IROS51168.2021.9636463}
-    }
-{:.bibtex}
+{% raw %}<pre class="bibtex">
+@inproceedings{kdma,
+    author={Xu, Pei and Karamouzas, Ioannis},
+    booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+    title={Human-Inspired Multi-Agent Navigation using Knowledge Distillation}, 
+    year={2021},
+    volume={},
+    number={},
+    pages={8105-8112},
+    doi={10.1109/IROS51168.2021.9636463}
+}
+</pre>{% endraw %}
