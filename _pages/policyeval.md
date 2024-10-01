@@ -21,7 +21,7 @@ author_profile: false
 <span><sup>4</sup> Roblox</span>
 {: .affiliations}
 
-In _PACM on Computer Graphics and Interactive Techniques_ 
+In _PACM on Computer Graphics and Interactive Techniques_\\
 _(Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2023)_
 
 ## Abstract
