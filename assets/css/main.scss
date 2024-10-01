@@ -110,13 +110,11 @@ h1:before, .anchor:before {
 }
 
 .affiliations {
-    text-justify: auto;
     span {
         white-space: nowrap
     }
 }
 .authors {
-    text-justify: auto;
     span {
         white-space: nowrap
     }
@@ -124,14 +122,14 @@ h1:before, .anchor:before {
 
 .teaser {
     max-width:100%;
-    text-align:center;
+    text-align: center;
     img {
         background-color: white;
     }
 }
 
-article.page {
-    text-align: justify;
+#about-me {
+    text-align: justify
 }
 
 .bibtex {
