@@ -24,30 +24,26 @@ In _SIGGRAPH Asia_, 2024.
 </div>
 
 
-<div class="m10"></div>
 ## Abstract
 ![overview](projects/Guitar/overview.png){: style="width:360px;float:right;max-width:100%;padding:0 0 10px 20px"}
 ![SIGGRAPH Asia 2024](projects/Guitar/sa2024_logo.png){: style="width:200px;float:right;max-width:100%;padding:10px 0 10px 20px;clear:both"}
 We present a novel approach to synthesize dexterous motions for physically simulated hands in tasks that require coordination between the control of two hands with high temporal precision. Instead of directly learning a joint policy to control two hands, our approach performs bimanual control through cooperative learning where each hand is treated as an individual agent. The individual policies for each hand are first trained separately, and then synchronized through latent space manipulation in a centralized environment to serve as a joint policy for two-hand control. By doing so, we avoid directly performing policy learning in the joint state-action space of two hands with higher dimensions, greatly improving the overall training efficiency. We demonstrate the effectiveness of our proposed approach in the challenging guitar-playing task. The virtual guitarist trained by our approach can synthesize motions from unstructured reference data of general guitar-playing practice motions, and accurately play diverse rhythms with complex chord pressing and string picking patterns based on the input guitar tabs that do not exist in the references. Along with this paper, we provide the motion capture data that we collected as the reference for policy training.
 
-<div class="m10"></div>
 [](https://arxiv.org/abs/2409.16629){: .paper-link title="Paper"}
 [](https://github.com/xupei0610/guitar){: .code-link title="Code"}
 [](https://github.com/xupei0610/guitar/tree/main/dataset){: .dataset-link title="Dataset"}
+{.links}
 
-<div class="m10"></div>
 ## Copyright
 We respect the copyright of all the pieces of music used in this research project.
 All the music notes and video demonstrations (containing audio) will be only used for educational and scientific research purposes.
 If you are the owner of a piece of music and do not want it appearing in this project, please let us know.
 We will kindly remove the related content. Thanks.
 
-<div class="m10"></div>
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=r_y0P2pIeF8&list=PLLfEynalFz6j0X5Kiut0U3GLRxt3Oz_oa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 
 <style>
 .video_gallery {float:left;overflow:hidden;width:320px;max-width:100%;margin:10px}
@@ -127,10 +123,6 @@ Flight of the Bumblebee
 </div>
 </div>
 
-
-
-
-<div class="m10" style="clear:both"></div>
 ## Bibtex
 {% raw %}<pre class="bibtex">
 @article{guitar,
