@@ -36,7 +36,6 @@ Despite significant advancements in the field of multi-agent navigation, agents 
 [](https://github.com/xupei0610/KDMA){: .code-link title="Code"}
 {: .links}
 
-
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMctyEw8kRI?si=7Y4unsmk6Q9qDngW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -44,15 +43,15 @@ Despite significant advancements in the field of multi-agent navigation, agents 
 
 
 ## Bibtex
-{% raw %}<pre class="bibtex">
-@inproceedings{kdma,
-    author={Xu, Pei and Karamouzas, Ioannis},
-    booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-    title={Human-Inspired Multi-Agent Navigation using Knowledge Distillation}, 
-    year={2021},
-    volume={},
-    number={},
-    pages={8105-8112},
-    doi={10.1109/IROS51168.2021.9636463}
-}
-</pre>{% endraw %}
+
+    @inproceedings{kdma,
+        author={Xu, Pei and Karamouzas, Ioannis},
+        booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+        title={Human-Inspired Multi-Agent Navigation using Knowledge Distillation}, 
+        year={2021},
+        volume={},
+        number={},
+        pages={8105-8112},
+        doi={10.1109/IROS51168.2021.9636463}
+    }
+{:.bibtex}
