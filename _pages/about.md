@@ -28,11 +28,14 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 # Publications
 
-## <span class="paper-list-year">2024</span>
+## 2024
+{: .paper-list-year}
 
-<div class='paper-box'><div class='paper-box-image'>
-<div class="badge">SIGGRAPH Asia 2024</div>
-<img src='projects/Guitar/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+SIGGRAPH Asia 2024{:.badge}
+![](projects/Guitar/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)</span>
 
@@ -55,12 +58,13 @@ In _SIGGRAPH Asia_, 2024.
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)</span>
 
-Ruocheng Wang\*, **Pei Xu**\*, Haochen Shi, Elizabeth Schumann, C. Karen Liu 
+<span>Ruocheng Wang\*</span>, <span>**Pei Xu**\*</span>, <span>Haochen Shi</span>, <span>Elizabeth Schumann</span>, <span>C. Karen Liu</span>
+{: .author}
 
 In _SIGGRAPH Asia_, 2024.
 
-<a href="#" class="paper-link" title="Paper (comming soon)"></a>
-<a href="#" class="external-link" title="Project Page (comming soon)"></a>
+[](#){: .paper-link title="Paper (comming soon)"}
+[](#){: .external-link title="Project Page (comming soon)"}
 </div>
 </div>
 
