@@ -13,7 +13,7 @@ author_profile: false
 
 # Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies
 
-<p class="author">
+<p class="authors">
 <span>Kaixiang Xie<sup>1</sup></span>,
 <span>Pei Xu<sup>2</sup></span>,
 <span>Sheldon Andrews<sup>3,4</sup></span>,
@@ -21,7 +21,7 @@ author_profile: false
 <span>Paul G. Kry<sup>1</sup></span>
 </p>
 
-<p class="affiliation">
+<p class="affiliations">
 <span><sup>1</sup> McGill University</span>,
 <span><sup>2</sup> Clemson University</span>,
 <span><sup>3</sup> École de technologie supérieure</span>,

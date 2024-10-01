@@ -12,13 +12,13 @@ author_profile: false
 
 # SocialVAE: Human Trajectory Prediction using Timewise Latents
 
-<p class="author">
+<p class="authors">
 <span>Pei Xu<sup>1,3</sup></span>,
 <span>Jean-Bernard Hayet<sup>2</sup></span>,
 <span>Ioannis Karamouzas<sup>1</sup></span>
 </p>
 
-<p class="affiliation">
+<p class="affiliations">
 <span><sup>1</sup> Clemson University</span>,
 <span><sup>2</sup> CIMAT</span>,
 <span><sup>3</sup> Roblox</span>
@@ -27,7 +27,7 @@ author_profile: false
 In _the 17th European Conference on Computer Vision_, 2022.
 
 <div class="m10"></div>
-<div class="teaser">
+<div class="teasers">
 <p><img src="projects/SocialVAE/teaser.png" /></p>
 <div class="m10"></div>
 <p><img src="projects/SocialVAE/overview.png" /></p>

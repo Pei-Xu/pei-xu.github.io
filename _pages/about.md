@@ -40,7 +40,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 {: .paper-list-title #Guitar}
 
 <span>**Pei Xu**</span>, <span>Ruocheng Wang</span>
-{: .author}
+{: .authors}
 
 In _SIGGRAPH Asia_, 2024.
 
@@ -61,7 +61,7 @@ In _SIGGRAPH Asia_, 2024.
 {: .paper-list-title #ForElise}
 
 <span>Ruocheng Wang\*</span>, <span>**Pei Xu**\*</span>, <span>Haochen Shi</span>, <span>Elizabeth Schumann</span>, <span>C. Karen Liu</span>
-{: .author}
+{: .authors}
 
 In _SIGGRAPH Asia_, 2024.
 
@@ -84,7 +84,7 @@ In _SIGGRAPH Asia_, 2024.
 {: .paper-list-title #AdaptNet}
 
 <span>**Pei Xu**</span>, <span>Kaixiang Xie</span>, <span>Sheldon Andrews</span>, <span>Paul G. Kry</span>, <span>Michael Neff</span>, <span>Morgan McGuire</span>, <span>Ioannis Karamouzas</span>, <span>Victor Zordan</span>
-{: .author}
+{: .authors}
 
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
@@ -104,7 +104,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 {: .paper-list-title #ContextVAE}
 
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
-{: .author}
+{: .authors}
 
 _IEEE Robotics and Automation Letters_.<br />
 Also in _IEEE International Conference on Robotics and Automation_, 2024.
@@ -124,9 +124,9 @@ Also in _IEEE International Conference on Robotics and Automation_, 2024.
 {: .paper-list-title #CompositeMotion}
 
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas
-{: .author}
+{: .authors}
 
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical papers trailer.*{:.paper-list-highlight}</span>
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical papers trailer.*{:.paper-list-highlight}
 
 [](https://arxiv.org/abs/2305.03286){: .paper-link title="Paper"}
 [](https://youtu.be/mcRAxwoTh3E){: .video-link title="Video"}
@@ -143,7 +143,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical pap
 {: .paper-list-title #PolicyEval}
 
 Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul G. Kry
-{: .author}
+{: .authors}
 
 _PACM on Computer Graphics and Interactive Techniques_.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
@@ -166,7 +166,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 {: .paper-list-title #SocialVAE}
 
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
-{: .author}
+{: .authors}
 
 In _the 17th European Conference on Computer Vision_, 2022.
 
@@ -189,7 +189,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 {: .paper-list-title #PFPN}
 
 **Pei Xu**, Ioannis Karamouzas
-{: .author}
+{: .authors}
 
 In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. *Best paper nomination.*{:.paper-list-highlight}<br />
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
@@ -209,7 +209,7 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 {: .paper-list-title #KDMA}
 
 **Pei Xu**, Ioannis Karamouzas
-{: .author}
+{: .authors}
 
 In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
@@ -228,7 +228,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 {: .paper-list-title #ICCGAN}
 
 **Pei Xu**, Ioannis Karamouzas
-{: .author}
+{: .authors}
 
 _PACM on Computer Graphics and Interactive Techniques_. *Cover article.*{:.paper-list-highlight}<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.

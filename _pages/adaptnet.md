@@ -8,13 +8,8 @@ redirect_from:
 --- 
 
 
-<style>
-    article.page {width:100%}
-</style>
-
 # AdaptNet: Policy Adaptation for Physics-Based Character Control
 
-<p class="author">
 <span>Pei Xu<sup>1, 2</sup></span>,
 <span>Kaixiang Xie<sup>3</sup></span>,
 <span>Sheldon Andrews<sup>4, 2</sup></span>,
@@ -23,9 +18,8 @@ redirect_from:
 <span>Morgan McGuire<sup>2, 6</sup></span>,
 <span>Ioannis Karamouzas<sup>7</sup></span>,
 <span>Victor Zordan<sup>2, 1</sup></span>
-</p>
+{: .authors}
 
-<p class="affiliation">
 <span><sup>1</sup> Clemson University</span>,
 <span><sup>2</sup> Roblox</span>,
 <span><sup>3</sup> McGill University</span>,
@@ -33,36 +27,28 @@ redirect_from:
 <span><sup>5</sup> University of California, Davis</span>,
 <span><sup>6</sup> University of Waterloo</span>,
 <span><sup>7</sup> University of California, Riverside</span>
-</p>
+{: .affiliations}
 
 In _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_
 
-<div class="m10"></div>
-<div class="teaser">
-<p><img src="projects/AdaptNet/latent.png" /></p>
-<div class="m10"></div><div class="m10"></div><div class="m10"></div>
-<p><img src="projects/AdaptNet/teaser.png" /></p>
-</div>
+[](projects/AdaptNet/latent.png){: style="margin-bottom:20px;display:block"}
+[](projects/AdaptNet/teaser.png){: style="display:block"}
+{: .teasers}
 
-<div class="m10"></div>
 ## Abstract
-<div class="abstract">
-<!-- <img src="projects/AdaptNet/sa2023_logo.png" style="width:200px;float:right;max-width:100%;padding:0 0 10px 20px" /> -->
-<img src="projects/AdaptNet/cover.png" style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px" />
+<!-- [](projects/AdaptNet/sa2023_logo.png){: style="width:200px;float:right;max-width:100%;padding:0 0 10px 20px"} -->
+![](projects/AdaptNet/cover.png){: style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px"}
 Motivated by humans' ability to adapt skills in the learning of new ones, this paper presents AdaptNet, an approach for modifying the latent space of existing policies to allow new behaviors to be quickly learned from like tasks in comparison to learning from scratch. Building on top of a given reinforcement learning  controller, AdaptNet uses a two-tier hierarchy that augments the original state embedding to support modest changes in a behavior and further modifies the policy network layers to make more substantive changes. The technique is shown to be effective for adapting existing physics-based controllers to a wide range of new styles for locomotion, new task targets, changes in character morphology and extensive changes in environment. Furthermore, it exhibits significant increase in learning efficiency, as indicated by greatly reduced training times when compared to training from scratch or using other approaches that modify existing policies.
-</div>
 
-<div class="m10"></div>
-<a class="paper-link" href="http://arxiv.org/abs/2310.00239" title="Paper"></a>
-<a class="code-link" href="https://github.com/xupei0610/AdaptNet" title="Code"></a>
+[](http://arxiv.org/abs/2310.00239){: .paper-link title="Paper"}
+[](https://github.com/xupei0610/AdaptNet){: .paper-link title="Code"}
+{: #links}
 
-<div class="m10"></div>
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WxmJSCNFb28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<div class="m10"></div>
 ## Bibtex
 {% raw %}<pre class="bibtex">
 @article{adaptnet,

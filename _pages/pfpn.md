@@ -12,12 +12,12 @@ author_profile: false
 
 # PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network
 
-<p class="author">
+<p class="authors">
 <span>Pei Xu</span>,
 <span>Ioannis Karamouzas</span>
 </p>
 
-<p class="affiliation">
+<p class="affiliations">
 <span>Clemson University</span>
 </p>
 
@@ -25,7 +25,7 @@ In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021.<br />
 Also _NeurIPS Deep Reinforcement Learning Workshop_, 2021.
 
 <div class="m10"></div>
-<div class="teaser">
+<div class="teasers">
 <p><img src="projects/PFPN/teaser.png" /></p>
 </div>
 

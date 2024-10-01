@@ -10,16 +10,16 @@ author_profile: false
 
 <span>Pei Xu</span>,
 <span>Ruocheng Wang</span>
-{: .author}
+{: .authors}
 
 <span>Stanford University</span>
-{: .affiliation}
+{: .affiliations}
 
 In _SIGGRAPH Asia_, 2024.
 
 
 ![](projects/Guitar/teaser.png)
-{: .teaser}
+{: .teasers}
 
 
 ## Abstract

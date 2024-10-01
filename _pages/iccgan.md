@@ -11,19 +11,19 @@ author_profile: false
 
 # A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control
 
-<p class="author">
+<p class="authors">
 <span>Pei Xu</span>,
 <span>Ioannis Karamouzas</span>
 </p>
 
-<p class="affiliation">
+<p class="affiliations">
 <span>Clemson University</span>
 </p>
 
 In _PACM on Computer Graphics and Interactive Techniques_<br />_(Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2021)_
 
 <div class="m10"></div>
-<div class="teaser">
+<div class="teasers">
 <p><img src="projects/ICCGAN/teaser_fight.png" /></p>
 <p><img src="projects/ICCGAN/teaser_jump.png" /></p>
 <p><img src="projects/ICCGAN/teaser_recover.png" /></p>

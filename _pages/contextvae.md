@@ -15,13 +15,13 @@ redirect_from:
 
 # Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction
 
-<p class="author">
+<p class="authors">
 <span>Pei Xu<sup>1</sup></span>,
 <span>Jean-Bernard Hayet<sup>2</sup></span>,
 <span>Ioannis Karamouzas<sup>1,3</sup></span>
 </p>
 
-<p class="affiliation">
+<p class="affiliations">
 <span><sup>1</sup> Clemson University</span>,
 <span><sup>2</sup> CIMAT</span>,
 <span><sup>3</sup> University of California, Riverside</span>
@@ -32,7 +32,7 @@ In _IEEE Robotics and Automation Letters_.<br />
 Also in _IEEE International Conference on Robotics and Automation_, 2024.
 
 <div class="m10"></div>
-<div class="teaser">
+<div class="teasers">
 <p><img src="projects/ContextVAE/teaser.png" /></p>
 </div>
 

@@ -11,12 +11,12 @@ author_profile: false
 
 # Human Inspired Multi-Agent Navigation using Knowledge Distillation
 
-<p class="author">
+<p class="authors">
 <span>Pei Xu</span>,
 <span>Ioannis Karamouzas</span>
 </p>
 
-<p class="affiliation">
+<p class="affiliations">
 <span>Clemson University</span>
 </p>
 

@@ -16,10 +16,10 @@ redirect_from:
 <span>Haochen Shi</span>,
 <span>Elizabeth Schumann</span>,
 <span>C. Karen Liu</span>
-{: .author}
+{: .authors}
 
 <span>Stanford University</span>
-{: .affiliation}
+{: .affiliations}
 
 In _SIGGRAPH Asia_, 2024.
 
