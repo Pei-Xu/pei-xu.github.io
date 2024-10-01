@@ -33,7 +33,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
-{::}*SIGGRAPH Asia 2024*{:.badge} ![](projects/Guitar/thumb.png)
+**SIGGRAPH Asia 2024**{:.badge} ![](projects/Guitar/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
 [Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)
@@ -106,9 +106,9 @@ Also in _IEEE International Conference on Robotics and Automation_, 2024.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">SIGGRAPH 2023</div>
-<img src='projects/CompositeMotion/thumb.png' width="100%">
-</div></div>
+<div class='paper-box'><div class='paper-box-image'>
+<div class="badge">SIGGRAPH 2023</div>
+<img src='projects/CompositeMotion/thumb.png' width="100%"></div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span>
 
