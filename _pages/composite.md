@@ -9,6 +9,7 @@ redirect_from:
 
 
 # Composite Motion Learning with Task Control
+{: #title}
 
 <span>Pei Xu<sup>1,2</sup></span>,
 <span>Xiumin Shang<sup>3</sup></span>,
@@ -25,7 +26,7 @@ redirect_from:
 In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_
 
 ![](projects/CompositeMotion/teaser_tennis.png)\\
-![](projects/CompositeMotion/teaser_juggling.png)\\
+![](projects/CompositeMotion/teaser_juggling.png){: style="margin-bottom:10px"}\\
 ![](projects/CompositeMotion/teaser_aiming.png)
 {: .teasers}
 

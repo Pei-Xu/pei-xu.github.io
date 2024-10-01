@@ -9,6 +9,7 @@ redirect_from:
 
 
 # AdaptNet: Policy Adaptation for Physics-Based Character Control
+{: #title}
 
 <span>Pei Xu<sup>1,2</sup></span>,
 <span>Kaixiang Xie<sup>3</sup></span>,
