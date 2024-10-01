@@ -15,16 +15,16 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div class="m20"></div>
-<div class='anchor' id='about-me'>
+<div id='about-me' markdown="1">
 
-<p>I am a postdoctoral researcher at <a href="https://tml.stanford.edu/">The Movement Lab</a> of Stanford University, working with Prof. <a href="https://tml.stanford.edu/people/karen-liu">C. Karen Liu</a>. My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and embodied agent.
-I am also interested in applying computer science techniques to other disciplines, like bioengineering and biomedical engineering.</p>
+I am a postdoctoral researcher at [The Movement Lab](https://tml.stanford.edu/) of Stanford University, working with Prof. [C. Karen Liu](https://tml.stanford.edu/people/karen-liu). My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and embodied agent.
+I am also interested in applying computer science techniques to other disciplines, like bioengineering and biomedical engineering.
 
-<p>Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. <a href="https://people.computing.clemson.edu/~luofeng/">Feng Luo</a>.
-I received my Ph.D. in computer science from Clemson University under the supervision of Prof. <a href="https://people.computing.clemson.edu/~ioannis/">Ioannis Karamouzas</a>. Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.</p>
+Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. [Feng Luo](https://people.computing.clemson.edu/~luofeng/).
+I received my Ph.D. in computer science from Clemson University under the supervision of Prof. [Ioannis Karamouzas](https://people.computing.clemson.edu/~ioannis/). Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.
 
 </div>
+
 
 # Publications
 
@@ -54,7 +54,7 @@ In _SIGGRAPH Asia_, 2024.
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
-`SIGGRAPH Asia 2024` ![](projects/ForElise/thumb.png)
+*SIGGRAPH Asia 2024*{:.badge} ![](projects/ForElise/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
 ### [FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)
@@ -88,57 +88,68 @@ In _SIGGRAPH Asia_, 2024.
 
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
-<a href="http://arxiv.org/abs/2310.00239" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/WxmJSCNFb28" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/AdaptNet" class="code-link" title="Code"></a>
+[](http://arxiv.org/abs/2310.00239){: .paper-link title="Paper"}
+[](https://youtu.be/WxmJSCNFb28){: .video-link title="Video"}
+[](https://github.com/xupei0610/AdaptNet"){: .code-link title="Code"}
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'>
-<div class="badge">RA-L & ICRA 2024</div>
-<img src='projects/ContextVAE/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*RA-L & ICRA 2024*{:.badge} ![](projects/ContextVAE/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)</span>
+### [Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)
+{: .paper-list-title #ContextVAE}
 
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
+{: .author}
 
 _IEEE Robotics and Automation Letters_.<br />
 Also in _IEEE International Conference on Robotics and Automation_, 2024.
 
-<a href="https://arxiv.org/abs/2302.10873" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/wg6laeYpnW8" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/ContextVAE" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2302.10873){: .paper-link title="Paper"}
+[](https://youtu.be/wg6laeYpnW8){: .video-link title="Video"}
+[](https://github.com/xupei0610/ContextVAE"){: .code-link title="Code"}
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'>
-<div class="badge">SIGGRAPH 2023</div>
-<img src='projects/CompositeMotion/thumb.png' width="100%"></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*SIGGRAPH 2023*{:.badge} ![](projects/CompositeMotion/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Composite Motion Learning with Task Control](CompositeMotion)</span>
+### [Composite Motion Learning with Task Control](CompositeMotion)
+{: .paper-list-title #CompositeMotion}
 
 **Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas
+{: .author}
 
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. <span class="paper-list-highlight">In technical papers trailer.</span>
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical papers trailer.*{:.paper-list-highlight}</span>
 
-<a href="https://arxiv.org/abs/2305.03286" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/mcRAxwoTh3E" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2305.03286){: .paper-link title="Paper"}
+[](https://youtu.be/mcRAxwoTh3E){: .video-link title="Video"}
+[](https://github.com/xupei0610/CompositeMotion"){: .code-link title="Code"}
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">SCA 2023</div><img src='projects/PolicyEval/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*SCA 2023*{:.badge} ![](projects/PolicyEval/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies](PolicyEval)</span>
+### [Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies](PolicyEval)
+{: .paper-list-title #PolicyEval}
 
 Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul G. Kry
+{: .author}
 
 _PACM on Computer Graphics and Interactive Techniques_.<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
-<a href="https://doi.org/10.1145/3606935" class="paper-link" title="Paper"></a>
-<a href="http://kaixiangxie.de/projects/policy-eval" class="external-link" title="Project Page"></a>
+[](https://doi.org/10.1145/3606935){: .paper-link title="Paper"}
+[](http://kaixiangxie.de/projects/policy-eval){: .dataset-link title="Dataset"}
 </div>
 </div>
 
@@ -146,17 +157,22 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 ## 2022
 {: .paper-list-year}
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*ECCV 2022*{:.badge} ![](projects/SocialVAE/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[SocialVAE: Human Trajectory Prediction using Timewise Latents](SocialVAE)</span>
+### [SocialVAE: Human Trajectory Prediction using Timewise Latents](SocialVAE)
+{: .paper-list-title #SocialVAE}
 
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
+{: .author}
 
 In _the 17th European Conference on Computer Vision_, 2022.
 
-<a href="https://arxiv.org/abs/2203.08207" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/nXrreTmXktM" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/SocialVAE" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2203.08207){: .paper-link title="Paper"}
+[](https://youtu.be/nXrreTmXktM){: .video-link title="Video"}
+[](https://github.com/xupei0610/SocialVAE"){: .code-link title="Code"}
 </div>
 </div>
 
@@ -164,47 +180,62 @@ In _the 17th European Conference on Computer Vision_, 2022.
 ## 2021
 {: .paper-list-year}
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*MIG 2021*{:.badge} ![](projects/PFPN/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)</span>
+### [PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)
+{: .paper-list-title #PFPN}
 
 **Pei Xu**, Ioannis Karamouzas
+{: .author}
 
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. <span class="paper-list-highlight">Best paper nomination.</span><br />
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. *Best paper nomination.*{:.paper-list-highlight}<br />
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
-<a href="https://arxiv.org/abs/2003.06959" class="paper-link" title="Paper"></a>
-<a href="https://www.youtube.com/YTtdnq0WpWo" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/PFPN" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2003.06959){: .paper-link title="Paper"}
+[](https://www.youtube.com/YTtdnq0WpWo){: .video-link title="Video"}
+[](https://github.com/xupei0610/PFPN"){: .code-link title="Code"}
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">IROS 2021</div><img src='projects/KDMA/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*IROS 2021*{:.badge} ![](projects/KDMA/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Human Inspired Multi-Agent Navigation using Knowledge Distillation](KDMA)</span>
+### [Human Inspired Multi-Agent Navigation using Knowledge Distillation](KDMA)
+{: .paper-list-title #KDMA}
 
 **Pei Xu**, Ioannis Karamouzas
+{: .author}
 
 In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
-<a href="https://arxiv.org/abs/2103.10000" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/tMctyEw8kRI" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/KDMA" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2103.10000){: .paper-link title="Paper"}
+[](https://youtu.be/tMctyEw8kRI){: .video-link title="Video"}
+[](https://github.com/xupei0610/KDMA"){: .code-link title="Code"}
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">SCA 2021</div><img src='projects/ICCGAN/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*SCA 2021*{:.badge} ![](projects/ICCGAN/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)</span>
+### [A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)
+{: .paper-list-title #ICCGAN}
 
 **Pei Xu**, Ioannis Karamouzas
+{: .author}
 
-_PACM on Computer Graphics and Interactive Techniques_. <span class="paper-list-highlight">Cover article.</span><br />
+_PACM on Computer Graphics and Interactive Techniques_. *Cover article.*{:.paper-list-highlight}<br />
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
-<a href="https://arxiv.org/abs/2105.10066" class="paper-link" title="Paper"></a>
-<a href="https://youtu.be/VHMyvDD3B_o" class="video-link" title="Video"></a>
-<a href="https://github.com/xupei0610/CompositeMotion" class="code-link" title="Code"></a>
+[](https://arxiv.org/abs/2105.10066){: .paper-link title="Paper"}
+[](https://youtu.be/VHMyvDD3B_o){: .video-link title="Video"}
+[](https://github.com/xupei0610/CompositeMotion"){: .code-link title="Code"}
 </div>
 </div>
 
@@ -215,6 +246,6 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
 
 ## <span class="paper-list-year">Prior Work</span>
-- ``MIG 2019`` [Low Dimensional Motor Skill Learning Using Coactivation](https://doi.org/10.1145/3359566.3360071), Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan. <a href="https://www.youtube.com/watch?v=8U8YsmiANNA&ab_channel=HubertP.H.Shum" class="video-link" title="Video"></a>
+- ``MIG 2019`` [Low Dimensional Motor Skill Learning Using Coactivation](https://doi.org/10.1145/3359566.3360071), Avinash Ranganath, **Pei Xu**, Ioannis Karamouzas, Victor Zordan. [](https://www.youtube.com/watch?v=8U8YsmiANNA&ab_channel=HubertP.H.Shum){: .video-link title="Video"}
 - [Gesture-based Human-robot Interaction for Field Programmable Autonomous Underwater Robots](https://arxiv.org/abs/1709.08945), **Pei Xu**, 2017.
-- [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296), **Pei Xu**, 2017. <a href="https://youtu.be/4n9F7iJJ2TY" class="video-link" title="Video"></a>
+- [A Real-Time Hand Gesture Recognition and Human-Computer Interaction System](https://arxiv.org/abs/1704.07296), **Pei Xu**, 2017. [](https://youtu.be/4n9F7iJJ2TY){: .video-link title="Video"}
