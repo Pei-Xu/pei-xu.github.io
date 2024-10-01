@@ -110,11 +110,13 @@ h1:before, .anchor:before {
 }
 
 .affiliations {
+    text-justify: auto;
     span {
         white-space: nowrap
     }
 }
 .authors {
+    text-justify: auto;
     span {
         white-space: nowrap
     }
