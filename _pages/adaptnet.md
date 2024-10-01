@@ -31,8 +31,8 @@ redirect_from:
 
 In _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_
 
-[](projects/AdaptNet/latent.png){: style="margin-bottom:20px;display:block"}
-[](projects/AdaptNet/teaser.png){: style="display:block"}
+![](projects/AdaptNet/latent.png){: style="margin-bottom:20px;display:block"}
+![](projects/AdaptNet/teaser.png){: style="display:block"}
 {: .teasers}
 
 ## Abstract

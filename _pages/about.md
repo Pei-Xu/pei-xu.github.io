@@ -106,7 +106,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 **Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
 {: .authors}
 
-_IEEE Robotics and Automation Letters_.<br />
+_IEEE Robotics and Automation Letters_.\\
 Also in _IEEE International Conference on Robotics and Automation_, 2024.
 
 [](https://arxiv.org/abs/2302.10873){: .paper-link title="Paper"}
@@ -145,7 +145,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical pap
 Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul G. Kry
 {: .authors}
 
-_PACM on Computer Graphics and Interactive Techniques_.<br />
+_PACM on Computer Graphics and Interactive Techniques_.\\
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 [](https://doi.org/10.1145/3606935){: .paper-link title="Paper"}
@@ -191,7 +191,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 **Pei Xu**, Ioannis Karamouzas
 {: .authors}
 
-In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. *Best paper nomination.*{:.paper-list-highlight}<br />
+In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. *Best paper nomination.*{:.paper-list-highlight}\\
 Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 [](https://arxiv.org/abs/2003.06959){: .paper-link title="Paper"}
@@ -230,7 +230,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 **Pei Xu**, Ioannis Karamouzas
 {: .authors}
 
-_PACM on Computer Graphics and Interactive Techniques_. *Cover article.*{:.paper-list-highlight}<br />
+_PACM on Computer Graphics and Interactive Techniques_. *Cover article.*{:.paper-list-highlight}\\
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
 [](https://arxiv.org/abs/2105.10066){: .paper-link title="Paper"}
