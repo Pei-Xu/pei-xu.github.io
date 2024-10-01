@@ -7,6 +7,7 @@ author_profile: false
 
 
 # Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing
+{: #title}
 
 <span>Pei Xu</span>,
 <span>Ruocheng Wang</span>

@@ -10,6 +10,7 @@ redirect_from:
 --- 
 
 # FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance
+{: #title}
 
 <span>Ruocheng Wang*</span>,
 <span>Pei Xu*</span>,
@@ -32,7 +33,7 @@ Piano playing requires agile, precise, and coordinated hand control that stretch
 
 [](#){: .paper-link title="Paper (coming soon)}
 [](#){: .external-link title="Project Page (coming soon)}
-
+{: .links}
 
 <!-- ## Video
 <div style="max-width:560px">

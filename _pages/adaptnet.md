@@ -42,7 +42,7 @@ Motivated by humans' ability to adapt skills in the learning of new ones, this p
 
 [](http://arxiv.org/abs/2310.00239){: .paper-link title="Paper"}
 [](https://github.com/xupei0610/AdaptNet){: .paper-link title="Code"}
-{: #links}
+{: .links}
 
 ## Video
 <div style="max-width:560px">
