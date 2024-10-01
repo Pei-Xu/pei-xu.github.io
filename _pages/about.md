@@ -33,7 +33,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
-{::}SIGGRAPH Asia 2024{:.badge} ![](projects/Guitar/thumb.png)
+{::}*SIGGRAPH Asia 2024*{:.badge} ![](projects/Guitar/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
 [Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)

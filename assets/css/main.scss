@@ -157,20 +157,17 @@ article.page {
     height: 20px;
 }
 
-#about-me {
-    text-align: justify;
-}
-
 .paper-list-title {
     font-weight: bold;
-    font-size: large;
-    a {
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
+    font-size: large
 }
+a.paper-list-title {
+    text-decoration: none;
+}
+a.paper-list-title:hover {
+    text-decoration: underline;
+}
+
 .paper-list-highlight {
     color: rgb(244, 68, 3)
 }
