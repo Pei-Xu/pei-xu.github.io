@@ -24,9 +24,9 @@ redirect_from:
 
 In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_
 
-[](projects/CompositeMotion/teaser_tennis.png)\\
-[](projects/CompositeMotion/teaser_juggling.png)\\
-[](projects/CompositeMotion/teaser_aiming.png)\\
+![](projects/CompositeMotion/teaser_tennis.png)\\
+![](projects/CompositeMotion/teaser_juggling.png)\\
+![](projects/CompositeMotion/teaser_aiming.png)
 {: .teasers}
 
 ## Abstract
@@ -35,6 +35,7 @@ We present a deep learning method for composite and task-driven motion control f
 
 [](https://arxiv.org/abs/2305.03286){: .paper-link title="Paper"}
 [](https://github.com/xupei0610/CompositeMotion){: .code-link title="Code"}
+{: .links}
 
 
 ## Video
