@@ -35,10 +35,9 @@ Real-time, accurate prediction of human steering behaviors has wide applications
 {: .links}
 
 ## Video
-<div style="max-width:560px">
+<div style="max-width:560px;margin-bottom:10px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wg6laeYpnW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<div class="m10"></div>
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5MOCsSQ9dbU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
