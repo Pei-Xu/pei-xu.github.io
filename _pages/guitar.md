@@ -18,10 +18,8 @@ author_profile: false
 In _SIGGRAPH Asia_, 2024.
 
 
-<div class="m10"></div>
-<div class="teaser">
-<img src="projects/Guitar/teaser.png" />
-</div>
+![](projects/Guitar/teaser.png)
+{: .teaser}
 
 
 ## Abstract
