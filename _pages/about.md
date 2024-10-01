@@ -33,11 +33,12 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
-SIGGRAPH Asia 2024{:.badge}
+SIGGRAPH Asia 2024
+{:.badge}
 ![](projects/Guitar/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)</span>
+{::}[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar){: .paper-list-title}
 
 <span>**Pei Xu**</span>, <span>Ruocheng Wang</span>
 {: .author}
