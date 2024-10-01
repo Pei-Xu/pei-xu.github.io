@@ -4,42 +4,30 @@ title: "Composite Motion Learning with Task Control"
 excerpt: ""
 author_profile: false
 redirect_from: 
- - /compositemotion
- - /COMPOSITEMOTION
  - /composite
- - /Composite
- - /COMPOSITE
 --- 
-
-<style>
-    article.page {width:100%}
-</style>
 
 
 # Composite Motion Learning with Task Control
 
-<p class="authors">
 <span>Pei Xu<sup>1, 2</sup></span>,
 <span>Xiumin Shang<sup>3</sup></span>,
 <span>Victor Zordan<sup>2</sup></span>,
 <span>Ioannis Karamouzas<sup>1,4</sup></span>
-</p>
+{: .authors}
 
-<p class="affiliations">
 <span><sup>1</sup> Clemson University</span>, 
 <span><sup>2</sup> Roblox</span>, 
 <span><sup>3</sup> University of California, Merced</span>, 
 <span><sup>4</sup> University of California, Riverside</span>
-</p>
+{: .affiliations}
 
 In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_
 
-<div class="m10"></div>
-<div class="teasers">
-<p><img src="projects/CompositeMotion/teaser_tennis.png" /></p>
-<p><img src="projects/CompositeMotion/teaser_juggling.png" /></p>
-<p><img src="projects/CompositeMotion/teaser_aiming.png" /></p>
-</div>
+[](projects/CompositeMotion/teaser_tennis.png)\\
+[](projects/CompositeMotion/teaser_juggling.png)\\
+[](projects/CompositeMotion/teaser_aiming.png)\\
+{: .teasers}
 
 <div class="m10"></div>
 ## Abstract
