@@ -33,11 +33,11 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
-**SIGGRAPH Asia 2024**{:.badge} ![](projects/Guitar/thumb.png)
+*SIGGRAPH Asia 2024*{:.badge} ![](projects/Guitar/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
-[Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)
-{: .paper-list-title}
+### [Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)
+{:.paper-list-title}
 
 <span>**Pei Xu**</span>, <span>Ruocheng Wang</span>
 {: .author}
@@ -70,7 +70,8 @@ In _SIGGRAPH Asia_, 2024.
 
 
 
-## <span class="paper-list-year">2023</span>
+## 2023
+{: .paper-list-year}
 
 <div class='paper-box'><div class='paper-box-image'>
 <div class="badge">SIGGRAPH Asia 2023</div>
@@ -137,7 +138,8 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 </div>
 
 
-## <span class="paper-list-year">2022</span>
+## 2022
+{: .paper-list-year}
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='projects/SocialVAE/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
@@ -154,7 +156,8 @@ In _the 17th European Conference on Computer Vision_, 2022.
 </div>
 
 
-## <span class="paper-list-year">2021</span>
+## 2021
+{: .paper-list-year}
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">MIG 2021</div><img src='projects/PFPN/thumb.png'></div>
 <div class='paper-box-text' markdown="1">
