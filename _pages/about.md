@@ -37,7 +37,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 </div>
 <div class='paper-box-text' markdown="1">
 ### [Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](guitar)
-{:.paper-list-title #guitar}
+{: .paper-list-title #Guitar}
 
 <span>**Pei Xu**</span>, <span>Ruocheng Wang</span>
 {: .author}
@@ -52,11 +52,13 @@ In _SIGGRAPH Asia_, 2024.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'>
-<div class="badge">SIGGRAPH Asia 2024</div>
-<img src='projects/ForElise/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+*SIGGRAPH Asia 2024*{:.badge} ![](projects/ForElise/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
-<span class="paper-list-title">[FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)</span>
+### [FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](ForElise)
+{: .paper-list-title #ForElise}
 
 <span>Ruocheng Wang\*</span>, <span>**Pei Xu**\*</span>, <span>Haochen Shi</span>, <span>Elizabeth Schumann</span>, <span>C. Karen Liu</span>
 {: .author}
@@ -73,9 +75,10 @@ In _SIGGRAPH Asia_, 2024.
 ## 2023
 {: .paper-list-year}
 
-<div class='paper-box'><div class='paper-box-image'>
-<div class="badge">SIGGRAPH Asia 2023</div>
-<img src='projects/AdaptNet/thumb.png'></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+*SIGGRAPH Asia 2023*{:.badge} ![](projects/AdaptNet/thumb.png)
+</div>
 <div class='paper-box-text' markdown="1">
 <span class="paper-list-title">[AdaptNet: Policy Adaptation for Physics-Based Character Control](AdaptNet)</span>
 
