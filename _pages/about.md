@@ -149,7 +149,7 @@ _PACM on Computer Graphics and Interactive Techniques_.\\
 In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 
 [](https://doi.org/10.1145/3606935){: .paper-link title="Paper"}
-[](http://kaixiangxie.de/projects/policy-eval){: .dataset-link title="Dataset"}
+[](http://kaixiangxie.de/projects/policy-eval){: .external-link title="Project Page"}
 </div>
 </div>
 
