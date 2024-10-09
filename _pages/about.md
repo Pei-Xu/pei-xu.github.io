@@ -66,7 +66,7 @@ In _SIGGRAPH Asia_, 2024.
 In _SIGGRAPH Asia_, 2024.
 
 [](#){: .paper-link title="Paper (comming soon)"}
-[](#){: .external-link title="Project Page (comming soon)"}
+[](https://for-elise.github.io){: .external-link title="Project Page"}
 </div>
 </div>
 
@@ -90,7 +90,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 
 [](http://arxiv.org/abs/2310.00239){: .paper-link title="Paper"}
 [](https://youtu.be/WxmJSCNFb28){: .video-link title="Video"}
-[](https://github.com/xupei0610/AdaptNet"){: .code-link title="Code"}
+[](https://github.com/xupei0610/AdaptNet){: .code-link title="Code"}
 </div>
 </div>
 
@@ -111,7 +111,7 @@ Also in _IEEE International Conference on Robotics and Automation_, 2024.
 
 [](https://arxiv.org/abs/2302.10873){: .paper-link title="Paper"}
 [](https://youtu.be/wg6laeYpnW8){: .video-link title="Video"}
-[](https://github.com/xupei0610/ContextVAE"){: .code-link title="Code"}
+[](https://github.com/xupei0610/ContextVAE){: .code-link title="Code"}
 </div>
 </div>
 
@@ -130,7 +130,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical pap
 
 [](https://arxiv.org/abs/2305.03286){: .paper-link title="Paper"}
 [](https://youtu.be/mcRAxwoTh3E){: .video-link title="Video"}
-[](https://github.com/xupei0610/CompositeMotion"){: .code-link title="Code"}
+[](https://github.com/xupei0610/CompositeMotion){: .code-link title="Code"}
 </div>
 </div>
 
@@ -172,7 +172,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 
 [](https://arxiv.org/abs/2203.08207){: .paper-link title="Paper"}
 [](https://youtu.be/nXrreTmXktM){: .video-link title="Video"}
-[](https://github.com/xupei0610/SocialVAE"){: .code-link title="Code"}
+[](https://github.com/xupei0610/SocialVAE){: .code-link title="Code"}
 </div>
 </div>
 
@@ -196,7 +196,7 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 
 [](https://arxiv.org/abs/2003.06959){: .paper-link title="Paper"}
 [](https://www.youtube.com/YTtdnq0WpWo){: .video-link title="Video"}
-[](https://github.com/xupei0610/PFPN"){: .code-link title="Code"}
+[](https://github.com/xupei0610/PFPN){: .code-link title="Code"}
 </div>
 </div>
 
@@ -215,7 +215,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 
 [](https://arxiv.org/abs/2103.10000){: .paper-link title="Paper"}
 [](https://youtu.be/tMctyEw8kRI){: .video-link title="Video"}
-[](https://github.com/xupei0610/KDMA"){: .code-link title="Code"}
+[](https://github.com/xupei0610/KDMA){: .code-link title="Code"}
 </div>
 </div>
 
@@ -235,7 +235,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 
 [](https://arxiv.org/abs/2105.10066){: .paper-link title="Paper"}
 [](https://youtu.be/VHMyvDD3B_o){: .video-link title="Video"}
-[](https://github.com/xupei0610/CompositeMotion"){: .code-link title="Code"}
+[](https://github.com/xupei0610/CompositeMotion){: .code-link title="Code"}
 </div>
 </div>
 

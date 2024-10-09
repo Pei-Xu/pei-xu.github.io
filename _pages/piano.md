@@ -33,13 +33,13 @@ Piano playing requires agile, precise, and coordinated hand control that stretch
 
 
 [](#){: .paper-link title="Paper (coming soon)}
-[](#){: .external-link title="Project Page (coming soon)}
+[](https://for-elise.github.io){: .external-link title="Project Page (coming soon)}
 {: .links}
 
-<!-- ## Video
+## Video
 <div style="max-width:560px">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vchQ-FxH56w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Bibtex
 {% raw %}<pre class="bibtex">
