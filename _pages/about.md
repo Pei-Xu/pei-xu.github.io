@@ -65,7 +65,7 @@ In _SIGGRAPH Asia_, 2024.
 
 In _SIGGRAPH Asia_, 2024.
 
-[](#){: .paper-link title="Paper (comming soon)"}
+[](https://arxiv.org/abs/2410.05791){: .paper-link title="Paper"}
 [](https://for-elise.github.io){: .external-link title="Project Page"}
 </div>
 </div>
