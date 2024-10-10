@@ -43,7 +43,7 @@ Piano playing requires agile, precise, and coordinated hand control that stretch
 
 ## Bibtex
 {% raw %}<pre class="bibtex">
-@article{guitar,
+@inproceedings{piano,
     author = {Wang, Ruocheng and Xu, Pei and Shi, Haochen and Schumann, Elizabeth and Liu, C. Karen},
     title = {{F\"urElise}: Capturing and Physically Synthesizing Hand Motions of Piano Performance},
     booktitle = {SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers '24)},

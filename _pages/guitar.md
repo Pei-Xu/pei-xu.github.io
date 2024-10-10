@@ -124,7 +124,7 @@ Flight of the Bumblebee
 
 ## Bibtex
 {% raw %}<pre class="bibtex">
-@article{guitar,
+@inproceedings{guitar,
     author = {Xu, Pei and Wang, Ruocheng},
     title = {Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing},
     booktitle = {SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers '24)},
