@@ -18,7 +18,7 @@ redirect_from:
 <div id='about-me' markdown="1">
 
 I am a postdoctoral researcher at [The Movement Lab](https://tml.stanford.edu/) of Stanford University, working with Prof. [C. Karen Liu](https://tml.stanford.edu/people/karen-liu). My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and embodied agent.
-I am also interested in applying computer science techniques to other disciplines, like bioengineering and biomedical engineering.
+I am also interested in applying computer science techniques to other disciplines, like material science, bioengineering and biomedical engineering.
 
 Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. [Feng Luo](https://people.computing.clemson.edu/~luofeng/).
 I received my Ph.D. in computer science from Clemson University under the supervision of Prof. [Ioannis Karamouzas](https://people.computing.clemson.edu/~ioannis/). Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.
@@ -243,6 +243,9 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2021.
 - ``JCI Insight`` [Explainable Deep Learning and Biomechanical Modeling for TMJ Disorder Morphological Risk Factors](https://doi.org/10.1172/jci.insight.178578), Shuchun Sun\*, **Pei Xu**\*, Nathan Buchweitz\*, Cherice N Hill, Farhad Ahmadi, Marshall B Wilson, Angela Mei, Xin She, Benedikt Sagl, Elizabeth H Slate, Janice S Lee, Yongren Wu, Hai Yao, 2024.
 - ``Osteoarthritis and Cartilage Open`` [Mask R-CNN Provides Efficient and Accurate Measurement of Chondrocyte Viability in the Label-Free Assessment of Articular Cartilage](https://doi.org/10.1016/j.ocarto.2023.100415), Hongming Fan, **Pei Xu**, Xun Chen, Yang Li, Zhao Zhang, Jennifer Hsu, Michael Le, Emily Ye, Bruce Gao, Harry Demos, Hai Yao, Tong Ye, 2023.
 - ``SPIE BiOS`` [Automated Chondrocyte Viability Analysis of Articular Cartilage based on Deep Learning Segmentation and Classification of Two-Photon Microscopic Images](https://doi.org/10.1117/12.2609880), Hongming Fan, **Pei Xu**, Michael Le, Jennifer Hsu, Xun Chen, Yang Li, Zhao Zhang, Bruce Gao, Shane Woolf, Tong Ye, 2022.
+
+## <span class="paper-list-year">Material Science</span>
+- ``Composites Part B: Engineering`` [Physically Constrained 3D Diffusion for Inverse Design of Fiber-reinforced Polymer Composite Materials](https://doi.org/10.1016/j.compositesb.2025.112515), **Pei Xu**\*, Yunpeng Wu\*, Alireza Zarei, Shahriar Ahmed, Srikanth Pilla, Gang Li, Feng Luo, 2025.
 
 
 ## <span class="paper-list-year">Prior Work</span>
