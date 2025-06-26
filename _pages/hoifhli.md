@@ -22,9 +22,10 @@ redirect_from:
 
 In _ICCV_, 2025.
 
+![teaser](projects/hoifhli/teaser1.png)
+{: .teasers}
 
 ## Abstract
-![teaser](projects/hoifhli/teaser1.png){: style="width:500px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}
 ![ICCV 2025](projects/hoifhli/iccv2025_logo.png){: style="float:right;width:200px;max-width:100%;padding:20px 0 10px 20px;clear:both"}
 Intelligent agents must autonomously interact with the environments to perform daily tasks based on human-level instructions. They need a foundational understanding of the world to accurately interpret these instructions, along with precise low-level movement and interaction skills to execute the derived actions. In this work, we propose the first complete system for synthesizing physically plausible, long-horizon human-object interactions for object manipulation in contextual environments, driven by human-level instructions. We leverage large language models (LLMs) to interpret the input instructions into detailed execution plans. Unlike prior work, our system is capable of generating detailed finger-object interactions, in seamless coordination with full-body movements. We also train a policy to track generated motions in physics simulation via reinforcement learning (RL) to ensure physical plausibility of the motion. Our experiments demonstrate the effectiveness of our system in synthesizing realistic interactions with diverse objects in complex environments, highlighting its potential for real-world applications.
 
