@@ -28,6 +28,29 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 # Publications
 
+## 2025
+{: .paper-list-year}
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*ICCV 2025*{:.badge} ![](projects/hoifhli/thumb.png)
+</div>
+<div class='paper-box-text' markdown="1">
+### [Human-Object Interaction from Human-Level Instructions](hoifhli)
+{: .paper-list-title #hoifhli}
+
+<span>Zhen Wu</span>, <span>Jiaman Li</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>
+{: .authors}
+
+In _ICCV_, 2025.
+
+[](https://arxiv.org/pdf/2406.17840){: .paper-link title="Paper"}
+[](https://www.youtube.com/watch?v=ztTsMeIgIGk){: .video-link title="Video"}
+[](https://hoifhli.github.io/){: .external-link title="Project Page"}
+</div>
+</div>
+
+
+
 ## 2024
 {: .paper-list-year}
 
