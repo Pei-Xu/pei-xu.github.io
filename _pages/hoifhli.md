@@ -46,6 +46,6 @@ Intelligent agents must autonomously interact with the environments to perform d
   author={Wu, Zhen and Li, Jiaman and Xu, Pei and Liu, C. Karen},
   booktitle={2025 IEEE/CVF International Conference on Computer Vision (ICCV)},
   pages={1--11},
-  year={2023}
+  year={2025}
 }
 </pre>{% endraw %}
