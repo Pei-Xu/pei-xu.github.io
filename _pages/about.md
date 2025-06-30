@@ -41,7 +41,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 <span>Zhen Wu</span>, <span>Jiaman Li</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>
 {: .authors}
 
-In _ICCV_, 2025.
+In _IEEE/CVF International Conference on Computer Vision_, 2025.
 
 [](https://arxiv.org/pdf/2406.17840){: .paper-link title="Paper"}
 [](https://www.youtube.com/watch?v=ztTsMeIgIGk){: .video-link title="Video"}

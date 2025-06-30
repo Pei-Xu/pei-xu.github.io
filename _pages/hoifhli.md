@@ -20,7 +20,7 @@ redirect_from:
 <span>Stanford University</span>
 {: .affiliations}
 
-In _ICCV_, 2025.
+In _IEEE/CVF International Conference on Computer Vision_, 2025.
 
 ![teaser](projects/hoifhli/teaser1.png)
 {: .teasers}
