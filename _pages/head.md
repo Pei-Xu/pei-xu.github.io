@@ -23,13 +23,11 @@ redirect_from:
 
 In _9th Annual Conference on Robot Learning_, 2025.
 
-
-![](projects/HEAD/overview.png){: style="margin-bottom:10px"}\\
-![](projects/HEAD/overview2.png)
+![](projects/HEAD/overview_all.png)
 
 ## Abstract
-![teaser](projects/HEAD/teaser.png){: style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}
-![SIGGRAPH Asia 2024](projects/HEAD/corl25_logo.png){: style="float:right;width:120px;max-width:100%;padding:20px 0 10px 20px;clear:both"}
+![teaser](projects/HEAD/teaser.png){: style="width:360px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}
+![SIGGRAPH Asia 2024](projects/HEAD/corl25_logo.png){: style="float:right;width:180px;max-width:100%;padding:20px 0 10px 20px;clear:both"}
 We propose Hand-Eye Autonomous Delivery (HEAD), a framework that learns navigation, locomotion, and reaching skills for humanoids, directly from human motion and vision perception data. We take a modular approach where the high-level planner commands the target position and orientation of the hands and eyes of the humanoid, delivered by the low-level policy that controls the whole-body movements. Specifically, the low-level whole-body controller learns to track the three points (eyes, left hand, and right hand) from existing large-scale human motion capture data while high-level policy learns from human data collected by Aria glasses. Our modular approach decouples the ego-centric vision perception from physical actions, promoting efficient learning and scalability to novel scenes. We evaluate our method both in simulation and in the real-world, demonstrating humanoid's capabilities to navigate and reach in complex environments designed for humans.
 
 
