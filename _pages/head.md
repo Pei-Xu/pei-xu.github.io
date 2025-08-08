@@ -23,7 +23,7 @@ redirect_from:
 
 In _9th Annual Conference on Robot Learning_, 2025.
 
-![](projects/HEAD/overview_all.png)
+![](projects/HEAD/overview.png)
 
 ## Abstract
 ![teaser](projects/HEAD/teaser.png){: style="width:360px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}

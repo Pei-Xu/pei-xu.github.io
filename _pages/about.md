@@ -33,24 +33,6 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
-*CoRL 2025*{:.badge} ![](projects/HEAD/thumb.png)
-</div>
-<div class='paper-box-text' markdown="1">
-### [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](HEAD)
-{: .paper-list-title #head}
-
-<span>Sirui Chen\*</span>, <span>Yufei Ye\*</span>, <span>Zi-Ang Cao\*</span>, <span>Jennifer Lew</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>
-{: .authors}
-
-In _9th Annual Conference on Robot Learning_, 2025.
-
-[](https://www.arxiv.org/abs/2508.03068){: .paper-link title="Paper"}
-<!-- [](https://stanford-tml.github.io/HEAD){: .external-link title="Project Page"} -->
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image' markdown="1">
 *ICCV 2025*{:.badge} ![](projects/hoifhli/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
@@ -67,6 +49,25 @@ In _IEEE/CVF International Conference on Computer Vision_, 2025.
 [](https://hoifhli.github.io/){: .external-link title="Project Page"}
 </div>
 </div>
+
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*CoRL 2025*{:.badge} ![](projects/HEAD/thumb.png)
+</div>
+<div class='paper-box-text' markdown="1">
+### [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](HEAD)
+{: .paper-list-title #head}
+
+<span>Sirui Chen\*</span>, <span>Yufei Ye\*</span>, <span>Zi-Ang Cao\*</span>, <span>Jennifer Lew</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>
+{: .authors}
+
+In _9th Annual Conference on Robot Learning_, 2025.
+
+[](https://www.arxiv.org/abs/2508.03068){: .paper-link title="Paper"}
+<!-- [](https://stanford-tml.github.io/HEAD){: .external-link title="Project Page"} -->
+</div>
+</div>
+
 
 
 ## 2024
