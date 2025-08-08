@@ -4,8 +4,7 @@ title: "Human-Object Interaction from Human-Level Instructions"
 excerpt: ""
 author_profile: false
 redirect_from: 
- - /hoifhli
-
+ - /hihi
 --- 
 
 # Human-Object Interaction from Human-Level Instructions

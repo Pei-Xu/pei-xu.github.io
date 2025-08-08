@@ -21,7 +21,7 @@ I am a postdoctoral researcher at [The Movement Lab](https://tml.stanford.edu/) 
 I am also interested in applying computer science techniques to other disciplines, like material science, bioengineering and biomedical engineering.
 
 Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. [Feng Luo](https://people.computing.clemson.edu/~luofeng/).
-I received my Ph.D. in computer science from Clemson University under the supervision of Prof. [Ioannis Karamouzas](https://people.computing.clemson.edu/~ioannis/). Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.
+I received my Ph.D. in computer science from Clemson University under the supervision of Prof. [Ioannis Karamouzas](https://www.cs.ucr.edu/~ioannis/). Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.
 
 </div>
 
@@ -30,6 +30,25 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 ## 2025
 {: .paper-list-year}
+
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*CoRL 2025*{:.badge} ![](projects/HEAD/thumb.png)
+</div>
+<div class='paper-box-text' markdown="1">
+### [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](HEAD)
+{: .paper-list-title #head}
+
+<span>Sirui Chen\*</span>, <span>Yufei Ye\*</span>, <span>Zi-Ang Cao\*</span>, <span>Jennifer Lew</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>
+{: .authors}
+
+In _9th Annual Conference on Robot Learning_, 2025.
+
+[](https://www.arxiv.org/abs/2508.03068){: .paper-link title="Paper"}
+<!-- [](https://stanford-tml.github.io/HEAD){: .external-link title="Project Page"} -->
+</div>
+</div>
+
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
 *ICCV 2025*{:.badge} ![](projects/hoifhli/thumb.png)
@@ -48,7 +67,6 @@ In _IEEE/CVF International Conference on Computer Vision_, 2025.
 [](https://hoifhli.github.io/){: .external-link title="Project Page"}
 </div>
 </div>
-
 
 
 ## 2024
