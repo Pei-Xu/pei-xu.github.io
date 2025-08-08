@@ -5,9 +5,14 @@ excerpt: ""
 author_profile: false
 redirect_from: 
  - /piano
+ - /PIANO
+ - /Piano
  - /elise
  - /FürElise
  - /FurElise
+ - /forelise
+ - /furelise
+ - /fürelise
 --- 
 
 # FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance

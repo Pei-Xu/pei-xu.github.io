@@ -3,6 +3,7 @@ permalink: /KDMA
 title: "Human Inspired Multi-Agent Navigation using Knowledge Distillation"
 excerpt: ""
 author_profile: false
+ - /kdma
 --- 
 
 # Human Inspired Multi-Agent Navigation using Knowledge Distillation

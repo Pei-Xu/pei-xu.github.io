@@ -36,7 +36,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 *CoRL 2025*{:.badge} ![](projects/HEAD/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
-### [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](HEAD)
+### [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](head)
 {: .paper-list-title #head}
 
 <span>Sirui Chen\*</span>, <span>Yufei Ye\*</span>, <span>Zi-Ang Cao\*</span>, <span>Jennifer Lew</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>

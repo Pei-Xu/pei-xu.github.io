@@ -3,6 +3,9 @@ permalink: /guitar
 title: "Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing"
 excerpt: ""
 author_profile: false
+redirect_from: 
+ - /Guitar
+ - /GUITAR
 --- 
 
 

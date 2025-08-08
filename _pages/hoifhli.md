@@ -5,6 +5,7 @@ excerpt: ""
 author_profile: false
 redirect_from: 
  - /hihi
+ - /hoifhli
 --- 
 
 # Human-Object Interaction from Human-Level Instructions
