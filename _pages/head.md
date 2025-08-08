@@ -1,10 +1,10 @@
 ---
-permalink: /head
+permalink: /HEAD
 title: "Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching"
 excerpt: ""
 author_profile: false
 redirect_from: 
- - /HEAD
+ - /head
 --- 
 
 # Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching

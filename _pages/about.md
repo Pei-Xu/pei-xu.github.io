@@ -36,7 +36,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 *CoRL 2025*{:.badge} ![](projects/HEAD/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
-### [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](head)
+### [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](HEAD)
 {: .paper-list-title #head}
 
 <span>Sirui Chen\*</span>, <span>Yufei Ye\*</span>, <span>Zi-Ang Cao\*</span>, <span>Jennifer Lew</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>
@@ -54,7 +54,7 @@ In _9th Annual Conference on Robot Learning_, 2025.
 *ICCV 2025*{:.badge} ![](projects/hoifhli/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
-### [Human-Object Interaction from Human-Level Instructions](hoifhli)
+### [Human-Object Interaction from Human-Level Instructions](HOIFHLI)
 {: .paper-list-title #hoifhli}
 
 <span>Zhen Wu</span>, <span>Jiaman Li</span>, <span>**Pei Xu**</span>, <span>C. Karen Liu</span>
