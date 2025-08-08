@@ -24,6 +24,9 @@ redirect_from:
 In _9th Annual Conference on Robot Learning_, 2025.
 
 
+![](projects/HEAD/overview.png){: style="margin-bottom:10px"}\\
+![](projects/HEAD/overview2.png)
+
 ## Abstract
 ![teaser](projects/HEAD/teaser.png){: style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}
 ![SIGGRAPH Asia 2024](projects/HEAD/corl25_logo.png){: style="float:right;width:120px;max-width:100%;padding:20px 0 10px 20px;clear:both"}
