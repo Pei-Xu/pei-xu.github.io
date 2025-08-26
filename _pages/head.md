@@ -14,7 +14,7 @@ redirect_from:
 <span>Yufei Ye\*</span>,
 <span>Zi-Ang Cao\*</span>,
 <span>Jennifer Lew</span>,
-<span>**Pei Xu**</span>,
+<span>Pei Xu</span>,
 <span>C. Karen Liu</span>
 {: .authors}
 
@@ -32,7 +32,7 @@ We propose Hand-Eye Autonomous Delivery (HEAD), a framework that learns navigati
 
 
 [](https://www.arxiv.org/abs/2508.03068){: .paper-link title="Paper"}
-<!-- [](https://stanford-tml.github.io/HEAD){: .external-link title="Project Page"} -->
+[](https://stanford-tml.github.io/HEAD){: .external-link title="Project Page"}
 {: .links}
 
 <!-- ## Video

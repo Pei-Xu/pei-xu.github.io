@@ -64,7 +64,7 @@ In _IEEE/CVF International Conference on Computer Vision_, 2025.
 In _9th Annual Conference on Robot Learning_, 2025.
 
 [](https://www.arxiv.org/abs/2508.03068){: .paper-link title="Paper"}
-<!-- [](https://stanford-tml.github.io/HEAD){: .external-link title="Project Page"} -->
+[](https://stanford-tml.github.io/HEAD){: .external-link title="Project Page"}
 </div>
 </div>
 
@@ -145,7 +145,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_.
 ### [Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction](ContextVAE)
 {: .paper-list-title #ContextVAE}
 
-**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
+<span>**Pei Xu**</span>, <span>Jean-Bernard Hayet</span>, <span>Ioannis Karamouzas</span>
 {: .authors}
 
 _IEEE Robotics and Automation Letters_.\\
@@ -165,7 +165,7 @@ Also in _IEEE International Conference on Robotics and Automation_, 2024.
 ### [Composite Motion Learning with Task Control](CompositeMotion)
 {: .paper-list-title #CompositeMotion}
 
-**Pei Xu**, Xiumin Shang, Victor Zordan, Ioannis Karamouzas
+<span>**Pei Xu**</span>, <span>Xiumin Shang</span>, <span>Victor Zordan</span>, <span>Ioannis Karamouzas</span>
 {: .authors}
 
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical papers trailer.*{:.paper-list-highlight}
@@ -184,7 +184,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)_. *In technical pap
 ### [Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies](PolicyEval)
 {: .paper-list-title #PolicyEval}
 
-Kaixiang Xie, **Pei Xu**, Sheldon Andrews, Victor Zordan, Paul G. Kry
+<span>Kaixiang Xie</span>, <span>**Pei Xu**</span>, <span>Sheldon Andrews</span>, <span>Victor Zordan</span>, <span>Paul G. Kry</span>
 {: .authors}
 
 _PACM on Computer Graphics and Interactive Techniques_.\\
@@ -207,7 +207,7 @@ In _ACM SIGGRAPH/Eurographics Symposium on Computer Animation_, 2023.
 ### [SocialVAE: Human Trajectory Prediction using Timewise Latents](SocialVAE)
 {: .paper-list-title #SocialVAE}
 
-**Pei Xu**, Jean-Bernard Hayet, Ioannis Karamouzas
+<span>**Pei Xu**</span>, <span>Jean-Bernard Hayet</span>, <span>Ioannis Karamouzas</span>
 {: .authors}
 
 In _the 17th European Conference on Computer Vision_, 2022.
@@ -230,7 +230,7 @@ In _the 17th European Conference on Computer Vision_, 2022.
 ### [PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network](PFPN)
 {: .paper-list-title #PFPN}
 
-**Pei Xu**, Ioannis Karamouzas
+<span>**Pei Xu**</span>, <span>Ioannis Karamouzas</span>
 {: .authors}
 
 In _ACM SIGGRAPH Conference on Motion, Interaction and Games_, 2021. *Best paper nomination.*{:.paper-list-highlight}\\
@@ -250,7 +250,7 @@ Also in _NeurIPS Deep Reinforcement Learning workshop_, 2021.
 ### [Human Inspired Multi-Agent Navigation using Knowledge Distillation](KDMA)
 {: .paper-list-title #KDMA}
 
-**Pei Xu**, Ioannis Karamouzas
+<span>**Pei Xu**</span>, <span>Ioannis Karamouzas</span>
 {: .authors}
 
 In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
@@ -269,7 +269,7 @@ In _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2021.
 ### [A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control](ICCGAN)
 {: .paper-list-title #ICCGAN}
 
-**Pei Xu**, Ioannis Karamouzas
+<span>**Pei Xu**</span>, <span>Ioannis Karamouzas</span>
 {: .authors}
 
 _PACM on Computer Graphics and Interactive Techniques_. *Cover article.*{:.paper-list-highlight}\\
