@@ -45,7 +45,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 In _IEEE/CVF International Conference on Computer Vision_, 2025.
 
 [](https://arxiv.org/pdf/2406.17840){: .paper-link title="Paper"}
-[](https://www.youtube.com/watch?v=ztTsMeIgIGk){: .video-link title="Video"}
+<!-- [](https://www.youtube.com/watch?v=ztTsMeIgIGk){: .video-link title="Video"} -->
 [](https://hoifhli.github.io/){: .external-link title="Project Page"}
 </div>
 </div>

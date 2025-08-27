@@ -31,6 +31,8 @@ Intelligent agents must autonomously interact with the environments to perform d
 
 
 [](https://arxiv.org/pdf/2406.17840){: .paper-link title="Paper"}
+<!-- [](https://www.youtube.com/watch?v=ztTsMeIgIGk){: .video-link title="Video"} -->
+[](https://github.com/zhenkirito123/hoifhli_release){: .code-link title="Code"}
 [](https://hoifhli.github.io){: .external-link title="Project Page"}
 {: .links}
 
