@@ -58,11 +58,53 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 
 ## Method
 
+
+<style>
+.video_gallery {float:left;overflow:hidden;width:320px;max-width:100%;margin:10px}
+</style>
+
+<div class="video_gallery">
 <label for="primitive-dribble">Dribble</label>
-<video id="primitive-dribble" width="320" height="240" controls>
+<video id="primitive-dribble" width="320" controls>
   <source src="projects/Basketball/dribble.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+</div>
+<div class="video_gallery">
+<label for="primitive-shoot">Shoot</label>
+<video id="primitive-shoot" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="primitive-pass">Pass</label>
+<video id="primitive-pass" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="primitive-catch">Catch</label>
+<video id="primitive-catch" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="primitive-rebound">Rebound</label>
+<video id="primitive-rebound" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="primitive-defend">Locomotion + Defend</label>
+<video id="primitive-defend" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
 
 ## Primitive Policies
 
