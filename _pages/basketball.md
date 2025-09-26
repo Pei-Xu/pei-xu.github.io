@@ -57,7 +57,9 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 </div>
 
 ## Method
-<video width="320" height="240" controls>
+
+<label for="primitive-dribble">Dribble</label>
+<video id="primitive-dribble" width="320" height="240" controls>
   <source src="projects/Basketball/dribble.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
