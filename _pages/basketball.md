@@ -58,11 +58,18 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 
 ## Method
 
+Primitive Policy Learning from unstructued data collected from disparate sources
+
+Policy Transition Learning
+
+Policy Composition
+
 
 <style>
 .video_gallery {float:left;overflow:hidden;width:320px;max-width:100%;margin:10px}
 </style>
 
+## Primitive Policies
 <div class="video_gallery">
 <label for="primitive-dribble">Dribble</label>
 <video id="primitive-dribble" width="320" controls>
@@ -106,11 +113,59 @@ Your browser does not support the video tag.
 </video>
 </div>
 
-## Primitive Policies
-
 ## Policy Transitions
+<div class="video_gallery">
+<label for="transition-dribble2shoot">Shoot off Dribble</label>
+<video id="transition-dribble2shoot" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="primitive-pass">Pass off Dribble</label>
+<video id="primitive-pass" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="primitive-pass">Pass & Catch</label>
+<video id="primitive-pass" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="transition-dribble2pass">Shoot off Catch</label>
+<video id="transition-dribble2pass" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="transition-dribble2pass">Catch to Dribble</label>
+<video id="transition-dribble2pass" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div class="video_gallery">
+<label for="transition-dribble2pass">Rebound to Dribble</label>
+<video id="transition-dribble2pass" width="320" controls>
+  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+
 
 ## Multi-Agent Interactive Control
+
+<div class="video_gallery">
+<video id="interact-control" width="320" controls>
+  <source src="projects/Basketball/interact.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
 
 
 ## Bibtex
