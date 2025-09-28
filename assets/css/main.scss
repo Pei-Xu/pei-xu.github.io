@@ -184,13 +184,13 @@ h1:before, .anchor:before {
     padding-left: 10px
 }
 
-.paper-link, .code-link, .video-link, .external-link, .dataset-link {
+.paper-link, .code-link, .video-link, .external-link, .dataset-link, .bilibili-link {
     margin-right:10px;
     background-size: 28px;
     background-repeat: no-repeat;
     padding: 6px 14px
 }
-.paper-link:hover, .code-link:hover, .video-link:hover, .external-link:hover, .dataset-link:hover {
+.paper-link:hover, .code-link:hover, .video-link:hover, .external-link:hover, .dataset-link:hover, .bilibili-link:hover {
     background-size: 30px;
 }
 
@@ -208,6 +208,9 @@ h1:before, .anchor:before {
 }
 .dataset-link {
     background-image: url(icons/database_24dp_000_FILL0_wght400_GRAD0_opsz24.png);
+}
+.bilibili-link {
+    background-image: url(icons/bilibili-36.png);
 }
 
 code.highlighter-rouge {
