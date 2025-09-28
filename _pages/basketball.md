@@ -60,10 +60,17 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 
 ## Method
 
+![](projects/Basketball/policy_learning.png)
+{: .teasers}
+
 Primitive Policy Learning from unstructued data collected from disparate sources
 
+![](projects/Basketball/policy_transition.png)
+{: .teasers}
 Policy Transition Learning
 
+![](projects/Basketball/policy_composition.png)
+{: .teasers}
 Policy Composition
 
 
