@@ -41,6 +41,9 @@ Piano playing requires agile, precise, and coordinated hand control that stretch
 [](https://for-elise.github.io){: .external-link title="Project Page"}
 {: .links}
 
+## Media
+[AI could help reduce injury risk in pianists](https://news.stanford.edu/stories/2024/12/ai-could-help-reduce-injury-risk-in-pianists)(Stanford Report)
+
 ## Video
 <div style="max-width:560px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vchQ-FxH56w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -36,6 +36,9 @@ We present a novel approach to synthesize dexterous motions for physically simul
 [](https://github.com/xupei0610/guitar/tree/main/dataset){: .dataset-link title="Dataset"}
 {: .links}
 
+## Media
+[Mastering the Strings: Synchoronizing Dual Hands for Realistic Guitar Playing](https://neuronad.com/ai-news/tech/mastering-the-strings-synchronizing-dual-hands-for-realistic-guitar-playing)(Neuronad)
+
 ## Copyright
 We respect the copyright of all the pieces of music used in this research project.
 All the music notes and video demonstrations (containing audio) will be only used for educational and scientific research purposes.
