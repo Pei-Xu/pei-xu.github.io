@@ -37,9 +37,11 @@ Predicting pedestrian movement is critical for human behavior analysis and also 
 
 
 ## Video
-<div style="max-width:560px">
+<div style="max-width:560px;margin-bottom:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nXrreTmXktM?si=c66LWojq8FxsGBDN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+[](https://www.bilibili.com/video/BV19M411f7uz/){: .bilibili-link title="Bilibili"}
 
 
 ## Poster

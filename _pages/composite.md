@@ -41,12 +41,15 @@ We present a deep learning method for composite and task-driven motion control f
 
 
 ## Video
-<div style="max-width:560px">
+<div style="max-width:560px;margin-bottom:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mcRAxwoTh3E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<div style="max-width:400px;margin-top:20px">
+<div style="max-width:400px;margin-bottom:20px">
 <iframe width="400" height="200" src="https://www.youtube.com/embed/VBZ2sDxvZQE?si=ZwYPpeqJAgEI0Ja4&amp;start=148"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+
+[](https://www.bilibili.com/video/BV1Tb4y1g7SN/){: .bilibili-link title="Bilibili"}
 
 
 ## Poster

@@ -47,9 +47,12 @@ Motivated by humans' ability to adapt skills in the learning of new ones, this p
 {: .links}
 
 ## Video
-<div style="max-width:560px">
+<div style="max-width:560px;margin-bottom:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WxmJSCNFb28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+[](https://www.bilibili.com/video/BV1pa4y1S7We/){: .bilibili-link title="Bilibili"}
+
 
 ## Bibtex
 {% raw %}<pre class="bibtex">

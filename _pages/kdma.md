@@ -38,9 +38,11 @@ Despite significant advancements in the field of multi-agent navigation, agents 
 {: .links}
 
 ## Video
-<div style="max-width:560px">
+<div style="max-width:560px;margin-bottom:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMctyEw8kRI?si=7Y4unsmk6Q9qDngW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+[](https://www.bilibili.com/video/BV1s94y137JT/){: .bilibili-link title="Bilibili"}
 
 
 ## Bibtex

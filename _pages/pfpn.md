@@ -35,12 +35,15 @@ Data-driven methods for physics-based character control using reinforcement lear
 
 
 ## Video
-<div style="max-width:560px">
+<div style="max-width:560px;margin-bottom:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTtdnq0WpWo?si=d_DzqASFmIkTdmQ2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<div style="max-width:560px;margin-top:20px">
+<div style="max-width:560px;margin-bottom:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Usbpl6jefCY?si=ypAxV7tSxa0OAD2Z" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+[](https://www.bilibili.com/video/BV1Xe411D7hg/){: .bilibili-link title="Bilibili"}
+
 
 
 ## Poster

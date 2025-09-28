@@ -52,11 +52,11 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 
 
 ## Video
-<div style="max-width:560px;margin-bottom:10px">
+<div style="max-width:560px;margin-bottom:20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RBFIjjmR2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-[Bilibili](https://bilibili.com){: .bilibili-link title="Bilibi"}
+[](https://bilibili.com){: .bilibili-link title="Bilibili"}
 
 ## Method
 
