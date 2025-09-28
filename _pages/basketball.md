@@ -107,7 +107,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 </div>
-<dive style="clear:both"></div>
+<div style="clear:both"></div>
 
 ## Policy Transitions
 <div class="video_gallery">
@@ -152,7 +152,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 </div>
-<dive style="clear:both"></div>
+<div style="clear:both"></div>
 
 
 ## Multi-Agent Interactive Control
@@ -162,7 +162,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 </div>
-<dive style="clear:both"></div>
+<div style="clear:both"></div>
 
 
 ## Bibtex
@@ -178,31 +178,3 @@ Your browser does not support the video tag.
     doi = {10.1145/3763367}
 }
 </pre>{% endraw %}
-
-
-
-# d2p
-d2p+c2s
-d2p+c2d
-
-# c2d
-c2p+c2d
-c2d
-
-# r2d
-l2r2d
-d2s+r2d
-
-
-
-c2p+c2s
-
-
-l2c2d
-c2p
-
-
-
-
-d2s
-c2s
