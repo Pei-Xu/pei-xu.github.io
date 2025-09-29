@@ -44,7 +44,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2025)_.
 
-[](projects/Basketball/Learning.to.Ball.pdf){: .paper-link title="Paper"}
+[](http://arxiv.org/abs/2509.22442){: .paper-link title="Paper"}
 [](https://www.youtube.com/watch?v=2RBFIjjmR2I){: .video-link title="Video"}
 [](https://github.com/xupei0610/basketball){: .code-link title="Code"}
 </div>
