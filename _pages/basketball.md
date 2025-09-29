@@ -66,7 +66,6 @@ Primitive Policy Learning from unstructued data collected from disparate sources
 
 ---
 
-<div style="max-width:">
 ![](projects/Basketball/policy_transition.png){: style="max-width:100%;margin:10px 0"}
 
 Policy Transition Learning to support multi-phase long-horizon basketball-playing tasks involving diverse transitions with ill-defined intermediate states.
