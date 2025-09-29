@@ -18,7 +18,7 @@ redirect_from:
 <div id='about-me' markdown="1">
 
 I am a postdoctoral researcher at [The Movement Lab](https://tml.stanford.edu/) of Stanford University, working with Prof. [C. Karen Liu](https://tml.stanford.edu/people/karen-liu). My research interests include artificial intelligence, computer graphics, and computer vision with a focus on motion planning and reinforcement learning for physics-based character control and embodied agent.
-I am also interested in applying computer science techniques to other disciplines, like material science, bioengineering and biomedical engineering.
+I am also interested in applying computer science and artificial intelligence techniques to other disciplines, like material science, bioengineering and biomedical engineering.
 
 Before joining Stanford University, I was a research assistant professor at Clemson University, working at the Big Data Analytics Lab with Prof. [Feng Luo](https://people.computing.clemson.edu/~luofeng/).
 I received my Ph.D. in computer science from Clemson University under the supervision of Prof. [Ioannis Karamouzas](https://www.cs.ucr.edu/~ioannis/). Prior to that, I received an M.S. in electrical engineering from University of Minnesota at Twin Cities.
