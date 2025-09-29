@@ -60,19 +60,20 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 
 ## Method
 
-![](projects/Basketball/policy_learning.png){: style="max-width:1000px;margin:10px 0"}
+![](projects/Basketball/policy_learning.png){: style="max-width:100%;margin:10px 0"}
 
 Primitive Policy Learning from unstructued data collected from disparate sources without needing any reference of ball trajectories.
 
 ---
 
-![](projects/Basketball/policy_transition.png){: style="max-width:1000px;margin:10px 0"}
+<div style="max-width:">
+![](projects/Basketball/policy_transition.png){: style="max-width:100%;margin:10px 0"}
 
 Policy Transition Learning to support multi-phase long-horizon basketball-playing tasks involving diverse transitions with ill-defined intermediate states.
 
 ---
 
-![](projects/Basketball/policy_composition.png){: style="max-width:600px;margin:10px 0"}
+![](projects/Basketball/policy_composition.png){: style="max-width:100%;margin:10px 0"}
 
 Policy Composition to enable seamless and robust transitions between subtasks.
 
