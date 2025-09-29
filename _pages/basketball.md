@@ -56,7 +56,7 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RBFIjjmR2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-[](https://bilibili.com){: .bilibili-link title="Bilibili"}
+[](https://www.bilibili.com/video/BV1BGHwzBEAd){: .bilibili-link title="Bilibili"}
 
 ## Method
 
