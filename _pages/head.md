@@ -43,10 +43,12 @@ We propose Hand-Eye Autonomous Delivery (HEAD), a framework that learns navigati
 
 ## Bibtex
 {% raw %}<pre class="bibtex">
-@inproceedings{head,
+@inproceedings{hand,
   title={Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching},
-  author={Chen, Sirui and Ye, Yufei and Cao, Zi-Ang and Lew, Jennifer and Xu, Pei and Liu, C. Karen},
-  booktitle={9th Annual Conference on Robot Learning},
-  year={2025}
+  author={Chen, Sirui and Ye, Yufei and Cao, Zi-ang and Xu, Pei and Lew, Jennifer and Liu, Karen},
+  booktitle={Conference on Robot Learning},
+  pages={4058--4073},
+  year={2025},
+  organization={PMLR}
 }
 </pre>{% endraw %}

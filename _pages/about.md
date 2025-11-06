@@ -36,7 +36,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 *SIGGRAPH Asia 2025*{:.badge} ![](projects/Basketball/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
-### [Learning to Ball: Composing Policies for Long-Horizon Basketball Moves](Basketball)
+### [Learning to Ball: Composing Policies for Long-Horizon Basketball Moves](basketball)
 {: .paper-list-title #basketball}
 
 <span>**Pei Xu**</span>, <span>Zhen Wu</span>, <span>Ruocheng Wang</span>, <span>Vishnu Sarukkai</span>, <span>Kayvon Fatahalian</span>, <span>Ioannis Karamouzas</span>, <span>Victor Zordan</span>, <span>C. Karen Liu</span>

@@ -1,10 +1,10 @@
 ---
-permalink: /Basketball
+permalink: /basketball
 title: "Learning to Ball: Composing Policies for Long-Horizon Basketball Moves"
 excerpt: ""
 author_profile: false
 redirect_from: 
- - /basketball
+ - /Basketball
  - /LearningToBall
  - /learningtoball
  - /Learning2Ball
@@ -49,6 +49,11 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 [](http://arxiv.org/abs/2509.22442){: .paper-link title="Paper"}
 [](https://github.com/xupei0610/basketball){: .code-link title="Code"}
 {: .links}
+
+
+## Media
+\[具身新纪元\] [「硅谷库里」诞生！斯坦福AI机器人秀出丝滑连招：运球+急停+跳投，动作流畅如真人](https://blog.csdn.net/2501_93430156/article/details/153260945?spm=1001.2014.3001.5502)
+
 
 
 ## Video
