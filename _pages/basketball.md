@@ -54,6 +54,7 @@ Learning a control policy for a multi-phase, long-horizon task, such as basketba
 ## Media
 \[具身新纪元\] [「硅谷库里」诞生！斯坦福AI机器人秀出丝滑连招：运球+急停+跳投，动作流畅如真人](https://blog.csdn.net/2501_93430156/article/details/153260945?spm=1001.2014.3001.5502)
 
+\[深蓝学院\] [斯坦福大学全新idea：让机器人学会「打篮球」！运球、急停、转身跳投，一步到位！](https://www.bilibili.com/video/BV1CG4tzAEFQ/?share_source=copy_web&vd_source=8f13c78e94fae6ba359830047acc50f6)
 
 
 ## Video
