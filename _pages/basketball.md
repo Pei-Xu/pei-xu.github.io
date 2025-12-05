@@ -42,7 +42,7 @@ In _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2025)_
 {: .teasers}
 
 ## Abstract
-<!-- ![](projects/Basketball/tog.cover.jpg){: style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px"} -->
+![](projects/Basketball/tog.cover.jpg){: style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px"}
 ![](projects/Basketball/SA25_Logo_BlueH.png){: style="width:200px;float:right;max-width:100%;padding:0 0 10px 20px"} 
 Learning a control policy for a multi-phase, long-horizon task, such as basketball maneuvers, remains challenging for reinforcement learning approaches due to the need for seamless policy composition and transitions between skills. A long-horizon task typically consists of distinct subtasks with well-defined goals, separated by transitional subtasks with unclear goals but critical to the success of the entire task. Existing methods like the mixture of experts and skill chaining struggle with tasks where individual policies do not share significant commonly explored states or lack well-defined initial and terminal states between different phases. In this paper, we introduce a novel policy integration framework to enable the composition of drastically different motor skills in multi-phase long-horizon tasks with ill-defined intermediate states. Based on that, we further introduce a high-level soft router to enable seamless and robust transitions between the subtasks. We evaluate our framework on a set of fundamental basketball skills and challenging transitions. Policies trained by our approach can effectively control the simulated character to interact with the ball and accomplish the long-horizon task specified by real-time user commands, without relying on ball trajectory references.
 
