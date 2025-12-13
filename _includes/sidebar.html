@@ -1,5 +1,5 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky" style="max-height:calc(100vh - 9rem);overflow-y:scroll">
+  <div class="sidebar sticky" style="max-height:calc(100vh - 9rem);overflow-y:auto">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
