@@ -39,7 +39,7 @@ In _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)_
 
 ## Abstract
 ![](projects/AdaptNet/cover.png){: style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px"}
-[](projects/AdaptNet/sa2023_logo.png){: style="width:200px;float:right;max-width:100%;padding:0 0 10px 20px"}
+![](projects/AdaptNet/sa2023_logo.png){: style="width:200px;float:right;max-width:100%;padding:0 0 10px 20px"}
 Motivated by humans' ability to adapt skills in the learning of new ones, this paper presents AdaptNet, an approach for modifying the latent space of existing policies to allow new behaviors to be quickly learned from like tasks in comparison to learning from scratch. Building on top of a given reinforcement learning  controller, AdaptNet uses a two-tier hierarchy that augments the original state embedding to support modest changes in a behavior and further modifies the policy network layers to make more substantive changes. The technique is shown to be effective for adapting existing physics-based controllers to a wide range of new styles for locomotion, new task targets, changes in character morphology and extensive changes in environment. Furthermore, it exhibits significant increase in learning efficiency, as indicated by greatly reduced training times when compared to training from scratch or using other approaches that modify existing policies.
 
 [](http://arxiv.org/abs/2310.00239){: .paper-link title="Paper"}
