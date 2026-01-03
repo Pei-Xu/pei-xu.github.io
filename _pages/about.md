@@ -63,7 +63,7 @@ _ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2025)_.
 
 In _IEEE/CVF International Conference on Computer Vision_, 2025.
 
-[](https://arxiv.org/pdf/2406.17840){: .paper-link title="Paper"}
+[](https://arxiv.org/abs/2406.17840){: .paper-link title="Paper"}
 <!-- [](https://www.youtube.com/watch?v=ztTsMeIgIGk){: .video-link title="Video"} -->
 [](https://hoifhli.github.io/){: .external-link title="Project Page"}
 </div>
