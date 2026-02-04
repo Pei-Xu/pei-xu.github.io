@@ -31,7 +31,7 @@ Our experiments on a diverse subset of the LAFAN1 dataset reveal that while most
 
 [](https://arxiv.org/abs/2510.02252){: .paper-link title="Paper"}
 <!-- [](youtube.com/watch?v=kr3I_g1GLYw&feature=youtu.be){: .video-link title="Video"} -->
-[](https://github.com/zhenkirito123/hoifhli_release){: .code-link title="Code"}
+[](https://github.com/YanjieZe/GMR){: .code-link title="Code"}
 [](https://jaraujo98.github.io/retargeting_matters/){: .external-link title="Project Page"}
 {: .links}
 
