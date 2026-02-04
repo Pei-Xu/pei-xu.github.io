@@ -39,7 +39,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 ### [Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking](GMR)
 {: .paper-list-title #GMR}
 
-<span>João Pedro Araújo\* </span>, <span>Yanjie Ze\*</span>, <span>**Pei Xu**\*</span>, <span>Jiajun Wu†</span>, <span>C. Karen Liu†</span>
+<span>João Pedro Araújo\* </span>, <span>Yanjie Ze\*</span>, <span>**Pei Xu**\*</span>, <span>Jiajun Wu<sup>†</sup></span>, <span>C. Karen Liu<sup>†</sup></span>
 {: .authors}
 
 In _IEEE International Conference on Robotics and Automation_, 2026.
