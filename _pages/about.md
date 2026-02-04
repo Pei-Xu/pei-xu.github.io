@@ -28,6 +28,28 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 # Publications
 
+## 2026
+{: .paper-list-year}
+
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*ICRA 2026*{:.badge} ![](projects/gmr/thumb.png)
+</div>
+<div class='paper-box-text' markdown="1">
+### [Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking](GMR)
+{: .paper-list-title #GMR}
+
+<span>João Pedro Araújo\* </span>, <span>Yanjie Ze\*</span>, <span>**Pei Xu**\*</span>, <span>Jiajun Wu†</span>, <span>C. Karen Liu†</span>
+{: .authors}
+
+In _IEEE International Conference on Robotics and Automation_, 2026.
+
+[](https://arxiv.org/abs/2510.02252){: .paper-link title="Paper"}
+<!-- [](youtube.com/watch?v=kr3I_g1GLYw&feature=youtu.be){: .video-link title="Video"} -->
+[](https://jaraujo98.github.io/retargeting_matters/){: .external-link title="Project Page"}
+</div>
+</div>
+
 ## 2025
 {: .paper-list-year}
 
