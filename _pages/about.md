@@ -33,6 +33,25 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
+*CVPR 2026*{:.badge} ![](projects/push/thumb.png)
+</div>
+<div class='paper-box-text' markdown="1">
+### [Push-and-Step: From RL-Based Balance Recovery to Physical Simulation of Dense Crowds](push)
+{: .paper-list-title #push}
+
+<span>Alexis Jensen</span>, <span>**Pei Xu**</span>, <span>Charles Pontonnier</span>, <span>Julien Pettré</span>, <span>Ioannis Karamouzas</span>
+{: .authors}
+
+In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2026.
+
+<!-- [](){: .paper-link title="Paper"} -->
+<!-- [](){: .video-link title="Video"} -->
+<!-- [](){: .external-link title="Project Page"} -->
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
 *ICRA 2026*{:.badge} ![](projects/gmr/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
@@ -52,6 +71,7 @@ In _IEEE International Conference on Robotics and Automation_, 2026.
 
 ## 2025
 {: .paper-list-year}
+
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
