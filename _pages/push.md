@@ -11,10 +11,12 @@ redirect_from:
 {: #title}
 
 
-<span>Alexis Jensen</span>, <span>Pei Xu</span>, <span>Charles Pontonnier</span>, <span>Julien Pettré</span>, <span>Ioannis Karamouzas</span>
+<span>Alexis Jensen<sup>1</sup></span>, <span>Pei Xu<sup>2</sup></span>, <span>Charles Pontonnier<sup>1</sup></span>, <span>Julien Pettré<sup>1</sup></span>, <span>Ioannis Karamouzas<sup>3</sup></span>
 {: .authors}
 
-<span>Stanford University</span>
+<span><sup>1</sup> Univ Rennes, Inria, CNRS, IRISA</span>,
+<span><sup>2</sup> Stanford University</span>,
+<span><sup>3</sup> University of California, Riverside</span>
 {: .affiliations}
 
 In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2026.
@@ -40,7 +42,7 @@ We present a physics-based method for simulating full-body agents that recover b
 
 ## Bibtex
 {% raw %}<pre class="bibtex">
-@inproceedings{gmr,
+@inproceedings{push,
   title={Push-and-Step: From RL-Based Balance Recovery to Physical Simulation of Dense Crowds},
   author= {Alexis Jensen and Pei Xu and Charles Pontonnier and Julien Pettré and Ioannis Karamouzas},
   year= {2026},
