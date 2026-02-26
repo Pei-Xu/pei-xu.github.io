@@ -44,10 +44,11 @@ Intelligent agents must autonomously interact with the environments to perform d
 ## Bibtex
 {% raw %}<pre class="bibtex">
 @inproceedings{hoifhli,
-  title={Human-Object Interaction from Human-Level Instructions},
-  author={Wu, Zhen and Li, Jiaman and Xu, Pei and Liu, C. Karen},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  month={October},
-  year={2025}
+    title     = {Human-Object Interaction from Human-Level Instructions},
+    author    = {Wu, Zhen and Li, Jiaman and Xu, Pei and Liu, C. Karen},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {11176-11186}
 }
 </pre>{% endraw %}
