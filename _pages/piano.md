@@ -1,66 +1,64 @@
 ---
-permalink: /ForElise
-title: "FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance"
+permalink: /MUSIC
+title: "MUSIC: Learning Muscle-Driven Dexterous Hand Control"
 excerpt: ""
 author_profile: false
 redirect_from: 
  - /piano
  - /PIANO
- - /Piano
- - /elise
- - /FürElise
- - /FurElise
- - /forelise
- - /furelise
- - /fürelise
+ - /music
 --- 
 
-# FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance
+# MUSIC: Learning Muscle-Driven Dexterous Hand Control
 {: #title}
 
-<span>Ruocheng Wang*</span>,
-<span>Pei Xu*</span>,
-<span>Haochen Shi</span>,
-<span>Elizabeth Schumann</span>,
-<span>C. Karen Liu</span>
+<span>Pei Xu*<sup>1</sup></span>,
+<span>Yufei Ye*<sup>1</sup></span>,
+<span>Shuchun Sun<sup>2</sup></span>,
+<span>Yu Ding<sup>1</sup></span>,
+<span>Elizabeth Schumann<sup>1</sup></span>,
+<span>C. Karen Liu<sup>1</sup></span>
 {: .authors}
 
-<span>Stanford University</span>
+<span><sup>1</sup> Stanford University</span>,
+<span><sup>2</sup> Clemson University</span>
 {: .affiliations}
 
-In _SIGGRAPH Asia_, 2024.
+In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_
 
 
 ## Abstract
-![teaser](projects/ForElise/teaser.png){: style="width:500px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}
-![SIGGRAPH Asia 2024](projects/Guitar/sa2024_logo.png){: style="float:right;width:200px;max-width:100%;padding:20px 0 10px 20px;clear:both"}
-Piano playing requires agile, precise, and coordinated hand control that stretches the limits of dexterity. Hand motion models with the sophistication to accurately recreate piano playing have a wide range of applications in character animation, embodied AI, biomechanics, and VR/AR. In this paper, we construct a first-of-its-kind large-scale dataset that contains approximately 10 hours of 3D hand motion and audio from 15 elite-level pianists playing 153 pieces of classical music. To capture natural performances, we designed a markerless setup in which motions are reconstructed from multi-view videos using state-of-the-art pose estimation models. The motion data is further refined via inverse kinematics using the high-resolution MIDI key-pressing data obtained from sensors in a specialized Yamaha Disklavier piano. Leveraging the collected dataset, we developed a pipeline that can synthesize physically-plausible hand motions for musical scores outside of the dataset. Our approach employs a combination of imitation learning and reinforcement learning to obtain policies for physics-based bimanual control involving the interaction between hands and piano keys. To solve the sampling efficiency problem with the large motion dataset, we use a diffusion model to generate natural reference motions, which provide high-level trajectory and fingering (finger order and placement) information. However, the generated reference motion alone does not provide sufficient accuracy for piano performance modeling. We then further augmented the data by using musical similarity to retrieve similar motions from the captured dataset to boost the precision of the RL policy. With the proposed method, our model generates natural, dexterous motions that generalize to music from outside the training dataset.
+![teaser](projects/MUSIC/teaser.png){: style="width:500px;float:right;max-width:100%;padding:0 0 10px 20px;clear:both"}
+<!-- ![SIGGRAPH 2026](projects/MUSIC/siggraph2026_logo.png){: style="float:right;width:200px;max-width:100%;padding:20px 0 10px 20px;clear:both"} -->
+We present a data-driven approach for physics-based, muscle-driven dexterous control that enables musculoskeletal hands to perform precise piano playing for novel pieces of music outside the reference dataset. Our approach combines high-frequency muscle-level control with low-frequency latentspace coordination in a hierarchical architecture. At the low level, general single-hand policies are trained via reinforcement learning to generate dynamic muscle-tendon activations while tracking trajectories from a large reference motion dataset. The resulting tracking policies are then distilled into variational autoencoder (VAE) models, yielding smooth and structured latent spaces that abstract away low-level muscle dynamics. For the high level, we train piece-specific policies to operate in this latent space, coordinating bimanual motions based on specific goals, denoted by note events extracted from given musical scores, to synthesize performances beyond the reference data. High-level control is formulated as a decentralized multiagent reinforcement learning problem combined with adversarial learning for motion imitation. In addition, we present an enhanced musculoskeletal hand model that supports fine control of fingers for accurate low-level motion tracking and diverse high-level motion synthesis. We evaluate the control pipeline of our approach on a diverse piano repertoire spanning multiple musical styles and technical demands. Results demonstrate that our approach can synthesize coordinated bimanual motions with accurate key presses, and achieve the state-of-the-art performance of piano playing in physics-based dexterous control, while generalizing to sheet music that is not presented in the reference dataset. We also show that our musculoskeletal hand model demonstrates superior biomechanical stability and tracking precision compared to the existing model, and validate that our musculoskeletal hand model and muscle-driven controller can generate physiologically plausible activation patterns that align with human electromyography (EMG) recordings when subjects perform multiple tasks.
 
 
-[](https://arxiv.org/abs/2410.05791){: .paper-link title="Paper"}
-[](https://for-elise.github.io){: .external-link title="Project Page"}
-{: .links}
-
-## Media
-\[Stanford Report\] [AI could help reduce injury risk in pianists](https://news.stanford.edu/stories/2024/12/ai-could-help-reduce-injury-risk-in-pianists)
+<!-- [](https://arxiv.org/abs/#){: .paper-link title="Paper"}
+[](https://github.com/xupei0610/music){: .code-link title="Code"}
+{: .links} -->
 
 ## Video
 <div style="max-width:560px">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vchQ-FxH56w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<label for="primitive-dribble">Dribble</label>
+<video id="primitive-dribble"controls>
+  <source src="projects/MUSIC/teaser.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 </div>
+<!-- <div style="max-width:560px">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/#" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div> -->
 
-## Bibtex
+<!-- ## Bibtex
 {% raw %}<pre class="bibtex">
-@inproceedings{piano,
-    author = {Wang, Ruocheng and Xu, Pei and Shi, Haochen and Schumann, Elizabeth and Liu, C. Karen},
-    title = {{F\"urElise}: Capturing and Physically Synthesizing Hand Motions of Piano Performance},
-    booktitle = {SIGGRAPH Asia 2024 Conference Papers},
-    articleno = {77},
-    numpages = {11},
-    series = {SA '24},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
+@inproceedings{music,
+    author = {Xu, Pei and Ye, Yufei and Sun, Shuchun and Ding, Yu and Schumann, Elizabeth and Liu, C. Karen},
+    title = {{MUSIC}: Learning Muscle-Driven Dexterous Hand Control},
+    journal = {ACM Transactions on Graphics},
+    publisher = {ACM New York, NY, USA},
     year = {2024},
-    doi = {10.1145/3680528.3687703}
+    volume = {42},
+    number = {4}
 }
-</pre>{% endraw %}
+</pre>{% endraw %} -->
+<!-- , doi = {10.1145/3763367} -->
