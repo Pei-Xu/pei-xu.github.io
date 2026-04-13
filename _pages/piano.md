@@ -24,7 +24,7 @@ redirect_from:
 <span><sup>2</sup> Clemson University</span>
 {: .affiliations}
 
-In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_
+<!-- In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_ -->
 
 
 ![](projects/MUSIC/teaser.png)
@@ -44,7 +44,7 @@ We present a data-driven approach for physics-based, muscle-driven dexterous con
 <div class="video_gallery">
 <label for="primitive-dribble">Dribble</label>
 <video id="primitive-dribble" width="320" controls>
-  <source src="projects/Basketball/dribble.mp4" type="video/mp4">
+  <source src="projects/MUSIC/teaser.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </div>
