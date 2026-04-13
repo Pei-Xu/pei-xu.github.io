@@ -41,9 +41,8 @@ We present a data-driven approach for physics-based, muscle-driven dexterous con
 {: .links} -->
 
 ## Video
-<div class="video_gallery">
-<label for="primitive-dribble">Dribble</label>
-<video id="primitive-dribble" width="320" controls>
+<div style="max-width:640px">
+<video id="primitive-dribble" width="100%" controls>
   <source src="projects/MUSIC/teaser.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
