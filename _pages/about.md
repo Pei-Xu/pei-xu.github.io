@@ -46,7 +46,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2026.
 
 <!-- [](){: .paper-link title="Paper"} -->
 <!-- [](){: .video-link title="Video"} -->
-<!-- [](){: .external-link title="Project Page"} -->
+[](https://cvpr.thecvf.com/virtual/2026/poster/38609){: .external-link title="Project Page"}
 </div>
 </div>
 
