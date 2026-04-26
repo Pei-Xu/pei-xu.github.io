@@ -52,6 +52,8 @@ Your browser does not support the video tag.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tt1D36gE8zM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+# Method
+
 <style>
 .video_gallery {float:left;overflow:hidden;width:320px;max-width:100%;margin:10px}
 </style>
