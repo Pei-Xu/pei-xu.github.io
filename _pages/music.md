@@ -24,7 +24,7 @@ redirect_from:
 <span><sup>2</sup> Clemson University</span>
 {: .affiliations}
 
-<!-- In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_ -->
+In _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_
 
 
 ![](projects/MUSIC/teaser.png)
@@ -32,7 +32,7 @@ redirect_from:
 
 ## Abstract
 <!-- ![TOG](projects/MUSIC/tog.cover.jpg){: style="width:300px;float:right;max-width:100%;padding:0 0 10px 20px"} -->
-![SIGGRAPH 2026](projects/MUSIC/siggraph2026_logo.png){: style="float:right;width:200px;max-width:100%;padding:20px 0 10px 20px;clear:both"}
+![SIGGRAPH 2026](projects/MUSIC/siggraph2026_logo.jpg){: style="float:right;width:200px;max-width:100%;padding:20px 0 10px 20px;clear:both"}
 We present a data-driven approach for physics-based, muscle-driven dexterous control that enables musculoskeletal hands to perform precise piano playing for novel pieces of music outside the reference dataset. Our approach combines high-frequency muscle-level control with low-frequency latentspace coordination in a hierarchical architecture. At the low level, general single-hand policies are trained via reinforcement learning to generate dynamic muscle-tendon activations while tracking trajectories from a large reference motion dataset. The resulting tracking policies are then distilled into variational autoencoder (VAE) models, yielding smooth and structured latent spaces that abstract away low-level muscle dynamics. For the high level, we train piece-specific policies to operate in this latent space, coordinating bimanual motions based on specific goals, denoted by note events extracted from given musical scores, to synthesize performances beyond the reference data. High-level control is formulated as a decentralized multiagent reinforcement learning problem combined with adversarial learning for motion imitation. In addition, we present an enhanced musculoskeletal hand model that supports fine control of fingers for accurate low-level motion tracking and diverse high-level motion synthesis. We evaluate the control pipeline of our approach on a diverse piano repertoire spanning multiple musical styles and technical demands. Results demonstrate that our approach can synthesize coordinated bimanual motions with accurate key presses, and achieve the state-of-the-art performance of piano playing in physics-based dexterous control, while generalizing to sheet music that is not presented in the reference dataset. We also show that our musculoskeletal hand model demonstrates superior biomechanical stability and tracking precision compared to the existing model, and validate that our musculoskeletal hand model and muscle-driven controller can generate physiologically plausible activation patterns that align with human electromyography (EMG) recordings when subjects perform multiple tasks.
 
 
@@ -53,6 +53,19 @@ Your browser does not support the video tag.
 </div>
 
 # Method
+
+
+![](projects/MUSIC/overview.png){: style="max-width:100%;margin:10px 0"}
+
+The whole system of our framework is trained in three stages.
+First, we learn a single-hand tracking policy that outputs high-frequency muscle activations for direct muscle-driven control.
+Second, we perform on-policy distillation to obtain a VAE decoder as a low-level servo for muscle control, while taking as input the well-structured latent action.
+Lastly, we train a piece-specific high-level controller over the latent to synthesize motions for piano playing.
+While the first and third stages are conducted through reinforcement learning, the second stage is performed through supervised training.
+Specifically, for high-level controller training in the third stage, we adopt a decentralized multi-agent setting to treat two hands as individual agents associated with independent policies, while taking a shared kinematic observation of two hands for coordinated control.
+
+
+# Repertoire
 
 <style>
 .video_gallery {float:left;overflow:hidden;width:320px;max-width:100%;margin:10px}
