@@ -31,6 +31,27 @@ I received my Ph.D. in computer science from Clemson University under the superv
 ## 2026
 {: .paper-list-year}
 
+
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
+*SIGGRAPH 2026*{:.badge} ![](projects/MUSIC/thumb.png)
+</div>
+<div class='paper-box-text' markdown="1">
+### [MUSIC: Learning Muscle-Driven Dexterous Hand Control](MUSIC)
+{: .paper-list-title #music}
+
+<span>**Pei Xu**\*</span>, <span>Yufei Ye*</span>, <span>Shuchun Sun</span>, <span>Yu Ding</span>, <span>Elizabeth Schumann</span>, <span>C. Karen Liu</span>
+{: .authors}
+
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_.
+
+[](http://arxiv.org/abs/#){: .paper-link title="Paper"}
+[](https://www.youtube.com/watch?v=tt1D36gE8zM){: .video-link title="Video"}
+[](https://github.com/xupei0610/music){: .code-link title="Code"}
+</div>
+</div>
+
+
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
 *CVPR 2026*{:.badge} ![](projects/push/thumb.png)
