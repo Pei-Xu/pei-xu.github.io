@@ -45,7 +45,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_.
 
-[](http://arxiv.org/abs/#){: .paper-link title="Paper"}
+[](http://arxiv.org/abs/2604.23886){: .paper-link title="Paper"}
 [](https://www.youtube.com/watch?v=tt1D36gE8zM){: .video-link title="Video"}
 [](https://github.com/xupei0610/music){: .code-link title="Code"}
 </div>
