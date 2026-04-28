@@ -43,7 +43,7 @@ I received my Ph.D. in computer science from Clemson University under the superv
 <span>**Pei Xu**\*</span>, <span>Yufei Ye*</span>, <span>Shuchun Sun</span>, <span>Yu Ding</span>, <span>Elizabeth Schumann</span>, <span>C. Karen Liu</span>
 {: .authors}
 
-_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_.
+_ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)_. *In technical papers trailer.*{:.paper-list-highlight}
 
 [](http://arxiv.org/abs/2604.23886){: .paper-link title="Paper"}
 [](https://www.youtube.com/watch?v=tt1D36gE8zM){: .video-link title="Video"}
