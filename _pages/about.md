@@ -17,9 +17,9 @@ redirect_from:
 
 <div id='about-me' markdown="1">
 
-I am a Member of Technical Staff at Amazon Frontier AI & Robotics, where I work on humanoid robot control. My personal research interests lie at the intersection of artificial intelligence, computer graphics, and computer vision, with a focus on motion planning and reinforcement learning for physics-based character control and embodied agents. I am also interested in applying computational and AI methods to interdisciplinary problems in materials science, environmental science, bioengineering, and biomedical engineering.
+I am a Member of Technical Staff at Amazon Frontier AI & Robotics, where I work on humanoid robot control. My broader research interests span artificial intelligence, computer graphics, and computer vision, with a particular focus on motion planning and reinforcement learning for physics-based character control and embodied agents. I am also interested in applying computational and AI methods to interdisciplinary problems in materials science, environmental science, bioengineering, and biomedical engineering.
 
-Previously, I was a postdoctoral researcher at [The Movement Lab](https://tml.stanford.edu/) at Stanford University, where I worked with Prof. [C. Karen Liu](https://tml.stanford.edu/people/karen-liu), and a research assistant professor in the Big Data Analytics Lab at Clemson University, where I worked with Prof. [Feng Luo](https://people.computing.clemson.edu/~luofeng/). I received my Ph.D. in computer science from Clemson under the supervision of Prof. [Ioannis Karamouzas](https://www.cs.ucr.edu/~ioannis/), and my M.S. in electrical engineering from the University of Minnesota Twin Cities.
+Previously, I was a postdoctoral researcher at Stanford University, where I worked with Prof. [C. Karen Liu](https://tml.stanford.edu/people/karen-liu) in [The Movement Lab](https://tml.stanford.edu/). Before that, I was a research assistant professor in the Big Data Analytics Lab at Clemson University, working with Prof. [Feng Luo](https://people.computing.clemson.edu/~luofeng/). I received my Ph.D. in computer science from Clemson under the supervision of Prof. [Ioannis Karamouzas](https://www.cs.ucr.edu/~ioannis/), and my M.S. in electrical engineering from the University of Minnesota Twin Cities.
 
 </div>
 
