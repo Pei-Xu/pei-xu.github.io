@@ -16,6 +16,6 @@ author_profile: true
 
 <!-- Please check my recent publications to find my contact email. Thanks. -->
 
-Please contact me via `peixu [at] stanford.edu`.
+Please contact me via `peixu [dot] research [at] gmail.com`.
 
 [< Back](/)
