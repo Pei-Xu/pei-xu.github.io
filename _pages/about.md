@@ -34,6 +34,26 @@ I received my Ph.D. in computer science from Clemson University under the superv
 
 <div class='paper-box'>
 <div class='paper-box-image' markdown="1">
+*CoRL 2026*{:.badge} ![](/projects/VLK/thumb.png)
+</div>
+<div class='paper-box-text' markdown="1">
+### [VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](VLK)
+{: .paper-list-title #VLK}
+
+<span>Yen-Jen Wang\*</span>, <span>Jiaman Li\*</span>, <span>Sirui Chen<sup>§</sup></span>, <span>Takara E. Truong<sup>§</sup></span>, <span>**Pei Xu**<sup>§</sup></span>, <span>Pieter Abbeel</span>, <span>Rocky Duan</span>, <span>Koushil Sreenath</span>, <span>Angjoo Kanazawa</span>, <span>Carmelo Sferrazza</span>, <span>Guanya Shi</span>, <span>C. Karen Liu</span>
+{: .authors}
+
+In _Conference on Robot Learning_, 2026.
+
+[](https://arxiv.org/abs/2606.30645){: .paper-link title="Paper"}
+[](https://youtu.be/ZB6k_iMJP7M){: .video-link title="Video"}
+[](https://vision-language-kinematics.github.io/){: .external-link title="Project Page"}
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image' markdown="1">
 *SIGGRAPH 2026*{:.badge} ![](projects/MUSIC/thumb.png)
 </div>
 <div class='paper-box-text' markdown="1">
